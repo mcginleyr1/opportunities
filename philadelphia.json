@@ -3,6 +3,10 @@
     "company": "160over90",
     "url": "http://www.160over90.com/careers/",
     "address": "1 S. Broad St., 10th Floor, Philadelphia, PA 19107",
+    "location": {
+      "lat": 39.951591,
+      "lng": -75.163514
+    },
     "positions": [
       "Account Supervisor",
       "Account Director",
@@ -11,11 +15,34 @@
       "Motion Graphics Designer",
       "Video Editor"
     ]
+ },
+  {
+    "company": "50onRed",
+    "url": "http://50onred.theresumator.com/?utm_source=github",
+    "address": "2929 Arch St, Philadelphia, PA 19104",
+    "location": {
+      "lat": 39.956848137931,
+      "lng": -75.18091562069
+    },
+    "positions": [
+      "Data Scientist",
+      "DevOps Systems Engineer",
+      "Senior Software Engineer",
+      "Marketing and Communications Director",
+      "Head of Product Development",
+      "UX Designer",
+      "Sales Executive",
+      "VP of Sales"
+    ]
   },
   {
     "company": "AboutOne",
     "url": "http://www.aboutone.com/jobs/",
     "address": "26 Raffaela Drive, Malvern, PA 19355",
+    "location": {
+      "lat": 40.039942,
+      "lng": -75.5103515
+    },
     "positions": [
       "SENIOR iOS DEVELOPER",
       "QUALITY ASSURANCE ENGINEER",
@@ -26,12 +53,20 @@
     "company": "Al Día",
     "url": "http://aldianews.com/pages/careers/34548",
     "address": "1835 Market St, Philadelphia, PA 19103",
+    "location": {
+      "lat": 39.9532393469,
+      "lng": -75.1705572449
+    },
     "positions": []
   },
   {
     "company": "Allen & Gerritsen",
     "url": "http://www.a-g.com/careers/",
     "address": "619 Walnut St, Philadelphia, PA 19128",
+    "location": {
+      "lat": 39.9461686667,
+      "lng": -75.15197
+    },
     "positions": [
       "Analytics Manager"
     ]
@@ -40,6 +75,10 @@
     "company": "ApprenNet",
     "url": "http://info.apprennet.com/jobs/",
     "address": "1007 E Abington Ave, Wyndmoor, PA 19038",
+    "location": {
+      "lat": 40.0839338571,
+      "lng": -75.191686898
+    },
     "positions": [
       "Lead QA Engineer"
     ]
@@ -47,7 +86,11 @@
   {
     "company": "Aramark",
     "url": "https://allcareers-aramark.icims.com/jobs/search?ss=1&searchLocation=12781-12822-",
-    "address": "hiladelphia",
+    "address": "Philadelphia",
+    "location": {
+      "lat": 40.07231,
+      "lng": -75.203371
+    },
     "positions": [
       "Graphic Designer Manager - Sales Support"
     ]
@@ -56,6 +99,10 @@
     "company": "Arc Intermedia",
     "url": "http://www.arcintermedia.com/company/careers/",
     "address": "1150 First Ave., Suite 501, King of Prussia, PA 19406",
+    "location": {
+      "lat": 40.0950185455,
+      "lng": -75.4155636667
+    },
     "positions": [
       "Entry/Mid-Level Inbound Marketing Manager Position",
       "Junior Front-end Web Developer/Web Designer",
@@ -69,6 +116,10 @@
     "company": "Arcweb",
     "url": "https://arcweb.co/careers/",
     "address": "234 Market St, Philadelphia, PA 19106",
+    "location": {
+      "lat": 39.950092,
+      "lng": -75.1449277143
+    },
     "positions": [
       "Android Developer",
       "Cloud Operations Engineer",
@@ -83,6 +134,10 @@
     "company": "AWeber Communications",
     "url": "http://www.aweber.jobs/",
     "address": "1100 Manor Drive, Chalfont PA, 18914",
+    "location": {
+      "lat": 40.268983,
+      "lng": -75.222586
+    },
     "positions": [
       "Front End Engineer",
       "Senior Android Engineer",
@@ -95,6 +150,10 @@
     "company": "Azavea",
     "url": "http://jobs.azavea.com/",
     "address": "340 N 12th St, Suite 402, Philadelphia, PA",
+    "location": {
+      "lat": 39.9587179412,
+      "lng": -75.1583954412
+    },
     "positions": [
       "Operations Engineer"
     ]
@@ -103,6 +162,10 @@
     "company": "baseklas",
     "url": "http://baseklas.com/jobs/",
     "address": "128 Chestnut Street, Suite 304, Philadelphia PA 19106",
+    "location": {
+      "lat": 39.948286125,
+      "lng": -75.143379125
+    },
     "positions": [
       "Groovy designer needed!"
     ]
@@ -111,6 +174,10 @@
     "company": "Billy Penn",
     "url": "https://billypenn.com/jobs/",
     "address": "15th, 30 S 15th St, Philadelphia, PA 19102",
+    "location": {
+      "lat": 39.949553,
+      "lng": -75.165939
+    },
     "positions": [
       "Freelance Developers"
     ]
@@ -119,12 +186,20 @@
     "company": "Biomeme, Inc.",
     "url": "http://www.biomeme.com/",
     "address": "2025 Washington Avenue",
+    "location": {
+      "lat": 39.9390814898,
+      "lng": -75.1767853469
+    },
     "positions": []
   },
   {
     "company": "Bluecadet",
     "url": "http://www.bluecadet.com/contact/careers/",
     "address": "1011 N Hancock st, Philadelphia PA 19123",
+    "location": {
+      "lat": 39.965753,
+      "lng": -75.1392843333
+    },
     "positions": [
       "iOS Developer",
       "Creative Developer",
@@ -135,7 +210,11 @@
   {
     "company": "Boomi",
     "url": "http://www.boomi.com/company/careers",
-    "address": "",
+    "address": "801 Cassatt Road Suite 111 Berwyn, PA 19312",
+    "location": {
+      "lat": 40.062366,
+      "lng": -75.456169
+    },
     "positions": [
       "Software Develoment Engineer",
       "Software Engineer Director",
@@ -148,6 +227,10 @@
     "company": "BresslerGroup",
     "url": "http://www.bresslergroup.com/about/#jobs",
     "address": "7th floor, 1216 Arch St, Philadelphia, PA 19107",
+    "location": {
+      "lat": 39.951735,
+      "lng": -75.158654
+    },
     "positions": [
       "Senior Product Development Engineer",
       "Interaction Designer",
@@ -159,6 +242,10 @@
     "company": "BrickSimple LLC",
     "url": "http://bricksimple.com/",
     "address": "22 S Main St, Doylestown, PA 18901",
+    "location": {
+      "lat": 40.309501,
+      "lng": -75.1301983333
+    },
     "positions": [
       "Senior iOS Developer",
       "Senior Android Developer"
@@ -168,12 +255,20 @@
     "company": "Brolik",
     "url": "http://brolik.com/careers",
     "address": "421 N. 7th St., Suite 701, Philadelphia PA 19123",
+    "location": {
+      "lat": 39.9591977619,
+      "lng": -75.1502415238
+    },
     "positions": []
   },
   {
     "company": "BuLogics",
     "url": "http://bulogics.com/about-us/jobs/",
     "address": "3721 Midvale Ave, Philadelphia, PA 19129",
+    "location": {
+      "lat": 40.00971845,
+      "lng": -75.19331115
+    },
     "positions": [
       "Lead Firmware Engineer",
       "Firmware Developer",
@@ -184,6 +279,10 @@
     "company": "CardConnect",
     "url": "https://www.cardconnect.com/contact/job-openings/",
     "address": "1000 Continental Dr Suite 600, King of Prussia, PA 19406",
+    "location": {
+      "lat": 40.081367,
+      "lng": -75.399611
+    },
     "positions": [
       "SAP ERP Developer",
       "Technical Project Manager",
@@ -196,8 +295,12 @@
   },
   {
     "company": "Chariot Solutions",
-    "url": "515 Pennsylvania Ave #202, Fort Washington, PA 19034",
-    "address": "http://chariotsolutions.com/who-we-are/careers/",
+    "url": "http://chariotsolutions.com/who-we-are/careers/",
+    "address": "515 Pennsylvania Ave #202, Fort Washington, PA 19034",
+    "location": {
+      "lat": 40.134146,
+      "lng": -75.2061795
+    },
     "positions": [
       "Scala Developers",
       "Sr. Java/Spring Developers",
@@ -207,19 +310,31 @@
   {
     "company": "ChatterBlast Media",
     "url": "http://chatterblast.com/careers/",
-    "address": "",
+    "address": "1315 Walnut Street, Suite 800, Philadelphia, PA 19107",
+    "location": {
+      "lat": 39.9491672,
+      "lng": -75.1628294
+    },
     "positions": []
   },
   {
     "company": "Circulate",
     "url": "http://www.circulate.com/jobs/index.html",
     "address": "200 S. Broad Street, Suite 915",
+    "location": {
+      "lat": 39.949345,
+      "lng": -75.164338
+    },
     "positions": []
   },
   {
     "company": "Cloudamize",
     "url": "http://www.cloudamize.com/careers/",
     "address": "1735 Market St Suite 2502",
+    "location": {
+      "lat": 39.9530423469,
+      "lng": -75.1689862653
+    },
     "positions": [
       "Solutions Engineer",
       "Full Stack Software Engineer – Java",
@@ -230,6 +345,10 @@
     "company": "CloudMine",
     "url": "https://jobs.lever.co/cloudmine",
     "address": "1315 Walnut Street, Philadelphia PA, 19107",
+    "location": {
+      "lat": 39.9491672,
+      "lng": -75.1628294
+    },
     "positions": [
       "Senior Interaction Designer"
     ]
@@ -237,7 +356,11 @@
   {
     "company": "Club OS",
     "url": "https://angel.co/club-os/jobs",
-    "address": "",
+    "address": "1650 Arch St, #1906, Philadelphia, PA 19103",
+    "location": {
+      "lat": 39.9549139592,
+      "lng": -75.1671930612
+    },
     "positions": [
       "Senior Java Sofware Engineer",
       "Front End Web Developer",
@@ -248,6 +371,10 @@
     "company": "Clutch",
     "url": "https://www.clutch.com/careers/",
     "address": "201 S Maple St #250, Ambler, PA 19002",
+    "location": {
+      "lat": 40.1561585849,
+      "lng": -75.2278333396
+    },
     "positions": [
       "SENIOR DATA SCIENTIST",
       "PRODUCT MANAGER"
@@ -257,6 +384,10 @@
     "company": "Curalate",
     "url": "https://boards.greenhouse.io/curalate#.VkAHsa6rRE5",
     "address": "2401 Walnut St #502, Philadelphia, PA 19103",
+    "location": {
+      "lat": 39.95124,
+      "lng": -75.179508
+    },
     "positions": [
       "Product Manager",
       "UX Designer",
@@ -269,6 +400,10 @@
     "company": "D4 Creative Group",
     "url": "http://www.d4creative.com/careers",
     "address": "4646 Umbria Street",
+    "location": {
+      "lat": 40.0305332308,
+      "lng": -75.2300390769
+    },
     "positions": [
       "Copywriter",
       "Designer",
@@ -281,6 +416,10 @@
     "company": "Delphic Digital",
     "url": "http://www.delphicdigital.com/about/careers/open-positions",
     "address": "116 Shurs Lane, 2nd Floor, Philadelphia, PA 19127",
+    "location": {
+      "lat": 40.022712,
+      "lng": -75.217571
+    },
     "positions": [
       "Technical Project Manager",
       "Quality Assurance (QA) & Digital Production Manager",
@@ -303,6 +442,10 @@
     "company": "DramaFever",
     "url": "http://www.dramafever.com/company/careers.html",
     "address": "1717 Arch St, Suite 601, Philadelphia, PA",
+    "location": {
+      "lat": 39.9546511633,
+      "lng": -75.1650889796
+    },
     "positions": [
       "Android Developer",
       "iOS Developer",
@@ -312,7 +455,11 @@
   {
     "company": "Dronecast",
     "url": "http://www.dronecast.com/careers/",
-    "address": "",
+    "address": "1700 Market Street, Suite 1005, Philadelphia PA",
+    "location": {
+      "lat": 39.952974,
+      "lng": -75.168444
+    },
     "positions": [
       "Graphic Designe",
       "IOS Developer",
@@ -323,6 +470,10 @@
     "company": "Eastern Standard",
     "url": "http://easternstandard.com/pages/careers",
     "address": "261 Old York Rd. Suite 617 Jenkintown, PA 19046",
+    "location": {
+      "lat": 40.093339,
+      "lng": -75.125276
+    },
     "positions": [
       "DIGITAL MARKETING COORDINATOR",
       "DEVELOPER"
@@ -332,12 +483,20 @@
     "company": "Economy League of Greater Philadelphia",
     "url": "http://economyleague.org/about-us/join-our-team",
     "address": "230 S Broad St, Philadelphia PA 19102",
+    "location": {
+      "lat": 39.94878,
+      "lng": -75.1644585
+    },
     "positions": []
   },
   {
     "company": "eMoney Advisor",
     "url": "http://emoneyadvisor.theresumator.com/apply",
     "address": "1001 E Hector St, Conshohocken, PA 19428",
+    "location": {
+      "lat": 40.07517,
+      "lng": -75.289722
+    },
     "positions": [
       "Data Services Support Specialist",
       "Salesforce Developer",
@@ -355,6 +514,10 @@
     "company": "EPAM",
     "url": "http://www.epam.com/careers",
     "address": "101 E 8th Ave #201, Conshohocken, PA 19428",
+    "location": {
+      "lat": 40.079189,
+      "lng": -75.299617
+    },
     "positions": [
       "Senior Project Manager",
       "Senior Visual Designer"
@@ -364,12 +527,20 @@
     "company": "Evoke Health",
     "url": "http://www.evokehealth.com/Careers",
     "address": "1 South Broad St., 13th Floor, Philadelphia, PA",
+    "location": {
+      "lat": 39.951591,
+      "lng": -75.163514
+    },
     "positions": []
   },
   {
     "company": "Evolve IP",
     "url": "http://www.evolveip.net/about/careers",
     "address": "989 Old Eagle School Rd, Wayne, PA 19087",
+    "location": {
+      "lat": 40.076770625,
+      "lng": -75.41092975
+    },
     "positions": [
       "Project Manager",
       "Platform Engineer, Cloud Computing"
@@ -379,6 +550,10 @@
     "company": "Fynydd",
     "url": "https://fynydd.com/careers/",
     "address": "630 Freedom Business Center Drive, King of Prussia, PA 19406",
+    "location": {
+      "lat": 40.0922677347,
+      "lng": -75.4162122857
+    },
     "positions": [
       "Senior Developer"
     ]
@@ -387,6 +562,10 @@
     "company": "Garfield Group",
     "url": "http://garfieldgroup.com/careers",
     "address": "60 Blacksmith Road, Newtown PA 18940",
+    "location": {
+      "lat": 40.222709625,
+      "lng": -74.915183875
+    },
     "positions": [
       "Copywriter",
       "Art Director",
@@ -397,6 +576,10 @@
     "company": "GatherDocs",
     "url": "http://jobs.gatherdocs.com/",
     "address": "4040 Locust St, Philadelphia, PA 19104",
+    "location": {
+      "lat": 39.9531008333,
+      "lng": -75.2038928333
+    },
     "positions": [
       "PHP Web Developer",
       "User Interface Developer / Designer",
@@ -416,6 +599,10 @@
     "company": "Graphene Frontiers",
     "url": "http://graphenefrontiers.com/careers/",
     "address": "3624 Market St. FL 5th, Philadelphia, PA 19104",
+    "location": {
+      "lat": 39.9562402245,
+      "lng": -75.1946339592
+    },
     "positions": [
       "Biosensor Research and Development Technician",
       "Database Developer / Programmer",
@@ -426,6 +613,10 @@
     "company": "Here's My Chance",
     "url": "http://heresmychance.com/careers/",
     "address": "121 S. 13th Street 4th Floor Philadelphia, PA 19107",
+    "location": {
+      "lat": 39.949836,
+      "lng": -75.161949
+    },
     "positions": [
       "Copywriter",
       "Freelance Designer"
@@ -435,6 +626,10 @@
     "company": "InstaMed",
     "url": "http://www.instamed.com/about/careers/",
     "address": "1880 JFK Boulevard  12th floor, Philadelphia, PA 19103",
+    "location": {
+      "lat": 39.952896,
+      "lng": -75.174298
+    },
     "positions": [
       "Information Systems – Senior Analyst/Manager",
       "Product Management – Manager",
@@ -445,6 +640,10 @@
     "company": "Intuitive Company",
     "url": "http://intuitivecompany.com/careers/",
     "address": "3 Rector Street, Philadelphia PA, 19127",
+    "location": {
+      "lat": 40.0241577959,
+      "lng": -75.2220595102
+    },
     "positions": [
       "User Experience Researcher",
       "Program Delivery Manager"
@@ -454,6 +653,10 @@
     "company": "Inverse Paradox",
     "url": "https://www.inverseparadox.com/careers/",
     "address": "133 Bellevue Ave., Penndel, PA 19047",
+    "location": {
+      "lat": 40.1584053469,
+      "lng": -74.9120337959
+    },
     "positions": [
       "PHP Developer – Magento",
       "WordPress Developer"
@@ -463,6 +666,10 @@
     "company": "LeadiD",
     "url": "http://www.leadid.com/about-us/join-our-team/open-positions",
     "address": "201 S Maple St, Ambler, PA, 19002",
+     "location": {
+      "lat": 40.1561585849,
+      "lng": -75.2278333396
+    },
     "positions": [
       "Manager/Director - DevOps",
       "Senior Software Engineer",
@@ -473,6 +680,10 @@
     "company": "Leadnomics",
     "url": "http://www.leadnomics.com/careers/",
     "address": "2929 Arch St, Philadelphia, PA 19104",
+    "location": {
+      "lat": 39.9568481379,
+      "lng": -75.1809156207
+    },
     "positions": [
       "Associate Software Engineer",
       "Software Engineer (node.js, java, php, aws)"
@@ -482,6 +693,10 @@
     "company": "LevelUp",
     "url": "https://www.thelevelup.com/jobs",
     "address": "1628 JFK Blvd., Philadelphia, PA",
+    "location": {
+      "lat": 40.214982,
+      "lng": -75.265441
+    },
     "positions": [
       ".NET Software Engineer",
       "Ruby on Rails Developer",
@@ -495,7 +710,11 @@
   {
     "company": "Medecision",
     "url": "https://careers-medecision.icims.com/jobs/intro?hashed=-435743548",
-    "address": "550 E Swedesford Rd #220, Wayne, PA 19087 (OR REMOTE)",
+    "address": "550 E Swedesford Rd #220, Wayne, PA 19087",
+    "location": {
+      "lat": 40.0755407626,
+      "lng": -75.4241920791
+    },
     "positions": [
       "Director, Data Management",
       "Program Manager",
@@ -507,6 +726,10 @@
     "company": "MeetMe",
     "url": "http://www.meetme.com/apps/careers#careers-position",
     "address": "100 Union Square Drive, New Hope, PA",
+    "location": {
+      "lat": 40.314,
+      "lng": -75.131903
+    },
     "positions": [
       "Software Architect, API New Hope, PA, United States",
       "Sr. Android Engineer / Architect New Hope, PA, United States",
@@ -520,6 +743,10 @@
     "company": "MentorTech Ventures",
     "url": "http://www.mentortechventures.com/jobs",
     "address": "3624 Market Street, Suite 300, Philadelphia, PA",
+    "location": {
+      "lat": 39.9562402245,
+      "lng": -75.1946339592
+    },
     "positions": [
       "iOS Developer",
       "Ruby Developer",
@@ -532,12 +759,20 @@
     "company": "Metropolitan Acoustics",
     "url": "http://metro-acoustics.com/careers",
     "address": "40 West Evergreen Avenue Suite 108, Philadelphia, PA 19118",
+    "location": {
+      "lat": 40.0759209111,
+      "lng": -75.2081357556
+    },
     "positions": []
   },
   {
     "company": "MOD Worldwide",
     "url": "http://www.modworldwide.com/creative.html",
-    "address": "http://www.modworldwide.com/web.html",
+    "address": "121 S Broad St, Philadelphia, PA 19107",
+    "location": {
+      "lat": 39.950696,
+      "lng": -75.1638900816
+    },
     "positions": [
       "GRAPHIC DESIGNER",
       "COPYWRITER",
@@ -552,6 +787,10 @@
     "company": "Momentum Dynamics",
     "url": "http://www.momentumdynamics.com/momentum-dynamics.html#careers",
     "address": "3 Pennsylvania Avenue, Malvern, PA 19355",
+    "location": {
+      "lat": 40.0374198571,
+      "lng": -75.5168733857
+    },
     "positions": [
       "Embedded Software Engineers"
     ]
@@ -560,6 +799,10 @@
     "company": "Monetate, Inc.",
     "url": "http://www.monetate.com/about/careers/#open-positions",
     "address": "951 E. Hector Street, Conshohocken PA 19428",
+    "location": {
+      "lat": 40.0750470612,
+      "lng": -75.2904890204
+    },
     "positions": [
       "Web Developer",
       "Product Manager"
@@ -569,6 +812,10 @@
     "company": "Morgan Lewis",
     "url": "https://sjobs.brassring.com/TGWebHost/home.aspx?partnerid=25936&siteid=5172",
     "address": "1701 Market St Philadelphia",
+    "location": {
+      "lat": 39.952974,
+      "lng": -75.168444
+    },
     "positions": [
       "640BR Manager of IT Infrastructure Engineering",
       "630BR Director of Application Development",
@@ -580,12 +827,20 @@
     "company": "Municibid",
     "url": "https://municibid.com/jobs/",
     "address": "200 Barr Harbor Drive Suite 4, Conshohocken, PA 19428",
+    "location": {
+      "lat": 40.085953,
+      "lng": -75.115217
+    },
     "positions": []
   },
   {
     "company": "Nasdaq OMX",
     "url": "https://careersus-nasdaq.icims.com/jobs/search?ss=1&searchLocation=12781-12822-philadelphia",
-    "address": "1900 Market St,Philadelphia, pa",
+    "address": "1900 Market St,Philadelphia, PA",
+    "location": {
+      "lat": 39.953368,
+      "lng": -75.171593
+    },
     "positions": [
       "Product Management Sr Spec",
       "Project Manager US Equities Group"
@@ -595,12 +850,20 @@
     "company": "National Constitution Center",
     "url": "http://constitutioncenter.org/about/careers/paid-positions/",
     "address": "Independence Mall 525 Arch Street, Philadelphia, PA 19106",
+    "location": {
+      "lat": 39.950063,
+      "lng": -75.149022
+    },
     "positions": []
   },
   {
     "company": "NavigationArts",
     "url": "http://www.navigationarts.com/our-company/careers",
     "address": "125 North 3rd Street, Floor 4",
+    "location": {
+      "lat": 39.9528668,
+      "lng": -75.1450802
+    },
     "positions": [
       "Interactive Visual Designer",
       "Information Architect",
@@ -617,6 +880,10 @@
     "company": "Netplus",
     "url": "http://thinknetplus.com/contact/#netplus-jobs",
     "address": "718 Arch St Suite #400S",
+    "location": {
+      "lat": 39.9529856531,
+      "lng": -75.1518336122
+    },
     "positions": [
       "Web Developer Full-Stack",
       "Interactive Developer",
@@ -627,6 +894,10 @@
     "company": "Nimblelight",
     "url": "http://nimblelight.com/jobs/",
     "address": "4355 Orchard St, Philadelphia PA, 19124",
+    "location": {
+      "lat": 40.0109041224,
+      "lng": -75.0858912041
+    },
     "positions": [
       "Developer"
     ]
@@ -635,6 +906,10 @@
     "company": "O3 World",
     "url": "http://o3world.com/careers/",
     "address": "1000 N. Hancock St. Suite 103 Philadelphia PA, 19123",
+    "location": {
+      "lat": 39.9652262979,
+      "lng": -75.1398402553
+    },
     "positions": [
       "PROJECT MANAGER",
       "LEAD UI / UX DESIGNER",
@@ -648,6 +923,10 @@
     "company": "Offshorent",
     "url": "http://offshorent.com/careers",
     "address": "1000 W. Valley Forge Circle. #110A. King Of Prussia, PA 19406",
+    "location": {
+      "lat": 40.1030152727,
+      "lng": -75.4137162727
+    },
     "positions": [
       "Sr. Java Programmer",
       "PHP zend developer",
@@ -659,12 +938,20 @@
     "company": "PCS Trac",
     "url": "http://www.pcstrac.com/#!careers/cuev",
     "address": "4250 Wissahickon Ave, Philadelphia, PA 19129",
+    "location": {
+      "lat": 40.0149365556,
+      "lng": -75.1698068384
+    },
     "positions": []
   },
   {
     "company": "Pedrera Philadelphia Web Development",
     "url": "http://pedrera.com/about-us/careers",
     "address": "100 Mechanics Street, Doylestown, PA 18901",
+     "location": {
+      "lat": 40.3136617818,
+      "lng": -75.1289168909
+    },
     "positions": [
       "Web Developer"
     ]
@@ -673,18 +960,30 @@
     "company": "PeopleLinx",
     "url": "http://peoplelinx.com/careers/",
     "address": "1835 Market Street, Philadelphia, PA 19103",
+    "location": {
+      "lat": 39.9532393469,
+      "lng": -75.1705572449
+    },
     "positions": []
   },
   {
     "company": "Philadelphia Convention & Visitors Bureau PHLCVB",
     "url": "http://www.discoverphl.com/about-PHLCVB/employment/",
     "address": "1700 Market St., Suite 3000 Philadelphia, PA 19103",
+    "location": {
+      "lat": 39.952974,
+      "lng": -75.168444
+    },
     "positions": []
   },
   {
     "company": "Philly Marketing Labs",
     "url": "http://www.phillymarketinglabs.com/join-our-team/",
     "address": "224 Lansdowne Ave, Wayne, PA 19087",
+     "location": {
+      "lat": 40.040375898,
+      "lng": -75.3892247755
+    },
     "positions": [
       "Web Marketing Project Manager"
     ]
@@ -693,6 +992,10 @@
     "company": "PipelineDeals",
     "url": "https://www.pipelinedeals.com/careers",
     "address": "565 E. Swedesford Road, Suite 206, Wayne, PA 19087",
+    "location": {
+      "lat": 40.076011027,
+      "lng": -75.4230364054
+    },
     "positions": [
       "Senior Product Manager",
       "QA Analyst"
@@ -702,12 +1005,20 @@
     "company": "Plan Management Corp.",
     "url": "http://www.optiontrax.com/about-us/working-here/",
     "address": "44 W. Lancaster Ave, Suite 145, Ardmore PA, 19003",
+    "location": {
+      "lat": 40.0086664118,
+      "lng": -75.2925611765
+    },
     "positions": []
   },
   {
     "company": "Plum Analytics",
     "url": "http://plumanalytics.com/about/careers/",
     "address": "808 Firethorn Circle, Dresher PA 19025",
+     "location": {
+      "lat": 40.1518441224,
+      "lng": -75.1554711633
+    },
     "positions": [
       "Senior Engineer / Architect (Big Data)",
       "Mid-Level Engineer (Data Acquisition)",
@@ -718,6 +1029,10 @@
     "company": "PromptWorks",
     "url": "http://www.promptworks.com/jobs/",
     "address": "1211 Chestnut St, Suite 400, Philadelphia PA, 19107",
+    "location": {
+      "lat": 39.9504152041,
+      "lng": -75.1603696122
+    },
     "positions": [
       "Senior Software Engineer",
       "Software Engineer",
@@ -728,6 +1043,10 @@
     "company": "Pulsar Informatics",
     "url": "http://www.pulsarinformatics.com/about.html#anchor_positions",
     "address": "3401 Market Street, Philadelphia, PA 19104",
+    "location": {
+      "lat": 39.955843,
+      "lng": -75.191464
+    },
     "positions": [
       "Senior Software Developer"
     ]
@@ -736,6 +1055,10 @@
     "company": "P'unk Avenue",
     "url": "http://punkave.com/connect",
     "address": "1168 E. Passyunk Avenue Philadelphia, PA 19147",
+    "location": {
+      "lat": 39.9345045143,
+      "lng": -75.1578163143
+    },
     "positions": [
       "Designer"
     ]
@@ -744,6 +1067,10 @@
     "company": "Push10 Design",
     "url": "http://www.push10.com/blog/",
     "address": "125 NORTH 3RD ST, PHILA. PA 19106",
+     "location": {
+      "lat": 39.9528668,
+      "lng": -75.1450802
+    },
     "positions": [
       "WordPress Developer"
     ]
@@ -752,12 +1079,20 @@
     "company": "Razorfish Health",
     "url": "http://www.publicishealthcare.com/en/careers/applyForJobs.aspx",
     "address": "100 Penn Square East, Philadelphia, PA 19107",
+    "location": {
+      "lat": 39.94491,
+      "lng": -75.159786
+    },
     "positions": []
   },
   {
     "company": "RDA Corp",
     "url": "http://rdacorp.com/en/Careers/Current%20Openings",
     "address": "101 Lindenwood Drive Suite 225 Malvern, PA 19355",
+    "location": {
+      "lat": 40.049973,
+      "lng": -75.528712
+    },
     "positions": [
       "SharePoint Contractor",
       "Sitecore Developer",
@@ -771,6 +1106,10 @@
     "company": "Red Tettemer O'Connell + Partners",
     "url": "http://www.rtop.com/contact/",
     "address": "1 S. Broad, 24th Floor, Philadelphia, PA",
+    "location": {
+      "lat": 40.241562,
+      "lng": -75.283746
+    },
     "positions": [
       "APP DEVELOPER"
     ]
@@ -779,6 +1118,10 @@
     "company": "Relay",
     "url": "http://www.relaynetwork.com/careers/",
     "address": "201 king of prussia rd radnor pa 19087",
+    "location": {
+      "lat": 40.081206,
+      "lng": -75.388683
+    },
     "positions": [
       "Senior Client Project Manager",
       "Software Engineer"
@@ -788,6 +1131,10 @@
     "company": "Revzilla",
     "url": "http://www.revzilla.com/careers",
     "address": "4020 S 26th St, Philadelphia, PA 19112",
+    "location": {
+      "lat": 39.936679,
+      "lng": -75.187326
+    },
     "positions": [
       "Web Developer",
       "Technical Project Manager",
@@ -798,6 +1145,10 @@
     "company": "RightAction",
     "url": "http://rightaction.theresumator.com/",
     "address": "2929 Arch St, Philadelphia, PA 19104",
+    "location": {
+      "lat": 39.9568481379,
+      "lng": -75.1809156207
+    },
     "positions": [
       "Software Engineer, Java",
       "Software Engineer, Java + Ruby"
@@ -805,8 +1156,12 @@
   },
   {
     "company": "RJMetrics",
-    "url": "1339 Chestnut Street Suite 1500 Philadelphia PA, 19107",
-    "address": "",
+    "url": "https://rjmetrics.com/jobs/",
+    "address": "1339 Chestnut Street Suite 1500 Philadelphia PA, 19107",
+    "location": {
+      "lat": 39.9507376667,
+      "lng": -75.1629786667
+    },
     "positions": [
       "Director of Infrmation Security",
       "Security Engineer",
@@ -818,6 +1173,10 @@
     "company": "roundCorner",
     "url": "http://www.roundcorner.com/job-postings/",
     "address": "16 E. Lancaster Ave, Ardmore, PA 19003",
+    "location": {
+      "lat": 40.0074736667,
+      "lng": -75.2902143333
+    },
     "positions": [
       "Data Architect",
       "Data Migration Specialist",
@@ -828,6 +1187,10 @@
     "company": "Savana, Inc.",
     "url": "http://savanainc.com/company/careers/",
     "address": "920 Cassatt Road, Suite 220, Berwyn, PA 19312",
+    "location": {
+      "lat": 40.06229052,
+      "lng": -75.45604168
+    },
     "positions": [
       "Software Developer"
     ]
@@ -836,12 +1199,20 @@
     "company": "SEER Interactive",
     "url": "http://www.seerinteractive.com/careers/",
     "address": "1033 N 2nd Street, Philadelphia, PA",
+    "location": {
+      "lat": 39.9672323333,
+      "lng": -75.1400423333
+    },
     "positions": []
   },
   {
     "company": "Sidecar",
     "url": "https://hello.getsidecar.com/careers-listing/",
     "address": "114 S. 13th Street, 3rd Floor, Philadelphia, PA 19107",
+    "location": {
+      "lat": 39.949836,
+      "lng": -75.161949
+    },
     "positions": [
       "Client Service Operations Manager",
       "Data Scientist",
@@ -852,7 +1223,11 @@
   {
     "company": "SnipSnap",
     "url": "http://www.snipsnap.it/snipsnap-jobs/",
-    "address": "c/o Venturef0rth, 2nd Floor, 417 North 8th Street, Philadelphia PA 19123",
+    "address": "109 South 13th Street, Philadelphia, PA 19107",
+    "location": {
+      "lat": 39.950196,
+      "lng": -75.161868
+    },
     "positions": [
       "Product Designer (Android)"
     ]
@@ -861,6 +1236,10 @@
     "company": "SpectiCast",
     "url": "http://www.specticast.com/en/contents/careers",
     "address": "210 West Rittenhouse Square, Suite 400, Philadelphia, PA 19103",
+    "location": {
+      "lat": 39.9500479286,
+      "lng": -75.1728245
+    },
     "positions": []
   },
   {
@@ -878,12 +1257,20 @@
     "company": "Technically Media",
     "url": "http://technicallymedia.com/careers",
     "address": "4040 Locust Street, Philadelphia, Pa.",
+    "location": {
+      "lat": 39.9531008333,
+      "lng": -75.2038928333
+    },
     "positions": []
   },
   {
     "company": "Think Brownstone",
     "url": "https://www.thinkbrownstone.com/careers/",
     "address": "201 Fayette St, Conshohocken, PA 19428",
+    "location": {
+      "lat": 40.074711,
+      "lng": -75.305449
+    },
     "positions": [
       "Development Lead",
       "Senior Web Developer",
@@ -895,6 +1282,10 @@
     "company": "Thomson Reuters",
     "url": "https://toc.taleo.net/careersection/advanced_search/moresearch.tl?keyword=Philadelphia",
     "address": "1500 Spring Garen Street, Philadelphia, PA 19130",
+    "location": {
+      "lat": 39.962595,
+      "lng": -75.163112
+    },
     "positions": [
       "Senior Program Manager",
       "Technology Consultant",
@@ -907,6 +1298,10 @@
     "company": "Thoughtbot",
     "url": "https://thoughtbot.com/jobs",
     "address": "2401 Walnut St, Suite 102, Philadelphia, PA 19103",
+    "location": {
+      "lat": 39.95124,
+      "lng": -75.179508
+    },
     "positions": [
       "Development Director, Mobile",
       "iOS Developer"
@@ -916,12 +1311,20 @@
     "company": "TicketLeap",
     "url": "http://ticketleap.theresumator.com/",
     "address": "2401 Walnut Street, Suite 502, Philadelphia, PA 19103",
+    "location": {
+      "lat": 39.95124,
+      "lng": -75.179508
+    },
     "positions": []
   },
   {
     "company": "Tonic Design Co",
     "url": "http://www.tonicdesign.com/jobs/",
     "address": "201 S State St; Suite 2B Newtown PA 18940",
+    "location": {
+      "lat": 40.226642,
+      "lng": -74.937063
+    },
     "positions": [
       "Experience Design Lead",
       "Mobile Developers - Android & iOS",
@@ -933,6 +1336,10 @@
     "company": "Transmogrify",
     "url": "http://xmog.com/jobs",
     "address": "112 Fayette St., Conshohocken, PA 19428",
+    "location": {
+      "lat": 40.0739984286,
+      "lng": -75.306129102
+    },
     "positions": [
       "Front-End / UI Developer",
       "iOS Developer"
@@ -942,6 +1349,10 @@
     "company": "Velora Studios",
     "url": "http://www.velorastudios.com/jobs",
     "address": "Philadelphia",
+    "location": {
+      "lat": 40.07231,
+      "lng": -75.203371
+    },
     "positions": [
       "Ruby on Rails Lead Programmer",
       "Web Developer",
@@ -952,6 +1363,10 @@
     "company": "Vistar Media",
     "url": "http://www.vistarmedia.com/careers",
     "address": "332 S Smedley St, Philadelphia, PA 19103",
+    "location": {
+      "lat": 39.9471276977,
+      "lng": -75.1686654651
+    },
     "positions": [
       "Software Engineer"
     ]
@@ -960,6 +1375,10 @@
     "company": "WebLinc LLC",
     "url": "http://www.weblinc.com/company/careers/",
     "address": "22 South 3rd Street Second Floor Philadelphia, PA 19106",
+    "location": {
+      "lat": 39.9497525,
+      "lng": -75.1457715
+    },
     "positions": [
       "Quality Assurance Manager",
       "Ruby On Rails Developer",
@@ -970,6 +1389,10 @@
     "company": "Wildbit",
     "url": "http://wildbit.com/jobs",
     "address": "20 N 3rd St Philadelphia PA 19106",
+    "location": {
+      "lat": 39.9505591429,
+      "lng": -75.1455902857
+    },
     "positions": [
       "Senior C# Developer",
       "Quality Assurance Engineer"
@@ -979,12 +1402,20 @@
     "company": "The Wilson Concept",
     "url": "http://thewilsonconcept.com/careers/",
     "address": "109 South 13th Street, Philadelphia PA 19107",
+    "location": {
+      "lat": 39.950196,
+      "lng": -75.161868
+    },
     "positions": []
   },
   {
     "company": "Wingspan Technology",
     "url": "http://www.wingspan.com/career_open_positions/",
     "address": "460 Norristown Road Suite 200, Blue Bell, PA 19422",
+    "location": {
+      "lat": 40.133626,
+      "lng": -75.255467
+    },
     "positions": [
       "Software Engineer (All Levels)",
       "DevOps Engineer"
@@ -994,6 +1425,10 @@
     "company": "Zivtech",
     "url": "https://www.zivtech.com/about/employment",
     "address": "The Philadelphia Building 1315 Walnut St, Suite 1500, Philadelphia, PA, 19107",
+    "location": {
+      "lat": 39.9491672,
+      "lng": -75.1628294
+    },
     "positions": [
       "Drupal Developers and Themers"
     ]
@@ -1013,8 +1448,11 @@
     "company": "Zonoff",
     "url": "https://zonoff.com/our-story/careers/",
     "address": "70 E. Swedesford Rd., Suite 120, Malvern, PA 19460",
+    "location": {
+      "lat": 40.051395125,
+      "lng": -75.5336614375
+    },
     "positions": [
-      "Director of Engineering",
       "UI Designer",
       "Cloud Services Developer",
       "DevOps Engineer",
@@ -1029,6 +1467,10 @@
     "company": "Zuppler",
     "url": "http://www.zupplerworks.com/careers.html",
     "address": "730 East Elm St, Suite 200, Conshohocken, PA 19428",
+    "location": {
+      "lat": 40.0738422857,
+      "lng": -75.2935051429
+    },
     "positions": []
   }
 ]
