@@ -13,6 +13,21 @@
     ]
   },
   {
+    "company": "50onRed",
+    "url": "http://50onred.theresumator.com/?utm_source=github",
+    "address": "2929 Arch St, Philadelphia, PA 19104",
+    "positions": [
+      "Data Scientist",
+      "DevOps Systems Engineer",
+      "Senior Software Engineer",
+      "Marketing and Communications Director",
+      "Head of Product Development",
+      "UX Designer",
+      "Sales Executive",
+      "VP of Sales"
+    ]
+  },
+  {
     "company": "AboutOne",
     "url": "http://www.aboutone.com/jobs/",
     "address": "26 Raffaela Drive, Malvern, PA 19355",
