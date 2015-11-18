@@ -196,8 +196,8 @@
   },
   {
     "company": "Chariot Solutions",
-    "url": "515 Pennsylvania Ave #202, Fort Washington, PA 19034",
-    "address": "http://chariotsolutions.com/who-we-are/careers/",
+    "url": "http://chariotsolutions.com/who-we-are/careers/",
+    "address": "515 Pennsylvania Ave #202, Fort Washington, PA 19034",
     "positions": [
       "Scala Developers",
       "Sr. Java/Spring Developers",
