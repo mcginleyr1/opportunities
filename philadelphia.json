@@ -15,6 +15,25 @@
       "Motion Graphics Designer",
       "Video Editor"
     ]
+ },
+  {
+    "company": "50onRed",
+    "url": "http://50onred.theresumator.com/?utm_source=github",
+    "address": "2929 Arch St, Philadelphia, PA 19104",
+    "location": {
+      "lat": 39.956848137931,
+      "lng": -75.18091562069
+    },
+    "positions": [
+      "Data Scientist",
+      "DevOps Systems Engineer",
+      "Senior Software Engineer",
+      "Marketing and Communications Director",
+      "Head of Product Development",
+      "UX Designer",
+      "Sales Executive",
+      "VP of Sales"
+    ]
   },
   {
     "company": "AboutOne",
@@ -191,7 +210,11 @@
   {
     "company": "Boomi",
     "url": "http://www.boomi.com/company/careers",
-    "address": "",
+    "address": "801 Cassatt Road Suite 111 Berwyn, PA 19312",
+    "location": {
+      "lat": 40.062366,
+      "lng": -75.456169
+    },
     "positions": [
       "Software Develoment Engineer",
       "Software Engineer Director",
@@ -287,7 +310,11 @@
   {
     "company": "ChatterBlast Media",
     "url": "http://chatterblast.com/careers/",
-    "address": "",
+    "address": "1315 Walnut Street, Suite 800, Philadelphia, PA 19107",
+    "location": {
+      "lat": 39.9491672,
+      "lng": -75.1628294
+    },
     "positions": []
   },
   {
@@ -329,7 +356,11 @@
   {
     "company": "Club OS",
     "url": "https://angel.co/club-os/jobs",
-    "address": "",
+    "address": "1650 Arch St, #1906, Philadelphia, PA 19103",
+    "location": {
+      "lat": 39.9549139592,
+      "lng": -75.1671930612
+    },
     "positions": [
       "Senior Java Sofware Engineer",
       "Front End Web Developer",
@@ -415,7 +446,11 @@
   {
     "company": "Dronecast",
     "url": "http://www.dronecast.com/careers/",
-    "address": "",
+    "address": "1700 Market Street, Suite 1005, Philadelphia PA",
+    "location": {
+      "lat": 39.952974,
+      "lng": -75.168444
+    },
     "positions": [
       "Graphic Designe",
       "IOS Developer",
@@ -666,7 +701,7 @@
   {
     "company": "Medecision",
     "url": "https://careers-medecision.icims.com/jobs/intro?hashed=-435743548",
-    "address": "550 E Swedesford Rd #220, Wayne, PA 19087 (OR REMOTE)",
+    "address": "550 E Swedesford Rd #220, Wayne, PA 19087",
     "location": {
       "lat": 40.0755407626,
       "lng": -75.4241920791
@@ -724,7 +759,11 @@
   {
     "company": "MOD Worldwide",
     "url": "http://www.modworldwide.com/creative.html",
-    "address": "http://www.modworldwide.com/web.html",
+    "address": "121 S Broad St, Philadelphia, PA 19107",
+    "location": {
+      "lat": 39.950696,
+      "lng": -75.1638900816
+    },
     "positions": [
       "GRAPHIC DESIGNER",
       "COPYWRITER",
@@ -788,7 +827,7 @@
   {
     "company": "Nasdaq OMX",
     "url": "https://careersus-nasdaq.icims.com/jobs/search?ss=1&searchLocation=12781-12822-philadelphia",
-    "address": "1900 Market St,Philadelphia, pa",
+    "address": "1900 Market St,Philadelphia, PA",
     "location": {
       "lat": 39.953368,
       "lng": -75.171593
@@ -1108,8 +1147,12 @@
   },
   {
     "company": "RJMetrics",
-    "url": "1339 Chestnut Street Suite 1500 Philadelphia PA, 19107",
-    "address": "",
+    "url": "https://rjmetrics.com/jobs/",
+    "address": "1339 Chestnut Street Suite 1500 Philadelphia PA, 19107",
+    "location": {
+      "lat": 39.9507376667,
+      "lng": -75.1629786667
+    },
     "positions": [
       "Director of Infrmation Security",
       "Security Engineer",
@@ -1171,10 +1214,10 @@
   {
     "company": "SnipSnap",
     "url": "http://www.snipsnap.it/snipsnap-jobs/",
-    "address": "c/o Venturef0rth, 2nd Floor, 417 North 8th Street, Philadelphia PA 19123",
+    "address": "109 South 13th Street, Philadelphia, PA 19107",
     "location": {
-      "lat": 39.964441,
-      "lng": -75.145526
+      "lat": 39.950196,
+      "lng": -75.161868
     },
     "positions": [
       "Product Designer (Android)"
@@ -1373,11 +1416,11 @@
     "company": "Zivtech",
     "url": "https://www.zivtech.com/about/employment",
     "address": "The Philadelphia Building 1315 Walnut St, Suite 1500, Philadelphia, PA, 19107",
-     "location": {
+    "location": {
       "lat": 39.9491672,
       "lng": -75.1628294
     },
-   "positions": [
+    "positions": [
       "Drupal Developers and Themers"
     ]
   },
@@ -1401,7 +1444,6 @@
       "lng": -75.5336614375
     },
     "positions": [
-      "Director of Engineering",
       "UI Designer",
       "Cloud Services Developer",
       "DevOps Engineer",
