@@ -1004,6 +1004,20 @@
     ]
   },
   {
+    "company": "Picwell",
+    "url": "https://careers.picwell.com/",
+    "address": "2200 Arch St Suite 101, Philadelphia PA 19103",
+    "location": {
+      "lat": 39.9558749,
+      "lng": -75.1790956
+    },
+    "positions": [
+      "Software Engineer",
+      "Data Engineer",
+      "Data Scientist"
+    ]
+  },
+  {
     "company": "PipelineDeals",
     "url": "https://www.pipelinedeals.com/careers",
     "address": "565 E. Swedesford Road, Suite 206, Wayne, PA 19087",
