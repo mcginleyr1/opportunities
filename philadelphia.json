@@ -36,6 +36,21 @@
     ]
   },
   {
+    "company": "50onRed",
+    "url": "http://50onred.theresumator.com/?utm_source=github",
+    "address": "2929 Arch St, Philadelphia, PA 19104",
+    "positions": [
+      "Data Scientist",
+      "DevOps Systems Engineer",
+      "Senior Software Engineer",
+      "Marketing and Communications Director",
+      "Head of Product Development",
+      "UX Designer",
+      "Sales Executive",
+      "VP of Sales"
+    ]
+  },
+  {
     "company": "AboutOne",
     "url": "http://www.aboutone.com/jobs/",
     "address": "26 Raffaela Drive, Malvern, PA 19355",
@@ -429,6 +444,15 @@
       "Web Developer / Software Engineer (.NET)"
     ]
   },
+  {
+    "company": "Diagnostic Driving",
+    "contact": { name: "Venk Kandadai", email: "venkkandadai@gmail.com" },
+    "positions": [
+      "VP of Engineering - Leadership+Technical ",
+      "Senior Engineer - Technical-only"
+    ]
+  },
+  }
   {
     "company": "DramaFever",
     "url": "http://www.dramafever.com/company/careers.html",
@@ -977,6 +1001,20 @@
     },
     "positions": [
       "Web Marketing Project Manager"
+    ]
+  },
+  {
+    "company": "Picwell",
+    "url": "https://careers.picwell.com/",
+    "address": "2200 Arch St Suite 101, Philadelphia PA 19103",
+    "location": {
+      "lat": 39.9558749,
+      "lng": -75.1790956
+    },
+    "positions": [
+      "Software Engineer",
+      "Data Engineer",
+      "Data Scientist"
     ]
   },
   {
