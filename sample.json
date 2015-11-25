@@ -1,0 +1,24 @@
+[
+  {
+    "company": "Think Brownstone",
+    "url": "https://www.thinkbrownstone.com/careers/",
+    "address": "201 Fayette St, Conshohocken, PA 19428",
+    "geo": {
+      "latitude": 40.074711,
+      "longitude": -75.305449
+    },
+    "positions": [
+      {
+        "title": "Software Engineer",
+        "baseSalary": {
+          "minPrice": 50000,
+          "maxPrice": 70000,
+          "priceCurrency": "USD"
+        },
+        "employmentType": "Internal",
+        "occupationalCategory": "15-1132.00 Software Developers, Application",
+        "skills": "Rails, JavaScript, Git"
+      }
+    ]
+  }
+]
