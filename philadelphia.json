@@ -431,13 +431,12 @@
   },
   {
     "company": "Diagnostic Driving",
-    "contact": { name: "Venk Kandadai", email: "venkkandadai@gmail.com" },
+    "contact": { "name": "Venk Kandadai", "email": "venkkandadai@gmail.com" },
     "positions": [
       "VP of Engineering - Leadership+Technical ",
       "Senior Engineer - Technical-only"
     ]
   },
-  }
   {
     "company": "DramaFever",
     "url": "http://www.dramafever.com/company/careers.html",
