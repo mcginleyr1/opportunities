@@ -912,7 +912,9 @@
     "company": "InterNACHI",
     "url": "https://internachi.recruitee.com/",
     "positions": [
-      "Senior Web Developer (PHP, MySQL, JS, HTML, CSS)"
+      {
+        "title": "Senior Web Developer (PHP, MySQL, JS, HTML, CSS)"
+      }
     ]
   },
   {
