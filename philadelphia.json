@@ -84,6 +84,21 @@
     ]
   },
   {
+    "company": "AgileTrailblazers",
+    "type": [],
+    "url": "http://www.agiletrailblazers.com/careers/",
+    "address": "630 Freedom Business Center, 3rd Floor, King of Prussia, PA 19406",
+    "geo": {
+      "latitude": 40.092432,
+      "longitude": -75.41177
+    },
+    "positions": [
+      {
+        "title": ""
+      }
+    ]
+  },
+  {
     "company": "Al Día",
     "url": "http://aldianews.com/pages/careers/34548",
     "address": "1835 Market St, Philadelphia, PA 19103",
@@ -163,6 +178,17 @@
         "title": "Umbraco ASP.NET Developer"
       }
     ]
+  },
+  {
+    "company": "Arcisphere Technologies",
+    "type": [],
+    "url": "http://arcisphere.com/careers/",
+    "address": "Silver Lake Executive Campus, 41 University Drive, Suite 400, Newtown, PA 18940",
+    "geo": {
+      "latitude": 40.222927,
+      "longitude": -74.905772
+    },
+    "positions": []
   },
   {
     "company": "Arcweb",
@@ -563,6 +589,30 @@
     ]
   },
   {
+    "company": "Curotec",
+    "type": [],
+    "url": "http://www.curotec.com/about-us/careers/",
+    "address": "101 E 8th Ave, Suite #105, Conshohocken, PA 19428",
+    "geo": {
+      "latitude": 40.078935,
+      "longitude": -75.299649
+    },
+    "positions": [
+      {
+        "title": "Sales and marketing"
+      },
+      {
+        "title": "LAMP stack developer"
+      },
+      {
+        "title": "Project manager"
+      },
+      {
+        "title": "UI Developer"
+      }
+    ]
+  },
+  {
     "company": "D4 Creative Group",
     "url": "http://www.d4creative.com/careers",
     "address": "4646 Umbria Street",
@@ -585,6 +635,36 @@
       },
       {
         "title": "PHP Developer"
+      }
+    ]
+  },
+  {
+    "company": "Deacom, Inc",
+    "type": [],
+    "url": "http://deacom.com/ViewPage/21/deacom-inc-company-careers",
+    "address": "950 West Valley Road, Suite 3000, Wayne, PA 19087",
+    "geo": {
+      "latitude": 40.067907,
+      "longitude": -75.427966
+    },
+    "positions": [
+      {
+        "title": "Inside Sales Rep"
+      },
+      {
+        "title": "Senior ERP Product Specialist"
+      },
+      {
+        "title": "Software Developer"
+      },
+      {
+        "title": "Technical Specialist"
+      },
+      {
+        "title": "Test Engineer"
+      },
+      {
+        "title": "Controller"
       }
     ]
   },
@@ -835,6 +915,21 @@
       },
       {
         "title": "Software Engineer"
+      }
+    ]
+  },
+  {
+    "company": "GoEmerchant",
+    "type": [],
+    "url": "http://www.goemerchant.com/careers.aspx",
+    "address": "1 Mall Drive, Suite 515, Cherry Hill, NJ 08002",
+    "geo": {
+      "latitude": 39.942654,
+      "longitude": -75.025045
+    },
+    "positions": [
+      {
+        "title": "Technical Support Representative"
       }
     ]
   },
@@ -1652,6 +1747,27 @@
       },
       {
         "title": "Software Engineer, Java + Ruby"
+      }
+    ]
+  },
+  {
+    "company": "Rock River Star",
+    "type": [],
+    "url": "http://rockriverstar.com/careers",
+    "address": "202 Corner Ketch Road, Downingtown, PA 19335",
+    "geo": {
+      "latitude": 40.031643,
+      "longitude": -75.750801
+    },
+    "positions": [
+      {
+        "title": "Creative Director"
+      },
+      {
+        "title": "Lead Project Architect"
+      },
+      {
+        "title": "Programmer / Developer"
       }
     ]
   },
