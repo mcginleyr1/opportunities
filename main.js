@@ -9,9 +9,9 @@ $.getJSON( "https://raw.githubusercontent.com/mcelaney/opportunities/master/phil
        console.log(position)
        return position;
     }
-       items.push( "<a href=\"" + val.url + "\">" + "<h1>" + val.company + "</h1>" + "</a>" + 
-	  "<p>" + val.address + "</p>" +
-	  "<p>" + jobs() + "</p>" +
+       items.push( "<a href=\"" + val.url + "\">" + '<h1 class="company">' + val.company + "</h1>" + "</a>" + 
+	  '<p class="address">' + val.address + "</p>" +
+	  '<p class="positions">' + jobs() + "</p>" +
 	  "<br/>" );
   });
  
