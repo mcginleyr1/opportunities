@@ -571,6 +571,60 @@
     ]
   },
   {
+    "company": "Inverse Paradox",
+    "url": "https://www.inverseparadox.com/careers/",
+    "address": "133 Bellevue Ave., Penndel, PA 19047",
+    "geo": {
+      "latitude": 40.1584053469,
+      "longitude": -74.9120337959
+    },
+    "positions": [
+      {
+        "title": "PHP Developer – Magento"
+      },
+      {
+        "title": "WordPress Developer"
+      }
+    ]
+  },
+  {
+    "company": "I-SITE",
+    "url": "http://www.i-site.com/blog",
+    "address": "15 South 3rd St Suite 200, Philadelphia, PA, 19106",
+    "geo": {
+      "latitude": 39.9496157,
+      "longitude": -75.1476798
+    },
+    "positions": [
+      {
+        "title": "Digital Project Manager"
+      },
+      {
+        "title": "Web Development Intern"
+      }
+    ]
+  },
+  {
+    "company": "LeadiD",
+    "url": "http://www.leadid.com/about-us/join-our-team/open-positions",
+    "address": "201 S Maple St, Ambler, PA, 19002",
+    "geo": {
+      "latitude": 40.1561585849,
+      "longitude": -75.2278333396
+    },
+    "positions": [
+      {
+        "title": "Manager/Director - DevOps"
+      },
+      {
+        "title": "Senior Software Engineer"
+      },
+      {
+        "title": "Senior Systems Engineer DevOps"
+      }
+    ]
+  },
+  {
     "company": "Leadnomics",
     "url": "http://www.leadnomics.com/careers/",
     "address": "2929 Arch St, Philadelphia, PA 19104",
@@ -1188,6 +1242,43 @@
         "title": "Quality Assurance Engineer"
       }
     ]
+  },
+  {
+    "company": "The Wilson Concept",
+    "url": "http://thewilsonconcept.com/careers/",
+    "address": "109 South 13th Street, Philadelphia PA 19107",
+    "geo": {
+      "latitude": 39.950196,
+      "longitude": -75.161868
+    },
+    "positions": []
+  },
+  {
+    "company": "Wingspan Technology",
+    "url": "http://www.wingspan.com/career_open_positions/",
+    "address": "460 Norristown Road Suite 200, Blue Bell, PA 19422",
+    "geo": {
+      "latitude": 40.133626,
+      "longitude": -75.255467
+    },
+    "positions": [
+      {
+        "title": "Software Engineer (All Levels)"
+      },
+      {
+        "title": "DevOps Engineer"
+      }
+    ]
+  },
+  {
+    "company": "YIKES Inc",
+    "url": "http://www.yikesinc.com/company/join-team/",
+    "address": "204 East Girard Avenue, Philadelphia, PA, 19125",
+    "geo": {
+      "latitude": 39.968964,
+      "longitude": -75.133331
+    },
+    "positions": []
   },
   {
     "company": "Zivtech",
