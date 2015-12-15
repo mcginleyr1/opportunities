@@ -497,6 +497,23 @@
     ]
   },
   {
+    "company": "GovDelivery",
+    "url": "https://www.govdelivery.com/company/careers/",
+    "address": "Philadelphia, PA",
+    "geo": {
+      "latitude": 39.952584,
+      "longitude": -75.165222
+    },
+    "positions": [
+      {
+        "title": "Front End Develper/Drupal Themer"
+      },
+      {
+        "title": "Senior Developer"
+      }
+    ]
+  },
+  {
     "company": "Graphene Frontiers",
     "url": "http://graphenefrontiers.com/careers/",
     "address": "3624 Market St. FL 5th, Philadelphia, PA 19104",
@@ -571,6 +588,20 @@
     ]
   },
   {
+    "company": "InterNACHI",
+    "url": "https://internachi.recruitee.com/",
+    "address": "Philadelphia, PA",
+    "geo": {
+      "latitude": 39.952584,
+      "longitude": -75.165222
+    },
+    "positions": [
+      {
+        "title": "Senior Web Developer (PHP, MySQL, JS, HTML, CSS)"
+      }
+    ]
+  },
+  {
     "company": "Intuitive Company",
     "url": "http://intuitivecompany.com/careers/",
     "address": "3 Rector Street, Philadelphia PA, 19127",
@@ -601,6 +632,38 @@
       },
       {
         "title": "Software Engineer (node.js, java, php, aws)"
+      }
+    ]
+  },
+  {
+    "company": "LevelUp",
+    "url": "https://www.thelevelup.com/jobs",
+    "address": "1628 JFK Blvd., Philadelphia, PA",
+    "geo": {
+      "latitude": 39.953705,
+      "longitude": -75.167953
+    },
+    "positions": [
+      {
+        "title": ".NET Software Engineer"
+      },
+      {
+        "title": "Ruby on Rails Developer"
+      },
+      {
+        "title": "iOS Developer"
+      },
+      {
+        "title": "Jr iOS Developer"
+      },
+      {
+        "title": "Sr Android Developer"
+      },
+      {
+        "title": "Front End Web Designer/Developer"
+      },
+      {
+        "title": "Embedded Linux Engineer"
       }
     ]
   },
@@ -944,6 +1007,20 @@
       "longitude": -75.159786
     },
     "positions": []
+  },
+  {
+    "company": "Red Tettemer O'Connell + Partners",
+    "url": "http://www.rtop.com/contact/",
+    "address": "1 S. Broad, 24th Floor, Philadelphia, PA",
+    "geo": {
+      "latitude": 39.951199,
+      "longitude": -75.163487
+    },
+    "positions": [
+      {
+        "title": "APP DEVELOPER"
+      }
+    ]
   },
   {
     "company": "Revzilla",

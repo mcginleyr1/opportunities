@@ -437,28 +437,6 @@
     ]
   },
   {
-    "company": "govdelivery",
-    "url": "https://www.govdelivery.com/company/careers/",
-    "address": "",
-    "positions": [
-      {
-        "title": "Front End Develper/Drupal Themer"
-      },
-      {
-        "title": "Senior Developer"
-      }
-    ]
-  },
-  {
-    "company": "InterNACHI",
-    "url": "https://internachi.recruitee.com/",
-    "positions": [
-      {
-        "title": "Senior Web Developer (PHP, MySQL, JS, HTML, CSS)"
-      }
-    ]
-  },
-  {
     "company": "Inverse Paradox",
     "url": "https://www.inverseparadox.com/careers/",
     "address": "133 Bellevue Ave., Penndel, PA 19047",
@@ -492,38 +470,6 @@
       },
       {
         "title": "Senior Systems Engineer DevOps"
-      }
-    ]
-  },
-  {
-    "company": "LevelUp",
-    "url": "https://www.thelevelup.com/jobs",
-    "address": "1628 JFK Blvd., Philadelphia, PA",
-    "geo": {
-      "latitude": 40.214982,
-      "longitude": -75.265441
-    },
-    "positions": [
-      {
-        "title": ".NET Software Engineer"
-      },
-      {
-        "title": "Ruby on Rails Developer"
-      },
-      {
-        "title": "iOS Developer"
-      },
-      {
-        "title": "Jr iOS Developer"
-      },
-      {
-        "title": "Sr Android Developer"
-      },
-      {
-        "title": "Front End Web Designer/Developer"
-      },
-      {
-        "title": "Embedded Linux Engineer"
       }
     ]
   },
@@ -754,20 +700,6 @@
     ]
   },
   {
-    "company": "Red Tettemer O'Connell + Partners",
-    "url": "http://www.rtop.com/contact/",
-    "address": "1 S. Broad, 24th Floor, Philadelphia, PA",
-    "geo": {
-      "latitude": 40.241562,
-      "longitude": -75.283746
-    },
-    "positions": [
-      {
-        "title": "APP DEVELOPER"
-      }
-    ]
-  },
-  {
     "company": "Relay",
     "url": "http://www.relaynetwork.com/careers/",
     "address": "201 king of prussia rd radnor pa 19087",
@@ -976,7 +908,11 @@
   {
     "company": "Zoomi",
     "url": "http://www.zoomiinc.com/jobs/",
-    "address": "PA",
+    "address": "101 Lindenwood Drive, Suite 400, Malvern PA 19355",
+    "geo": {
+      "latitude": 40.050203,
+      "longitude": -75.527085
+    },
     "positions": [
       {
         "title": "ALGORITHM ENGINEER"
