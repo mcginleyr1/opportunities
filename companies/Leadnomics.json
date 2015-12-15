@@ -1,0 +1,17 @@
+{
+  "company": "Leadnomics",
+  "url": "http://www.leadnomics.com/careers/",
+  "address": "2929 Arch St, Philadelphia, PA 19104",
+  "geo": {
+    "latitude": 39.9568481379,
+    "longitude": -75.1809156207
+  },
+  "positions": [
+    {
+      "title": "Associate Software Engineer"
+    },
+    {
+      "title": "Software Engineer (node.js, java, php, aws)"
+    }
+  ]
+}

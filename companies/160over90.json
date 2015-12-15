@@ -1,0 +1,29 @@
+{
+  "company": "160over90",
+  "url": "http://www.160over90.com/careers/",
+  "address": "1 S. Broad St., 10th Floor, Philadelphia, PA 19107",
+  "geo": {
+    "latitude": 39.951591,
+    "longitude": -75.163514
+  },
+  "positions": [
+    {
+      "title": "Account Supervisor"
+    },
+    {
+      "title": "Account Director"
+    },
+    {
+      "title": "Senior Copywriter"
+    },
+    {
+      "title": "Senior Designer"
+    },
+    {
+      "title": "Motion Graphics Designer"
+    },
+    {
+      "title": "Video Editor"
+    }
+  ]
+}

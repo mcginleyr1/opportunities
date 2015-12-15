@@ -1,0 +1,29 @@
+{
+  "company": "Delphic Digital",
+  "url": "http://www.delphicdigital.com/about/careers/open-positions",
+  "address": "116 Shurs Lane, 2nd Floor, Philadelphia, PA 19127",
+  "geo": {
+    "latitude": 40.022712,
+    "longitude": -75.217571
+  },
+  "positions": [
+    {
+      "title": "Technical Project Manager"
+    },
+    {
+      "title": "Quality Assurance (QA) & Digital Production Manager"
+    },
+    {
+      "title": "Senior Solution Architect"
+    },
+    {
+      "title": "Sitecore Web Developer"
+    },
+    {
+      "title": "Technical Lead - Web Development"
+    },
+    {
+      "title": "Web Developer / Software Engineer (.NET)"
+    }
+  ]
+}

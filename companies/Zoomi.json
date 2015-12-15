@@ -1,0 +1,23 @@
+{
+  "company": "Zoomi",
+  "url": "http://www.zoomiinc.com/jobs/",
+  "address": "101 Lindenwood Drive, Suite 400, Malvern PA 19355",
+  "geo": {
+    "latitude": 40.050203,
+    "longitude": -75.527085
+  },
+  "positions": [
+    {
+      "title": "ALGORITHM ENGINEER"
+    },
+    {
+      "title": "SENIOR FRONTEND ENGINEER"
+    },
+    {
+      "title": "SENIOR SERVER BACKEND ENGINEER"
+    },
+    {
+      "title": "SENIOR IOS ENGINEER"
+    }
+  ]
+}

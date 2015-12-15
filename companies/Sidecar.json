@@ -1,0 +1,23 @@
+{
+  "company": "Sidecar",
+  "url": "https://hello.getsidecar.com/careers-listing/",
+  "address": "114 S. 13th Street, 3rd Floor, Philadelphia, PA 19107",
+  "geo": {
+    "latitude": 39.949836,
+    "longitude": -75.161949
+  },
+  "positions": [
+    {
+      "title": "Client Service Operations Manager"
+    },
+    {
+      "title": "Data Scientist"
+    },
+    {
+      "title": "Sr. Front End Engineer"
+    },
+    {
+      "title": "Sr. Product Engineer"
+    }
+  ]
+}

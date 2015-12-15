@@ -1,0 +1,20 @@
+{
+  "company": "roundCorner",
+  "url": "http://www.roundcorner.com/job-postings/",
+  "address": "16 E. Lancaster Ave, Ardmore, PA 19003",
+  "geo": {
+    "latitude": 40.0074736667,
+    "longitude": -75.2902143333
+  },
+  "positions": [
+    {
+      "title": "Data Architect"
+    },
+    {
+      "title": "Data Migration Specialist"
+    },
+    {
+      "title": "Senior Project Manager"
+    }
+  ]
+}

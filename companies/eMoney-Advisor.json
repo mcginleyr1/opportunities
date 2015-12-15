@@ -1,0 +1,41 @@
+{
+  "company": "eMoney Advisor",
+  "url": "http://emoneyadvisor.theresumator.com/apply",
+  "address": "1001 E Hector St, Conshohocken, PA 19428",
+  "geo": {
+    "latitude": 40.07517,
+    "longitude": -75.289722
+  },
+  "positions": [
+    {
+      "title": "Data Services Support Specialist"
+    },
+    {
+      "title": "Salesforce Developer"
+    },
+    {
+      "title": "Senior Systems Administrator"
+    },
+    {
+      "title": "Senior Systems Automation Engineer"
+    },
+    {
+      "title": "Software Engineer"
+    },
+    {
+      "title": "Software Engineer-Data Services"
+    },
+    {
+      "title": "Sr. Windows Systems Administrator"
+    },
+    {
+      "title": "Technical Support Engineer"
+    },
+    {
+      "title": "UX/UI Designer"
+    },
+    {
+      "title": "Web Designer"
+    }
+  ]
+}

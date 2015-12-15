@@ -1,0 +1,23 @@
+{
+  "company": "Morgan Lewis",
+  "url": "https://sjobs.brassring.com/TGWebHost/home.aspx?partnerid=25936&siteid=5172",
+  "address": "1701 Market St Philadelphia",
+  "geo": {
+    "latitude": 39.952974,
+    "longitude": -75.168444
+  },
+  "positions": [
+    {
+      "title": "640BR Manager of IT Infrastructure Engineering"
+    },
+    {
+      "title": "630BR Director of Application Development"
+    },
+    {
+      "title": "628BR User Experience Designer"
+    },
+    {
+      "title": "365BR Business Intelligence Engineer"
+    }
+  ]
+}

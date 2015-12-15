@@ -1,0 +1,26 @@
+{
+  "company": "Thomson Reuters",
+  "url": "https://toc.taleo.net/careersection/advanced_search/moresearch.tl?keyword=Philadelphia",
+  "address": "1500 Spring Garen Street, Philadelphia, PA 19130",
+  "geo": {
+    "latitude": 39.962595,
+    "longitude": -75.163112
+  },
+  "positions": [
+    {
+      "title": "Senior Program Manager"
+    },
+    {
+      "title": "Technology Consultant"
+    },
+    {
+      "title": "Lead Full-Stack Engineer"
+    },
+    {
+      "title": "API Engineer"
+    },
+    {
+      "title": "Technical Solutions Architect"
+    }
+  ]
+}

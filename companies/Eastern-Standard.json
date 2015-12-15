@@ -1,0 +1,17 @@
+{
+  "company": "Eastern Standard",
+  "url": "http://easternstandard.com/pages/careers",
+  "address": "261 Old York Rd. Suite 617 Jenkintown, PA 19046",
+  "geo": {
+    "latitude": 40.093339,
+    "longitude": -75.125276
+  },
+  "positions": [
+    {
+      "title": "DIGITAL MARKETING COORDINATOR"
+    },
+    {
+      "title": "DEVELOPER"
+    }
+  ]
+}

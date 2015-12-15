@@ -1,0 +1,23 @@
+{
+  "company": "BresslerGroup",
+  "url": "http://www.bresslergroup.com/about/#jobs",
+  "address": "7th floor, 1216 Arch St, Philadelphia, PA 19107",
+  "geo": {
+    "latitude": 39.951735,
+    "longitude": -75.158654
+  },
+  "positions": [
+    {
+      "title": "Senior Product Development Engineer"
+    },
+    {
+      "title": "Interaction Designer"
+    },
+    {
+      "title": "Software/Firmware Developer"
+    },
+    {
+      "title": "Product Development Engineer"
+    }
+  ]
+}

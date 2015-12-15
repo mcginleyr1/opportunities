@@ -1,0 +1,20 @@
+{
+  "company": "InstaMed",
+  "url": "http://www.instamed.com/about/careers/",
+  "address": "1880 JFK Boulevard  12th floor, Philadelphia, PA 19103",
+  "geo": {
+    "latitude": 39.952896,
+    "longitude": -75.174298
+  },
+  "positions": [
+    {
+      "title": "Information Systems – Senior Analyst/Manager"
+    },
+    {
+      "title": "Product Management – Manager"
+    },
+    {
+      "title": "Professional Services – Implementations Manager"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "company": "PromptWorks",
+  "url": "http://www.promptworks.com/jobs/",
+  "address": "1211 Chestnut St, Suite 400, Philadelphia PA, 19107",
+  "geo": {
+    "latitude": 39.9504152041,
+    "longitude": -75.1603696122
+  },
+  "positions": [
+    {
+      "title": "Senior Software Engineer"
+    },
+    {
+      "title": "Software Engineer"
+    },
+    {
+      "title": "Senior Front-end Engineer"
+    }
+  ]
+}

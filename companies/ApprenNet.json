@@ -1,0 +1,14 @@
+{
+  "company": "ApprenNet",
+  "url": "http://info.apprennet.com/jobs/",
+  "address": "1007 E Abington Ave, Wyndmoor, PA 19038",
+  "geo": {
+    "latitude": 40.0839338571,
+    "longitude": -75.191686898
+  },
+  "positions": [
+    {
+      "title": "Lead QA Engineer"
+    }
+  ]
+}

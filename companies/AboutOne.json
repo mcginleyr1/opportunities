@@ -1,0 +1,20 @@
+{
+  "company": "AboutOne",
+  "url": "http://www.aboutone.com/jobs/",
+  "address": "26 Raffaela Drive, Malvern, PA 19355",
+  "geo": {
+    "latitude": 40.039942,
+    "longitude": -75.5103515
+  },
+  "positions": [
+    {
+      "title": "SENIOR iOS DEVELOPER"
+    },
+    {
+      "title": "QUALITY ASSURANCE ENGINEER"
+    },
+    {
+      "title": "SENIOR SOFTWARE ENGINEER"
+    }
+  ]
+}

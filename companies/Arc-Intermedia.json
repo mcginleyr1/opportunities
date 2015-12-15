@@ -1,0 +1,29 @@
+{
+  "company": "Arc Intermedia",
+  "url": "http://www.arcintermedia.com/company/careers/",
+  "address": "1150 First Ave., Suite 501, King of Prussia, PA 19406",
+  "geo": {
+    "latitude": 40.0950185455,
+    "longitude": -75.4155636667
+  },
+  "positions": [
+    {
+      "title": "Entry/Mid-Level Inbound Marketing Manager Position"
+    },
+    {
+      "title": "Junior Front-end Web Developer/Web Designer"
+    },
+    {
+      "title": "Senior Level SEO Position"
+    },
+    {
+      "title": "Entry-Mid Level SEO Position"
+    },
+    {
+      "title": "Part-time Experienced SEO Professional"
+    },
+    {
+      "title": "Umbraco ASP.NET Developer"
+    }
+  ]
+}

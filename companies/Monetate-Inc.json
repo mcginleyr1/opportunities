@@ -1,0 +1,23 @@
+{
+  "company": "Monetate, Inc.",
+  "url": "http://www.monetate.com/about/careers/#open-positions",
+  "address": "951 E. Hector Street, Conshohocken PA 19428",
+  "geo": {
+    "latitude": 40.0750470612,
+    "longitude": -75.2904890204
+  },
+  "positions": [
+    {
+      "title": "Director of Delivery Engineering"
+    },
+    {
+      "title": "Web Developer"
+    },
+    {
+      "title": "Product Manager"
+    },
+    {
+      "title": "DevOps Engineer"
+    }
+  ]
+}

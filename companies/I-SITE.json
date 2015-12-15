@@ -1,0 +1,17 @@
+{
+  "company": "I-SITE",
+  "url": "http://www.i-site.com/blog",
+  "address": "15 South 3rd St Suite 200, Philadelphia, PA, 19106",
+  "geo": {
+    "latitude": 39.9496157,
+    "longitude": -75.1476798
+  },
+  "positions": [
+    {
+      "title": "Digital Project Manager"
+    },
+    {
+      "title": "Web Development Intern"
+    }
+  ]
+}

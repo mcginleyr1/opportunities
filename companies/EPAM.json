@@ -1,0 +1,17 @@
+{
+  "company": "EPAM",
+  "url": "http://www.epam.com/careers",
+  "address": "101 E 8th Ave #201, Conshohocken, PA 19428",
+  "geo": {
+    "latitude": 40.079189,
+    "longitude": -75.299617
+  },
+  "positions": [
+    {
+      "title": "Senior Project Manager"
+    },
+    {
+      "title": "Senior Visual Designer"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "company": "Curalate",
+  "url": "https://boards.greenhouse.io/curalate#.VkAHsa6rRE5",
+  "address": "2401 Walnut St #502, Philadelphia, PA 19103",
+  "geo": {
+    "latitude": 39.95124,
+    "longitude": -75.179508
+  },
+  "positions": [
+    {
+      "title": "Product Manager"
+    },
+    {
+      "title": "UX Designer"
+    },
+    {
+      "title": "DevOps Engineer"
+    },
+    {
+      "title": "Front End (Solutions) Engineer"
+    },
+    {
+      "title": "Software Engineer"
+    }
+  ]
+}

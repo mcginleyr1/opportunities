@@ -1,0 +1,17 @@
+{
+  "company": "BrickSimple LLC",
+  "url": "http://bricksimple.com/",
+  "address": "22 S Main St, Doylestown, PA 18901",
+  "geo": {
+    "latitude": 40.309501,
+    "longitude": -75.1301983333
+  },
+  "positions": [
+    {
+      "title": "Senior iOS Developer"
+    },
+    {
+      "title": "Senior Android Developer"
+    }
+  ]
+}

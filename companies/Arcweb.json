@@ -1,0 +1,32 @@
+{
+  "company": "Arcweb",
+  "url": "https://arcweb.co/careers/",
+  "address": "234 Market St, Philadelphia, PA 19106",
+  "geo": {
+    "latitude": 39.950092,
+    "longitude": -75.1449277143
+  },
+  "positions": [
+    {
+      "title": "Android Developer"
+    },
+    {
+      "title": "Cloud Operations Engineer"
+    },
+    {
+      "title": "iOS Developer"
+    },
+    {
+      "title": "Java Engineer"
+    },
+    {
+      "title": "Senior Software Engineer"
+    },
+    {
+      "title": "Software Architect"
+    },
+    {
+      "title": "Software Project Manager"
+    }
+  ]
+}

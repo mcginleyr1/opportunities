@@ -1,0 +1,17 @@
+{
+  "company": "GovDelivery",
+  "url": "https://www.govdelivery.com/company/careers/",
+  "address": "Philadelphia, PA",
+  "geo": {
+    "latitude": 39.952584,
+    "longitude": -75.165222
+  },
+  "positions": [
+    {
+      "title": "Front End Develper/Drupal Themer"
+    },
+    {
+      "title": "Senior Developer"
+    }
+  ]
+}

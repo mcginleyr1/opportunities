@@ -1,0 +1,17 @@
+{
+  "company": "Intuitive Company",
+  "url": "http://intuitivecompany.com/careers/",
+  "address": "3 Rector Street, Philadelphia PA, 19127",
+  "geo": {
+    "latitude": 40.0241577959,
+    "longitude": -75.2220595102
+  },
+  "positions": [
+    {
+      "title": "User Experience Researcher"
+    },
+    {
+      "title": "Program Delivery Manager"
+    }
+  ]
+}

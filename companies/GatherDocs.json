@@ -1,0 +1,20 @@
+{
+  "company": "GatherDocs",
+  "url": "http://jobs.gatherdocs.com/",
+  "address": "4040 Locust St, Philadelphia, PA 19104",
+  "geo": {
+    "latitude": 39.9531008333,
+    "longitude": -75.2038928333
+  },
+  "positions": [
+    {
+      "title": "PHP Web Developer"
+    },
+    {
+      "title": "User Interface Developer / Designer"
+    },
+    {
+      "title": "Software Engineer"
+    }
+  ]
+}

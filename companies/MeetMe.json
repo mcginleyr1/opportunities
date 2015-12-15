@@ -1,0 +1,29 @@
+{
+  "company": "MeetMe",
+  "url": "http://www.meetme.com/apps/careers#careers-position",
+  "address": "100 Union Square Drive, New Hope, PA",
+  "geo": {
+    "latitude": 40.314,
+    "longitude": -75.131903
+  },
+  "positions": [
+    {
+      "title": "Software Architect, API New Hope, PA, United States"
+    },
+    {
+      "title": "Sr. Android Engineer / Architect New Hope, PA, United States"
+    },
+    {
+      "title": "Sr. iOS Developer / Architect New Hope, PA, United States"
+    },
+    {
+      "title": "Sr. Software Developer (API) New Hope, PA, United States"
+    },
+    {
+      "title": "DevOps Engineer (Remote) New Hope, PA, United States"
+    },
+    {
+      "title": "QA Developer (Automation)"
+    }
+  ]
+}

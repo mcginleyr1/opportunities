@@ -1,0 +1,20 @@
+{
+  "company": "Plum Analytics",
+  "url": "http://plumanalytics.com/about/careers/",
+  "address": "808 Firethorn Circle, Dresher PA 19025",
+  "geo": {
+    "latitude": 40.1518441224,
+    "longitude": -75.1554711633
+  },
+  "positions": [
+    {
+      "title": "Senior Engineer / Architect (Big Data)"
+    },
+    {
+      "title": "Mid-Level Engineer (Data Acquisition)"
+    },
+    {
+      "title": "Mid-level Java Engineer"
+    }
+  ]
+}

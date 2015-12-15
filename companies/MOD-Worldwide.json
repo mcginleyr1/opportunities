@@ -1,0 +1,32 @@
+{
+  "company": "MOD Worldwide",
+  "url": "http://www.modworldwide.com/creative.html",
+  "address": "121 S Broad St, Philadelphia, PA 19107",
+  "geo": {
+    "latitude": 39.950696,
+    "longitude": -75.1638900816
+  },
+  "positions": [
+    {
+      "title": "GRAPHIC DESIGNER"
+    },
+    {
+      "title": "COPYWRITER"
+    },
+    {
+      "title": "PROOFREADER/RESEARCH"
+    },
+    {
+      "title": "FRONT END WEB DEVELOPER"
+    },
+    {
+      "title": "JUNIOR BACK END DEVELOPER"
+    },
+    {
+      "title": "BACK END DEVELOPER"
+    },
+    {
+      "title": "SOFTWARE PROJECT MANAGER"
+    }
+  ]
+}

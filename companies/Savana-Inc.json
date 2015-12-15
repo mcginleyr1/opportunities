@@ -1,0 +1,14 @@
+{
+  "company": "Savana, Inc.",
+  "url": "http://savanainc.com/company/careers/",
+  "address": "920 Cassatt Road, Suite 220, Berwyn, PA 19312",
+  "geo": {
+    "latitude": 40.06229052,
+    "longitude": -75.45604168
+  },
+  "positions": [
+    {
+      "title": "Software Developer"
+    }
+  ]
+}

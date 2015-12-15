@@ -1,0 +1,30 @@
+{
+  "company": "Deacom, Inc",
+  "type": [],
+  "url": "http://deacom.com/ViewPage/21/deacom-inc-company-careers",
+  "address": "950 West Valley Road, Suite 3000, Wayne, PA 19087",
+  "geo": {
+    "latitude": 40.067907,
+    "longitude": -75.427966
+  },
+  "positions": [
+    {
+      "title": "Inside Sales Rep"
+    },
+    {
+      "title": "Senior ERP Product Specialist"
+    },
+    {
+      "title": "Software Developer"
+    },
+    {
+      "title": "Technical Specialist"
+    },
+    {
+      "title": "Test Engineer"
+    },
+    {
+      "title": "Controller"
+    }
+  ]
+}

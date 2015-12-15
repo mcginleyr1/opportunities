@@ -1,0 +1,17 @@
+{
+  "company": "Here's My Chance",
+  "url": "http://heresmychance.com/careers/",
+  "address": "121 S. 13th Street 4th Floor Philadelphia, PA 19107",
+  "geo": {
+    "latitude": 39.949836,
+    "longitude": -75.161949
+  },
+  "positions": [
+    {
+      "title": "Copywriter"
+    },
+    {
+      "title": "Freelance Designer"
+    }
+  ]
+}
