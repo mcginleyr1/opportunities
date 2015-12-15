@@ -1,0 +1,32 @@
+{
+  "company": "LevelUp",
+  "url": "https://www.thelevelup.com/jobs",
+  "address": "1628 JFK Blvd., Philadelphia, PA",
+  "geo": {
+    "latitude": 40.214982,
+    "longitude": -75.265441
+  },
+  "positions": [
+    {
+      "title": ".NET Software Engineer"
+    },
+    {
+      "title": "Ruby on Rails Developer"
+    },
+    {
+      "title": "iOS Developer"
+    },
+    {
+      "title": "Jr iOS Developer"
+    },
+    {
+      "title": "Sr Android Developer"
+    },
+    {
+      "title": "Front End Web Designer/Developer"
+    },
+    {
+      "title": "Embedded Linux Engineer"
+    }
+  ]
+}

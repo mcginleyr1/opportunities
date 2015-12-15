@@ -1,0 +1,32 @@
+{
+  "company": "CardConnect",
+  "url": "https://www.cardconnect.com/contact/job-openings/",
+  "address": "1000 Continental Dr Suite 600, King of Prussia, PA 19406",
+  "geo": {
+    "latitude": 40.081367,
+    "longitude": -75.399611
+  },
+  "positions": [
+    {
+      "title": "SAP ERP Developer"
+    },
+    {
+      "title": "Technical Project Manager"
+    },
+    {
+      "title": "Product Content Coordinator"
+    },
+    {
+      "title": "Business Intelligence Data Analyst"
+    },
+    {
+      "title": "Software Engineer (Java)"
+    },
+    {
+      "title": "JavaScript Developer"
+    },
+    {
+      "title": "Senior Java Software Engineer"
+    }
+  ]
+}

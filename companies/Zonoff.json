@@ -1,0 +1,35 @@
+{
+  "company": "Zonoff",
+  "url": "https://zonoff.com/our-story/careers/",
+  "address": "70 E. Swedesford Rd., Suite 120, Malvern, PA 19460",
+  "geo": {
+    "latitude": 40.051395125,
+    "longitude": -75.5336614375
+  },
+  "positions": [
+    {
+      "title": "UI Designer"
+    },
+    {
+      "title": "Cloud Services Developer"
+    },
+    {
+      "title": "DevOps Engineer"
+    },
+    {
+      "title": "Director of Engineering"
+    },
+    {
+      "title": "Javascript UI Developer"
+    },
+    {
+      "title": "Linux Application Developer"
+    },
+    {
+      "title": "Solutions Support Engineer"
+    },
+    {
+      "title": "QA Test Engineer"
+    }
+  ]
+}

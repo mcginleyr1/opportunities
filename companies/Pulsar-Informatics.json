@@ -1,0 +1,14 @@
+{
+  "company": "Pulsar Informatics",
+  "url": "http://www.pulsarinformatics.com/about.html#anchor_positions",
+  "address": "3401 Market Street, Philadelphia, PA 19104",
+  "geo": {
+    "latitude": 39.955843,
+    "longitude": -75.191464
+  },
+  "positions": [
+    {
+      "title": "Senior Software Developer"
+    }
+  ]
+}

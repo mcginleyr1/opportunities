@@ -1,0 +1,23 @@
+{
+  "company": "RJMetrics",
+  "url": "https://rjmetrics.com/jobs/",
+  "address": "1339 Chestnut Street Suite 1500 Philadelphia PA, 19107",
+  "geo": {
+    "latitude": 39.9507376667,
+    "longitude": -75.1629786667
+  },
+  "positions": [
+    {
+      "title": "Director of Infrmation Security"
+    },
+    {
+      "title": "Security Engineer"
+    },
+    {
+      "title": "Senior Web Applications Engineer"
+    },
+    {
+      "title": "Software Engineer"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "company": "Wingspan Technology",
+  "url": "http://www.wingspan.com/career_open_positions/",
+  "address": "460 Norristown Road Suite 200, Blue Bell, PA 19422",
+  "geo": {
+    "latitude": 40.133626,
+    "longitude": -75.255467
+  },
+  "positions": [
+    {
+      "title": "Software Engineer (All Levels)"
+    },
+    {
+      "title": "DevOps Engineer"
+    }
+  ]
+}

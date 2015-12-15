@@ -1,0 +1,14 @@
+{
+  "company": "Vistar Media",
+  "url": "http://www.vistarmedia.com/careers",
+  "address": "332 S Smedley St, Philadelphia, PA 19103",
+  "geo": {
+    "latitude": 39.9471276977,
+    "longitude": -75.1686654651
+  },
+  "positions": [
+    {
+      "title": "Software Engineer"
+    }
+  ]
+}

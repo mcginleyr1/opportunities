@@ -1,0 +1,29 @@
+{
+  "company": "O3 World",
+  "url": "http://o3world.com/careers/",
+  "address": "1000 N. Hancock St. Suite 103 Philadelphia PA, 19123",
+  "geo": {
+    "latitude": 39.9652262979,
+    "longitude": -75.1398402553
+  },
+  "positions": [
+    {
+      "title": "PROJECT MANAGER"
+    },
+    {
+      "title": "LEAD UI / UX DESIGNER"
+    },
+    {
+      "title": "IOS DEVELOPER"
+    },
+    {
+      "title": "FULL STACK JAVASCRIPT DEVELOPER"
+    },
+    {
+      "title": "FRONT-END DEVELOPER"
+    },
+    {
+      "title": "WEB PROGRAMMER"
+    }
+  ]
+}

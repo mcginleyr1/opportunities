@@ -1,0 +1,10 @@
+{
+  "company": "TicketLeap",
+  "url": "http://ticketleap.theresumator.com/",
+  "address": "2401 Walnut Street, Suite 502, Philadelphia, PA 19103",
+  "geo": {
+    "latitude": 39.95124,
+    "longitude": -75.179508
+  },
+  "positions": []
+}

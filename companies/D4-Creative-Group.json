@@ -1,0 +1,26 @@
+{
+  "company": "D4 Creative Group",
+  "url": "http://www.d4creative.com/careers",
+  "address": "4646 Umbria Street",
+  "geo": {
+    "latitude": 40.0305332308,
+    "longitude": -75.2300390769
+  },
+  "positions": [
+    {
+      "title": "Copywriter"
+    },
+    {
+      "title": "Designer"
+    },
+    {
+      "title": "Front-End Developer"
+    },
+    {
+      "title": "Project Manager"
+    },
+    {
+      "title": "PHP Developer"
+    }
+  ]
+}

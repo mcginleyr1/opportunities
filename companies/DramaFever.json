@@ -1,0 +1,20 @@
+{
+  "company": "DramaFever",
+  "url": "http://www.dramafever.com/company/careers.html",
+  "address": "1717 Arch St, Suite 601, Philadelphia, PA",
+  "geo": {
+    "latitude": 39.9546511633,
+    "longitude": -75.1650889796
+  },
+  "positions": [
+    {
+      "title": "Android Developer"
+    },
+    {
+      "title": "iOS Developer"
+    },
+    {
+      "title": "Operations Manager"
+    }
+  ]
+}

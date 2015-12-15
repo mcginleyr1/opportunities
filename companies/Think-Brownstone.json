@@ -1,0 +1,23 @@
+{
+  "company": "Think Brownstone",
+  "url": "https://www.thinkbrownstone.com/careers/",
+  "address": "201 Fayette St, Conshohocken, PA 19428",
+  "geo": {
+    "latitude": 40.074711,
+    "longitude": -75.305449
+  },
+  "positions": [
+    {
+      "title": "Development Lead"
+    },
+    {
+      "title": "Senior Web Developer"
+    },
+    {
+      "title": "Web Developer"
+    },
+    {
+      "title": "Experience Designer- Contractor"
+    }
+  ]
+}

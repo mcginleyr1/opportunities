@@ -1,0 +1,35 @@
+{
+  "company": "50onRed",
+  "url": "http://50onred.theresumator.com/?utm_source=github",
+  "address": "2929 Arch St, Philadelphia, PA 19104",
+  "geo": {
+    "latitude": 39.956848137931,
+    "longitude": -75.18091562069
+  },
+  "positions": [
+    {
+      "title": "Data Scientist"
+    },
+    {
+      "title": "DevOps Systems Engineer"
+    },
+    {
+      "title": "Senior Software Engineer"
+    },
+    {
+      "title": "Marketing and Communications Director"
+    },
+    {
+      "title": "Head of Product Development"
+    },
+    {
+      "title": "UX Designer"
+    },
+    {
+      "title": "Sales Executive"
+    },
+    {
+      "title": "VP of Sales"
+    }
+  ]
+}

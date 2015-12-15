@@ -1,0 +1,26 @@
+{
+  "company": "AWeber Communications",
+  "url": "http://www.aweber.jobs/",
+  "address": "1100 Manor Drive, Chalfont PA, 18914",
+  "geo": {
+    "latitude": 40.268983,
+    "longitude": -75.222586
+  },
+  "positions": [
+    {
+      "title": "Front End Engineer"
+    },
+    {
+      "title": "Senior Android Engineer"
+    },
+    {
+      "title": "Senior Operations Engineer"
+    },
+    {
+      "title": "Senior Software Engineer"
+    },
+    {
+      "title": "Technical Project Manager"
+    }
+  ]
+}

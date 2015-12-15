@@ -1,0 +1,20 @@
+{
+  "company": "Dronecast",
+  "url": "http://www.dronecast.com/careers/",
+  "address": "1700 Market Street, Suite 1005, Philadelphia PA",
+  "geo": {
+    "latitude": 39.952974,
+    "longitude": -75.168444
+  },
+  "positions": [
+    {
+      "title": "Graphic Designe"
+    },
+    {
+      "title": "IOS Developer"
+    },
+    {
+      "title": "Web Developer"
+    }
+  ]
+}

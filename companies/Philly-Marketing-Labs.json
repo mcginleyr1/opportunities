@@ -1,0 +1,14 @@
+{
+  "company": "Philly Marketing Labs",
+  "url": "http://www.phillymarketinglabs.com/join-our-team/",
+  "address": "224 Lansdowne Ave, Wayne, PA 19087",
+  "geo": {
+    "latitude": 40.040375898,
+    "longitude": -75.3892247755
+  },
+  "positions": [
+    {
+      "title": "Web Marketing Project Manager"
+    }
+  ]
+}

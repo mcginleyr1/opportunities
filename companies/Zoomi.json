@@ -1,0 +1,19 @@
+{
+  "company": "Zoomi",
+  "url": "http://www.zoomiinc.com/jobs/",
+  "address": "PA",
+  "positions": [
+    {
+      "title": "ALGORITHM ENGINEER"
+    },
+    {
+      "title": "SENIOR FRONTEND ENGINEER"
+    },
+    {
+      "title": "SENIOR SERVER BACKEND ENGINEER"
+    },
+    {
+      "title": "SENIOR IOS ENGINEER"
+    }
+  ]
+}

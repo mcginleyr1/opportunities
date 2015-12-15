@@ -1,0 +1,23 @@
+{
+  "company": "Medecision",
+  "url": "https://careers-medecision.icims.com/jobs/intro?hashed=-435743548",
+  "address": "550 E Swedesford Rd #220, Wayne, PA 19087",
+  "geo": {
+    "latitude": 40.0755407626,
+    "longitude": -75.4241920791
+  },
+  "positions": [
+    {
+      "title": "Director, Data Management"
+    },
+    {
+      "title": "Program Manager"
+    },
+    {
+      "title": "Product Manager"
+    },
+    {
+      "title": "Senior Software Developer (Java)"
+    }
+  ]
+}

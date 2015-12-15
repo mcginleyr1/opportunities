@@ -1,0 +1,14 @@
+{
+  "company": "Pedrera Philadelphia Web Development",
+  "url": "http://pedrera.com/about-us/careers",
+  "address": "100 Mechanics Street, Doylestown, PA 18901",
+  "geo": {
+    "latitude": 40.3136617818,
+    "longitude": -75.1289168909
+  },
+  "positions": [
+    {
+      "title": "Web Developer"
+    }
+  ]
+}

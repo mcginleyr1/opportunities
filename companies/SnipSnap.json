@@ -1,0 +1,14 @@
+{
+  "company": "SnipSnap",
+  "url": "http://www.snipsnap.it/snipsnap-jobs/",
+  "address": "109 South 13th Street, Philadelphia, PA 19107",
+  "geo": {
+    "latitude": 39.950196,
+    "longitude": -75.161868
+  },
+  "positions": [
+    {
+      "title": "Product Designer (Android)"
+    }
+  ]
+}

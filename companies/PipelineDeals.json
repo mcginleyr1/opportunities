@@ -1,0 +1,17 @@
+{
+  "company": "PipelineDeals",
+  "url": "https://www.pipelinedeals.com/careers",
+  "address": "565 E. Swedesford Road, Suite 206, Wayne, PA 19087",
+  "geo": {
+    "latitude": 40.076011027,
+    "longitude": -75.4230364054
+  },
+  "positions": [
+    {
+      "title": "Senior Product Manager"
+    },
+    {
+      "title": "QA Analyst"
+    }
+  ]
+}

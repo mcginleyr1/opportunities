@@ -1,0 +1,14 @@
+{
+  "company": "Allen & Gerritsen",
+  "url": "http://www.a-g.com/careers/",
+  "address": "619 Walnut St, Philadelphia, PA 19128",
+  "geo": {
+    "latitude": 39.9461686667,
+    "longitude": -75.15197
+  },
+  "positions": [
+    {
+      "title": "Analytics Manager"
+    }
+  ]
+}

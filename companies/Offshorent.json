@@ -1,0 +1,23 @@
+{
+  "company": "Offshorent",
+  "url": "http://offshorent.com/careers",
+  "address": "1000 W. Valley Forge Circle. #110A. King Of Prussia, PA 19406",
+  "geo": {
+    "latitude": 40.1030152727,
+    "longitude": -75.4137162727
+  },
+  "positions": [
+    {
+      "title": "Sr. Java Programmer"
+    },
+    {
+      "title": "PHP zend developer"
+    },
+    {
+      "title": "Sr. Magento Developer"
+    },
+    {
+      "title": "Senior Engineer"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "company": "Velora Studios",
+  "url": "http://www.velorastudios.com/jobs",
+  "address": "Philadelphia",
+  "geo": {
+    "latitude": 40.07231,
+    "longitude": -75.203371
+  },
+  "positions": [
+    {
+      "title": "Ruby on Rails Lead Programmer"
+    },
+    {
+      "title": "Web Developer"
+    },
+    {
+      "title": "Project Manager"
+    }
+  ]
+}

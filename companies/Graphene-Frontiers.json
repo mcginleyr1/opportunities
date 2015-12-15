@@ -1,0 +1,20 @@
+{
+  "company": "Graphene Frontiers",
+  "url": "http://graphenefrontiers.com/careers/",
+  "address": "3624 Market St. FL 5th, Philadelphia, PA 19104",
+  "geo": {
+    "latitude": 39.9562402245,
+    "longitude": -75.1946339592
+  },
+  "positions": [
+    {
+      "title": "Biosensor Research and Development Technician"
+    },
+    {
+      "title": "Database Developer / Programmer"
+    },
+    {
+      "title": "Senior Semiconductor Device Engineer"
+    }
+  ]
+}

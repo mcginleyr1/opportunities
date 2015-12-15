@@ -1,0 +1,14 @@
+{
+  "company": "baseklas",
+  "url": "http://baseklas.com/jobs/",
+  "address": "128 Chestnut Street, Suite 304, Philadelphia PA 19106",
+  "geo": {
+    "latitude": 39.948286125,
+    "longitude": -75.143379125
+  },
+  "positions": [
+    {
+      "title": "Groovy designer needed!"
+    }
+  ]
+}

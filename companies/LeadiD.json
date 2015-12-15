@@ -1,0 +1,20 @@
+{
+  "company": "LeadiD",
+  "url": "http://www.leadid.com/about-us/join-our-team/open-positions",
+  "address": "201 S Maple St, Ambler, PA, 19002",
+  "geo": {
+    "latitude": 40.1561585849,
+    "longitude": -75.2278333396
+  },
+  "positions": [
+    {
+      "title": "Manager/Director - DevOps"
+    },
+    {
+      "title": "Senior Software Engineer"
+    },
+    {
+      "title": "Senior Systems Engineer DevOps"
+    }
+  ]
+}

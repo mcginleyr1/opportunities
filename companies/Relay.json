@@ -1,0 +1,17 @@
+{
+  "company": "Relay",
+  "url": "http://www.relaynetwork.com/careers/",
+  "address": "201 king of prussia rd radnor pa 19087",
+  "geo": {
+    "latitude": 40.081206,
+    "longitude": -75.388683
+  },
+  "positions": [
+    {
+      "title": "Senior Client Project Manager"
+    },
+    {
+      "title": "Software Engineer"
+    }
+  ]
+}

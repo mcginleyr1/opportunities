@@ -1,0 +1,17 @@
+{
+  "company": "Inverse Paradox",
+  "url": "https://www.inverseparadox.com/careers/",
+  "address": "133 Bellevue Ave., Penndel, PA 19047",
+  "geo": {
+    "latitude": 40.1584053469,
+    "longitude": -74.9120337959
+  },
+  "positions": [
+    {
+      "title": "PHP Developer – Magento"
+    },
+    {
+      "title": "WordPress Developer"
+    }
+  ]
+}

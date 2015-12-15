@@ -1,0 +1,17 @@
+{
+  "company": "Thoughtbot",
+  "url": "https://thoughtbot.com/jobs",
+  "address": "2401 Walnut St, Suite 102, Philadelphia, PA 19103",
+  "geo": {
+    "latitude": 39.95124,
+    "longitude": -75.179508
+  },
+  "positions": [
+    {
+      "title": "Development Director, Mobile"
+    },
+    {
+      "title": "iOS Developer"
+    }
+  ]
+}

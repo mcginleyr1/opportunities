@@ -1,0 +1,29 @@
+{
+  "company": "RDA Corp",
+  "url": "http://rdacorp.com/en/Careers/Current%20Openings",
+  "address": "101 Lindenwood Drive Suite 225 Malvern, PA 19355",
+  "geo": {
+    "latitude": 40.049973,
+    "longitude": -75.528712
+  },
+  "positions": [
+    {
+      "title": "SharePoint Contractor"
+    },
+    {
+      "title": "Sitecore Developer"
+    },
+    {
+      "title": "BI and Data Warehouse Specialist"
+    },
+    {
+      "title": "Cloud Developer Architect"
+    },
+    {
+      "title": "Senior SharePoint Engineer"
+    },
+    {
+      "title": "Cloud Developer Architect Contractor"
+    }
+  ]
+}

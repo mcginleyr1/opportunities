@@ -1,0 +1,20 @@
+{
+  "company": "BuLogics",
+  "url": "http://bulogics.com/about-us/jobs/",
+  "address": "3721 Midvale Ave, Philadelphia, PA 19129",
+  "geo": {
+    "latitude": 40.00971845,
+    "longitude": -75.19331115
+  },
+  "positions": [
+    {
+      "title": "Lead Firmware Engineer"
+    },
+    {
+      "title": "Firmware Developer"
+    },
+    {
+      "title": "Cross-Platform Developer"
+    }
+  ]
+}
