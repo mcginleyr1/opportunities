@@ -1,9 +1,15 @@
 <!DOCTYPE HTML>
-	<HTML>
+	<HTML ng-app="jobapp">
 		<HEAD>
 			<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-			<script type="text/javascript" src="main.js"></script>
+			<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.5/angular.min.js"></script>
+			<script type="text/javascript" src="app.js"></script>
 		<HEAD>
 		<body>
+		  <div ng-controller="mycontroller" id="content" class="container">
+		    <div ng-repeat="listing in listings">
+		      [{{$index + 1}}] {{listing.company}} years old.
+		    </div>
+		  </div>
 		</body>
 	</HTML>
