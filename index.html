@@ -7,21 +7,13 @@
 		<HEAD>
 		<body>
 		  <div ng-controller="mycontroller" id="content" class="container">
-		    <ul>
-		      <li ng-repeat-start="listing in listings">
-			<h1> {{listing.company}} </h1>
-		      </li>
+		      <div ng-repeat-start="listing in listings">
+			<a href="{{listing.url}}"><h1> {{listing.company}} </h1></a>
+			<p> {{listing.address}} </h1>
+		      </div>
 		      <li ng-repeat-end ng-repeat="listing in listing.positions">
 			{{listing.title}}
 		      </li>
-		    </ul>
-		    <!--<div ng-repeat="listing in listings">
-		      <h1> {{listing.company}} </h1>
-		      <p> {{listing.address}} </p>
-		      </div>
-		    <div ng-repeat="listing in listing.postions">
-		      <p> {{listing.title}} </p>
-		      </div> -->
 		  </div>
 		</body>
 	</HTML>
