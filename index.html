@@ -7,9 +7,21 @@
 		<HEAD>
 		<body>
 		  <div ng-controller="mycontroller" id="content" class="container">
-		    <div ng-repeat="listing in listings">
-		      [{{$index + 1}}] {{listing.company}} years old.
-		    </div>
+		    <ul>
+		      <li ng-repeat-start="listing in listings">
+			<h1> {{listing.company}} </h1>
+		      </li>
+		      <li ng-repeat-end ng-repeat="listing in listing.positions">
+			{{listing.title}}
+		      </li>
+		    </ul>
+		    <!--<div ng-repeat="listing in listings">
+		      <h1> {{listing.company}} </h1>
+		      <p> {{listing.address}} </p>
+		      </div>
+		    <div ng-repeat="listing in listing.postions">
+		      <p> {{listing.title}} </p>
+		      </div> -->
 		  </div>
 		</body>
 	</HTML>
