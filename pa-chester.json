@@ -1,0 +1,271 @@
+[
+  {
+    "company": "AboutOne",
+    "url": "http://www.aboutone.com/jobs/",
+    "address": "26 Raffaela Drive, Malvern, PA 19355",
+    "geo": {
+      "latitude": 40.039942,
+      "longitude": -75.5103515
+    },
+    "positions": [
+      {
+        "title": "SENIOR iOS DEVELOPER"
+      },
+      {
+        "title": "QUALITY ASSURANCE ENGINEER"
+      },
+      {
+        "title": "SENIOR SOFTWARE ENGINEER"
+      }
+    ]
+  },
+  {
+    "company": "Boomi",
+    "url": "http://www.boomi.com/company/careers",
+    "address": "801 Cassatt Road Suite 111 Berwyn, PA 19312",
+    "geo": {
+      "latitude": 40.062366,
+      "longitude": -75.456169
+    },
+    "positions": [
+      {
+        "title": "Software Develoment Engineer"
+      },
+      {
+        "title": "Software Engineer Director"
+      },
+      {
+        "title": "Software Engineer Java"
+      },
+      {
+        "title": "Software Engineer Java"
+      },
+      {
+        "title": "Software QA Staff Engineer"
+      }
+    ]
+  },
+  {
+    "company": "Deacom, Inc",
+    "type": [],
+    "url": "http://deacom.com/ViewPage/21/deacom-inc-company-careers",
+    "address": "950 West Valley Road, Suite 3000, Wayne, PA 19087",
+    "geo": {
+      "latitude": 40.067907,
+      "longitude": -75.427966
+    },
+    "positions": [
+      {
+        "title": "Inside Sales Rep"
+      },
+      {
+        "title": "Senior ERP Product Specialist"
+      },
+      {
+        "title": "Software Developer"
+      },
+      {
+        "title": "Technical Specialist"
+      },
+      {
+        "title": "Test Engineer"
+      },
+      {
+        "title": "Controller"
+      }
+    ]
+  },
+  {
+    "company": "Evolve IP",
+    "url": "http://www.evolveip.net/about/careers",
+    "address": "989 Old Eagle School Rd, Wayne, PA 19087",
+    "geo": {
+      "latitude": 40.076770625,
+      "longitude": -75.41092975
+    },
+    "positions": [
+      {
+        "title": "Project Manager"
+      },
+      {
+        "title": "Platform Engineer, Cloud Computing"
+      }
+    ]
+  },
+  {
+    "company": "Medecision",
+    "url": "https://careers-medecision.icims.com/jobs/intro?hashed=-435743548",
+    "address": "550 E Swedesford Rd #220, Wayne, PA 19087",
+    "geo": {
+      "latitude": 40.0755407626,
+      "longitude": -75.4241920791
+    },
+    "positions": [
+      {
+        "title": "Director, Data Management"
+      },
+      {
+        "title": "Program Manager"
+      },
+      {
+        "title": "Product Manager"
+      },
+      {
+        "title": "Senior Software Developer (Java)"
+      }
+    ]
+  },
+  {
+    "company": "Momentum Dynamics",
+    "url": "http://www.momentumdynamics.com/momentum-dynamics.html#careers",
+    "address": "3 Pennsylvania Avenue, Malvern, PA 19355",
+    "geo": {
+      "latitude": 40.0374198571,
+      "longitude": -75.5168733857
+    },
+    "positions": [
+      {
+        "title": "Embedded Software Engineers"
+      }
+    ]
+  },
+  {
+    "company": "PipelineDeals",
+    "url": "https://www.pipelinedeals.com/careers",
+    "address": "565 E. Swedesford Road, Suite 206, Wayne, PA 19087",
+    "geo": {
+      "latitude": 40.076011027,
+      "longitude": -75.4230364054
+    },
+    "positions": [
+      {
+        "title": "Senior Product Manager"
+      },
+      {
+        "title": "QA Analyst"
+      }
+    ]
+  },
+  {
+    "company": "RDA Corp",
+    "url": "http://rdacorp.com/en/Careers/Current%20Openings",
+    "address": "101 Lindenwood Drive Suite 225 Malvern, PA 19355",
+    "geo": {
+      "latitude": 40.049973,
+      "longitude": -75.528712
+    },
+    "positions": [
+      {
+        "title": "SharePoint Contractor"
+      },
+      {
+        "title": "Sitecore Developer"
+      },
+      {
+        "title": "BI and Data Warehouse Specialist"
+      },
+      {
+        "title": "Cloud Developer Architect"
+      },
+      {
+        "title": "Senior SharePoint Engineer"
+      },
+      {
+        "title": "Cloud Developer Architect Contractor"
+      }
+    ]
+  },
+  {
+    "company": "Rock River Star",
+    "type": [],
+    "url": "http://rockriverstar.com/careers",
+    "address": "202 Corner Ketch Road, Downingtown, PA 19335",
+    "geo": {
+      "latitude": 40.031643,
+      "longitude": -75.750801
+    },
+    "positions": [
+      {
+        "title": "Creative Director"
+      },
+      {
+        "title": "Lead Project Architect"
+      },
+      {
+        "title": "Programmer / Developer"
+      }
+    ]
+  },
+  {
+    "company": "Savana, Inc.",
+    "url": "http://savanainc.com/company/careers/",
+    "address": "920 Cassatt Road, Suite 220, Berwyn, PA 19312",
+    "geo": {
+      "latitude": 40.06229052,
+      "longitude": -75.45604168
+    },
+    "positions": [
+      {
+        "title": "Software Developer"
+      }
+    ]
+  },
+  {
+    "company": "Zonoff",
+    "url": "https://zonoff.com/our-story/careers/",
+    "address": "70 E. Swedesford Rd., Suite 120, Malvern, PA 19460",
+    "geo": {
+      "latitude": 40.051395125,
+      "longitude": -75.5336614375
+    },
+    "positions": [
+      {
+        "title": "UI Designer"
+      },
+      {
+        "title": "Cloud Services Developer"
+      },
+      {
+        "title": "DevOps Engineer"
+      },
+      {
+        "title": "Director of Engineering"
+      },
+      {
+        "title": "Javascript UI Developer"
+      },
+      {
+        "title": "Linux Application Developer"
+      },
+      {
+        "title": "Solutions Support Engineer"
+      },
+      {
+        "title": "QA Test Engineer"
+      }
+    ]
+  },
+  {
+    "company": "Zoomi",
+    "url": "http://www.zoomiinc.com/jobs/",
+    "address": "101 Lindenwood Drive, Suite 400, Malvern PA 19355",
+    "geo": {
+      "latitude": 40.050203,
+      "longitude": -75.527085
+    },
+    "positions": [
+      {
+        "title": "ALGORITHM ENGINEER"
+      },
+      {
+        "title": "SENIOR FRONTEND ENGINEER"
+      },
+      {
+        "title": "SENIOR SERVER BACKEND ENGINEER"
+      },
+      {
+        "title": "SENIOR IOS ENGINEER"
+      }
+    ]
+  }
+]

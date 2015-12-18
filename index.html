@@ -1,19 +1,28 @@
 <!DOCTYPE HTML>
-	<HTML ng-app="jobapp">
-		<HEAD>
-			<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-			<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.5/angular.min.js"></script>
-			<script type="text/javascript" src="app.js"></script>
-		<HEAD>
-		<body>
-		  <div ng-controller="mycontroller" id="content" class="container">
-		      <div ng-repeat-start="listing in listings">
-			<a href="{{listing.url}}"><h1> {{listing.company}} </h1></a>
-			<p> {{listing.address}} </h1>
-		      </div>
-		      <li ng-repeat-end ng-repeat="listing in listing.positions">
-			{{listing.title}}
-		      </li>
-		  </div>
-		</body>
-	</HTML>
+<html ng-app="jobapp">
+
+<head>
+	<title>Opportunities</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.5/angular.min.js"></script>
+	<script type="text/javascript" src="app.js"></script>
+</head>
+
+<body>
+	<div ng-controller="mycontroller" id="content" class="container">
+		<br/>
+		<div ng-repeat="listing in listings" class="panel panel-default">
+			<div class="panel-heading">
+				<h1><a href="{{listing.url}}">{{listing.company}}</a></h1>
+				<p>{{listing.address}}</p>
+			</div>
+			<div class="list-group">
+				<a ng-repeat="position in listing.positions" class="list-group-item" href="{{listing.url}}">
+					{{position.title}}
+				</a>
+			</div>
+		</div>
+	</div>
+</body>
+
+</html>

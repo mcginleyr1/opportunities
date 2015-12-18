@@ -1,0 +1,17 @@
+[
+  {
+    "company": "GoEmerchant",
+    "type": [],
+    "url": "http://www.goemerchant.com/careers.aspx",
+    "address": "1 Mall Drive, Suite 515, Cherry Hill, NJ 08002",
+    "geo": {
+      "latitude": 39.942654,
+      "longitude": -75.025045
+    },
+    "positions": [
+      {
+        "title": "Technical Support Representative"
+      }
+    ]
+  }
+]
