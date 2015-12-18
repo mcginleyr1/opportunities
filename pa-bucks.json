@@ -1,0 +1,159 @@
+[
+  {
+    "company": "Arcisphere Technologies",
+    "type": [],
+    "url": "http://arcisphere.com/careers/",
+    "address": "Silver Lake Executive Campus, 41 University Drive, Suite 400, Newtown, PA 18940",
+    "geo": {
+      "latitude": 40.222927,
+      "longitude": -74.905772
+    },
+    "positions": []
+  },
+  {
+    "company": "AWeber Communications",
+    "url": "http://www.aweber.jobs/",
+    "address": "1100 Manor Drive, Chalfont PA, 18914",
+    "geo": {
+      "latitude": 40.268983,
+      "longitude": -75.222586
+    },
+    "positions": [
+      {
+        "title": "Front End Engineer"
+      },
+      {
+        "title": "Senior Android Engineer"
+      },
+      {
+        "title": "Senior Operations Engineer"
+      },
+      {
+        "title": "Senior Software Engineer"
+      },
+      {
+        "title": "Technical Project Manager"
+      }
+    ]
+  },
+  {
+    "company": "BrickSimple LLC",
+    "url": "http://bricksimple.com/",
+    "address": "22 S Main St, Doylestown, PA 18901",
+    "geo": {
+      "latitude": 40.309501,
+      "longitude": -75.1301983333
+    },
+    "positions": [
+      {
+        "title": "Senior iOS Developer"
+      },
+      {
+        "title": "Senior Android Developer"
+      }
+    ]
+  },
+  {
+    "company": "Garfield Group",
+    "url": "http://garfieldgroup.com/careers",
+    "address": "60 Blacksmith Road, Newtown PA 18940",
+    "geo": {
+      "latitude": 40.222709625,
+      "longitude": -74.915183875
+    },
+    "positions": [
+      {
+        "title": "Copywriter"
+      },
+      {
+        "title": "Art Director"
+      },
+      {
+        "title": "Web Developer"
+      }
+    ]
+  },
+  {
+    "company": "Inverse Paradox",
+    "url": "https://www.inverseparadox.com/careers/",
+    "address": "133 Bellevue Ave., Penndel, PA 19047",
+    "geo": {
+      "latitude": 40.1584053469,
+      "longitude": -74.9120337959
+    },
+    "positions": [
+      {
+        "title": "PHP Developer – Magento"
+      },
+      {
+        "title": "WordPress Developer"
+      }
+    ]
+  },
+  {
+    "company": "MeetMe",
+    "url": "http://www.meetme.com/apps/careers#careers-position",
+    "address": "100 Union Square Drive, New Hope, PA",
+    "geo": {
+      "latitude": 40.314,
+      "longitude": -75.131903
+    },
+    "positions": [
+      {
+        "title": "Software Architect, API New Hope, PA, United States"
+      },
+      {
+        "title": "Sr. Android Engineer / Architect New Hope, PA, United States"
+      },
+      {
+        "title": "Sr. iOS Developer / Architect New Hope, PA, United States"
+      },
+      {
+        "title": "Sr. Software Developer (API) New Hope, PA, United States"
+      },
+      {
+        "title": "DevOps Engineer (Remote) New Hope, PA, United States"
+      },
+      {
+        "title": "QA Developer (Automation)"
+      }
+    ]
+  },
+  {
+    "company": "Pedrera Philadelphia Web Development",
+    "url": "http://pedrera.com/about-us/careers",
+    "address": "100 Mechanics Street, Doylestown, PA 18901",
+    "geo": {
+      "latitude": 40.3136617818,
+      "longitude": -75.1289168909
+    },
+    "positions": [
+      {
+        "title": "Web Developer"
+      }
+    ]
+  },
+  {
+    "company": "Tonic Design Co",
+    "url": "http://www.tonicdesign.com/jobs/",
+    "address": "201 S State St; Suite 2B Newtown PA 18940",
+    "geo": {
+      "latitude": 40.226642,
+      "longitude": -74.937063
+    },
+    "positions": [
+      {
+        "title": "Experience Design Lead"
+      },
+      {
+        "title": "Mobile Developers - Android & iOS"
+      },
+      {
+        "title": "Ruby on Rails Developer"
+      },
+      {
+        "title": "Senior User Experience Designer (UX)"
+      }
+    ]
+  }
+]
