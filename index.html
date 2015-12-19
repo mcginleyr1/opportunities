@@ -9,18 +9,29 @@
 </head>
 
 <body>
-	<div ng-controller="mycontroller" id="content" class="container">
+	<div ng-controller="phillycontroller" id="content" class="container">
 		<br/>
-		<div ng-repeat="listing in listings" class="panel panel-default">
+		<div ng-repeat="philly in phillys" class="panel panel-default">
 			<div class="panel-heading">
-				<h1><a href="{{listing.url}}">{{listing.company}}</a></h1>
-				<p>{{listing.address}}</p>
+				<h1><a href="{{philly.url}}">{{philly.company}}</a></h1>
+				<p>{{philly.address}}</p>
 			</div>
-			<div class="list-group">
-				<a ng-repeat="position in listing.positions" class="list-group-item" href="{{listing.url}}">
-					{{position.title}}
-				</a>
+		<div class="list-group">
+			<a ng-repeat="position in philly.positions" class="list-group-item" href="{{philly.url}}">
+				{{position.title}}
+			</a>
+		</div>
+	</div>
+	<div ng-controller="phillycontroller" id="content" class="container">
+		<div ng-repeat="montco in montcos" class="panel panel-default">
+			<div class="panel-heading">
+				<h1><a href="{{montco.url}}">{{montco.company}}</a></h1>
+				<p>{{montco.address}}</p>
 			</div>
+		<div class="list-group">
+			<a ng-repeat="position in montco.positions" class="list-group-item" href="{{montco.url}}">
+				{{position.title}}
+			</a>
 		</div>
 	</div>
 </body>

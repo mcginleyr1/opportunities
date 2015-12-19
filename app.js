@@ -1,8 +1,12 @@
 angular.module('jobapp', [])
 
 
-.controller('mycontroller', function($scope, $http) {
+.controller('phillycontroller', function($scope, $http) {
   $http.get('https://raw.githubusercontent.com/mcelaney/opportunities/master/pa-philadelphia.json').success(function(data) {
-      $scope.listings = data;
+      $scope.phillys = data;
+  });
+  $http.get('https://raw.githubusercontent.com/mcelaney/opportunities/master/pa-montgomery.json').success(function(data) {
+      $scope.montcos = data;
   });
 });
+
