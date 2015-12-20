@@ -1,19 +1,46 @@
 <!DOCTYPE HTML>
-	<HTML ng-app="jobapp">
-		<HEAD>
-			<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-			<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.5/angular.min.js"></script>
-			<script type="text/javascript" src="app.js"></script>
-		<HEAD>
-		<body>
-		  <div ng-controller="mycontroller" id="content" class="container">
-		      <div ng-repeat-start="listing in listings">
-			<a href="{{listing.url}}"><h1> {{listing.company}} </h1></a>
-			<p> {{listing.address}} </h1>
-		      </div>
-		      <li ng-repeat-end ng-repeat="listing in listing.positions">
-			{{listing.title}}
-		      </li>
-		  </div>
-		</body>
-	</HTML>
+<HTML ng-app="jobapp">
+  <HEAD>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <link rel="stylesheet" href="main.css" >
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.5/angular.min.js"></script>
+    <script type="text/javascript" src="app.js"></script>
+  </HEAD>
+  <body>
+    <div ng-controller="mycontroller" id="content" class="container">
+      <div class="row">
+	<div class="col-md-12">
+	  <h1>Philly Job Opportunities</h1>
+	</div>
+      </div>
+      <div class="row">
+	<div class="col-sm-12 col-md-8 col-md-offset-2">
+	  <ul class="list-group list-unstyled">
+	    <li ng-repeat="listing in listings"
+		class="list-group-item list-unstyled">
+	      <div class="row">
+		<div class="col-sm-4 col-md-5">
+		  <a href="{{listing.url}}"><h1> {{listing.company}} </h1></a>
+		  <p>{{listing.address}}</p>
+		</div>
+		<div class="col-sm-8 col-md-7">
+		  <ul class="list-unstyled">
+		    <li ng-repeat="listing in listing.positions">
+		      {{listing.title}}
+		    </li>
+		  </ul>
+		</div>
+	      </div>
+	    </li>
+	  </ul>
+	</div>
+      </div>
+    </div>
+  </body>
+</HTML>
