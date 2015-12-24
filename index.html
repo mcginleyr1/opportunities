@@ -10,31 +10,39 @@
 </head>
 
 <body>
-	    <h1>Philly Job Opportunites</h1> 
-	<div ng-controller="phillycontroller" id="content" class="container">
-		<br/>
-		<div ng-repeat="philly in phillys" class="panel panel-default">
-			<div class="panel-heading">
-				<h1><a href="{{philly.url}}">{{philly.company}}</a></h1>
-				<p>{{philly.address}}</p>
-			</div>
-		<div class="list-group">
-			<a ng-repeat="position in philly.positions" class="list-group-item" href="{{philly.url}}">
-				{{position.title}}
-			</a>
-		</div>
-	</div>
-	<div ng-controller="phillycontroller" id="content" class="container">
-		<div ng-repeat="montco in montcos" class="panel panel-default">
-			<div class="panel-heading">
-				<h1><a href="{{montco.url}}">{{montco.company}}</a></h1>
-				<p>{{montco.address}}</p>
-			</div>
-		<div class="list-group">
-			<a ng-repeat="position in montco.positions" class="list-group-item" href="{{montco.url}}">
-				{{position.title}}
-			</a>
-		</div>
+	<h1>Philly Job Opportunites</h1> 
+	<div class="container">
+	  <ul class="nav nav-tabs">
+	    <li><a href="#">Philly</a></li>
+	    <li><a href="#montco">MontCo</a></li>
+	  </ul>
+	  <div ng-controller="phillycontroller" id="content" class="container">
+		  <br/>
+		  <div ng-repeat="philly in phillys" class="panel panel-default">
+			  <div class="panel-heading">
+				  <h1><a href="{{philly.url}}">{{philly.company}}</a></h1>
+				  <p>{{philly.address}}</p>
+			  </div>
+		  <div class="list-group">
+			  <a ng-repeat="position in philly.positions" class="list-group-item" href="{{philly.url}}">
+				  {{position.title}}
+			  </a>
+		  </div>
+	  </div>
+	  <div ng-controller="phillycontroller" id="content" class="container">
+		  <h1 id="montco">Montgomery County</h1>
+		  <hr/>
+		  <div ng-repeat="montco in montcos" class="panel panel-default">
+			  <div class="panel-heading">
+				  <h1><a href="{{montco.url}}">{{montco.company}}</a></h1>
+				  <p>{{montco.address}}</p>
+			  </div>
+		  <div class="list-group">
+			  <a ng-repeat="position in montco.positions" class="list-group-item" href="{{montco.url}}">
+				  {{position.title}}
+			  </a>
+		  </div>
+	  </div>
 	</div>
 </body>
 
