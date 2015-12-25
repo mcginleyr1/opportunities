@@ -15,6 +15,10 @@
 	  <ul class="nav nav-tabs">
 	    <li><a href="#">Philly</a></li>
 	    <li><a href="#montco">MontCo</a></li>
+	    <li><a href="#bucks">bucks</a></li>
+	    <li><a href="#chester">Chester</a></li>
+	    <li><a href="#delaware">Delaware</a></li>
+	    <li><a href="#camden">Camden</a></li>
 	  </ul>
 	  <div ng-controller="phillycontroller" id="content" class="container">
 		  <br/>
@@ -23,11 +27,12 @@
 				  <h1><a href="{{philly.url}}">{{philly.company}}</a></h1>
 				  <p>{{philly.address}}</p>
 			  </div>
-		  <div class="list-group">
+				<div class="list-group">
 			  <a ng-repeat="position in philly.positions" class="list-group-item" href="{{philly.url}}">
 				  {{position.title}}
 			  </a>
 		  </div>
+		 </div>
 	  </div>
 	  <div ng-controller="phillycontroller" id="content" class="container">
 		  <h1 id="montco">Montgomery County</h1>
@@ -42,7 +47,68 @@
 				  {{position.title}}
 			  </a>
 		  </div>
+		 </div>
 	  </div>
+	  <div ng-controller="phillycontroller" id="content" class="container">
+		  <h1 id="bucks">Bucks County</h1>
+		  <hr/>
+		  <div ng-repeat="buck in bucks" class="panel panel-default">
+			  <div class="panel-heading">
+				  <h1><a href="{{buck.url}}">{{buck.company}}</a></h1>
+				  <p>{{buck.address}}</p>
+			  </div>
+		  <div class="list-group">
+			  <a ng-repeat="position in buck.positions" class="list-group-item" href="{{buck.url}}">
+				  {{position.title}}
+			  </a>
+		  </div>
+		</div>
+	  </div>
+	  <div ng-controller="phillycontroller" id="content" class="container">
+		  <h1 id="chester">Chester County</h1>
+		  <hr/>
+		  <div ng-repeat="chester in chesters" class="panel panel-default">
+			  <div class="panel-heading">
+				  <h1><a href="{{chester.url}}">{{chester.company}}</a></h1>
+				  <p>{{chester.address}}</p>
+			  </div>
+		  <div class="list-group">
+			  <a ng-repeat="position in chester.positions" class="list-group-item" href="{{chester.url}}">
+				  {{position.title}}
+			  </a>
+		  </div>
+	  </div>
+	</div>
+	  <div ng-controller="phillycontroller" id="content" class="container">
+		  <h1 id="delaware">Delaware County</h1>
+		  <hr/>
+		  <div ng-repeat="delaware in delawares" class="panel panel-default">
+			  <div class="panel-heading">
+				  <h1><a href="{{delaware.url}}">{{delaware.company}}</a></h1>
+				  <p>{{delaware.address}}</p>
+			  </div>
+		  <div class="list-group">
+			  <a ng-repeat="position in delaware.positions" class="list-group-item" href="{{delaware.url}}">
+				  {{position.title}}
+			  </a>
+		  </div>
+	  </div>
+	</div>
+	  <div ng-controller="phillycontroller" id="content" class="container">
+		  <h1 id="camden">Camden County</h1>
+		  <hr/>
+		  <div ng-repeat="camden in delawares" class="panel panel-default">
+			  <div class="panel-heading">
+				  <h1><a href="{{camden.url}}">{{delaware.company}}</a></h1>
+				  <p>{{camden.address}}</p>
+			  </div>
+		  <div class="list-group">
+			  <a ng-repeat="position in camden.positions" class="list-group-item" href="{{delaware.url}}">
+				  {{position.title}}
+			  </a>
+		  </div>
+	  </div>
+	</div>
 	</div>
 </body>
 
