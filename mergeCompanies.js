@@ -10,6 +10,34 @@ if (fileName && dirName) {
 
   counties.forEach(processCounty);
 
+  mergeAll(dirName);
+
+  function mergeAll(dirName) {
+    var companies = [];
+
+    fs.readdir(dirName, processCompanies);
+
+    function processCompanies(err, files) {
+      if (err) {
+        console.log(err);
+        return;
+      }
+
+      files = files.filter(isJsonFile);
+      files.sort(caseInsensitiveSort);
+      files.forEach(addCompany);
+
+      function addCompany(fileName) {
+        var text = fs.readFileSync(dirName + "/" + fileName, "utf8");
+        var company = JSON.parse(text);
+
+        companies.push(company);
+      }
+
+      writeCompanyMerge('all-companies.json', companies);
+    }
+  }
+
   function processCounty(county) {
     // "properties": { "STATE_NAME": "New Jersey", "STATE_FIPS": "34", "CNTY_FIPS": "007", "FIPS": "34007", "AREA_SQMI": 227.423213, "State": "NJ", "Co_Name": "Camden" }
     var geoPoints = county.geometry.coordinates[0];
@@ -37,17 +65,8 @@ if (fileName && dirName) {
         return;
       }
 
-      function isJson(file) {
-        return file.endsWith('.json');
-      }
-
-      files.sort(function (a, b) {
-        if (a.toLowerCase() < b.toLowerCase()) return -1;
-        if (a.toLowerCase() > b.toLowerCase()) return 1;
-        return 0;
-      });
-
-      files = files.filter(isJson);
+      files = files.filter(isJsonFile);
+      files.sort(caseInsensitiveSort);
       files.forEach(checkCompany);
 
       function checkCompany(fileName) {
@@ -76,6 +95,16 @@ if (fileName && dirName) {
       }
     }
 
+  }
+
+  function isJsonFile(file) {
+    return file.endsWith('.json');
+  }
+
+  function caseInsensitiveSort (a, b) {
+    if (a.toLowerCase() < b.toLowerCase()) return -1;
+    if (a.toLowerCase() > b.toLowerCase()) return 1;
+    return 0;
   }
 
   // converted c code from this page http://www.codeproject.com/Tips/84226/Is-a-Point-inside-a-Polygon
