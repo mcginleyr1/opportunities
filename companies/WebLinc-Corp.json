@@ -8,13 +8,22 @@
   },
   "positions": [
     {
-      "title": "Quality Assurance Manager"
+      "title": "ColdFusion Developer"
+    },
+    {
+      "title": "Front-End Developer"
+    },
+    {
+      "title": ".NET Lead Developer"
     },
     {
       "title": "Ruby On Rails Developer"
     },
     {
       "title": "Sr. Visual Designer"
+    },
+    {
+      "title": "User Experience Designer"
     }
   ]
 }

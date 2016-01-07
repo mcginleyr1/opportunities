@@ -1,35 +1,33 @@
-[
-  {
-    "company": "PhillyDev",
-    "type": [
-      "Organization"
-    ],
-    "url": "http://phillydev.org/#careers",
-    "address": "Philadelphia, PA",
-    "geo": {
-      "_comment": "You can use MyGeoPosition.com (http://mygeoposition.com/) to determine the geolocation for the address.",
+{
+  "company": "PhillyDev",
+  "type": [
+    "Organization"
+  ],
+  "url": "http://phillydev.org/#careers",
+  "address": "Philadelphia, PA",
+  "geo": {
+    "_comment": "You can use MyGeoPosition.com (http://mygeoposition.com/) to determine the geolocation for the address.",
+    "@context": "http://schema.org",
+    "@type": "GeoCoordinates",
+    "latitude": 40.07231,
+    "longitude": -75.203371
+  },
+  "positions": [
+    {
+      "_comment": "See https://schema.org/JobPosting for more attributes that can be used with a position.",
       "@context": "http://schema.org",
-      "@type": "GeoCoordinates",
-      "latitude": 40.07231,
-      "longitude": -75.203371
-    },
-    "positions": [
-      {
-        "_comment": "See https://schema.org/JobPosting for more attributes that can be used with a position.",
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "title": "Web Developer",
-        "occupationalCategory": "15-1134.00 Web Developers",
-        "responsibilities": "Design, create, and modify Web sites. Analyze user needs to implement Web site content, graphics, performance, and capacity. May integrate Web sites with other computer applications. May convert written, graphic, audio, and video components to compatible Web formats by using software designed to facilitate the creation of Web and multimedia content.",
-        "skills": "HTML5, CSS3, JavaScript, Git",
-        "baseSalary": {
-          "@type": "PriceSpecification",
-          "minPrice": 40000,
-          "maxPrice": 90000
-        },
-        "salaryCurrency": "USD",
-        "employmentType": "Internal"
-      }
-    ]
-  }
-]
+      "@type": "JobPosting",
+      "title": "Web Developer",
+      "occupationalCategory": "15-1134.00 Web Developers",
+      "responsibilities": "Design, create, and modify Web sites. Analyze user needs to implement Web site content, graphics, performance, and capacity. May integrate Web sites with other computer applications. May convert written, graphic, audio, and video components to compatible Web formats by using software designed to facilitate the creation of Web and multimedia content.",
+      "skills": "HTML5, CSS3, JavaScript, Git",
+      "baseSalary": {
+        "@type": "PriceSpecification",
+        "minPrice": 40000,
+        "maxPrice": 90000
+      },
+      "salaryCurrency": "USD",
+      "employmentType": "Internal"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "company": "Tuva Labs Inc",
+  "url": "https://tuvalabs.com/jobs/",
+  "address": "Philadelphia, PA",
+  "geo": {
+    "latitude": 39.952584,
+    "longitude": -75.165222
+  },
+  "positions": [
+    {
+      "title": "UI/UX Designer"
+    }
+  ]
+}
