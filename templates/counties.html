@@ -1,13 +1,12 @@
-<h1>{{cityName}}</h1>
-	 <div ng-repeat="philly in data" class="panel panel-default">
-			  <div class="panel-heading">
-				  
-				  <hr/><a href="{{philly.url}}">{{philly.company}}</a></h1>
-				  <p>{{philly.address}}</p>
-			  </div>
-				<div class="list-group">
-			  <a ng-repeat="position in philly.positions" class="list-group-item" href="{{philly.url}}">
-				  {{position.title}}
-			  </a>
-		  </div>
-	</div>
+<p><input type="text" ng-model="search"></p>
+<div ng-repeat="philly in data | filter : search" class="panel panel-default">
+  <div class="panel-heading">
+    <h1><a href="{{philly.url}}">{{philly.company}}</a></h1>
+    <p>{{philly.address}}</p>
+  </div>
+  <div class="list-group">
+    <a ng-repeat="position in philly.positions" class="list-group-item" href="{{philly.url}}">
+      {{position.title}}
+    </a>
+  </div>
+</div>
