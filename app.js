@@ -1,36 +1,38 @@
-angular.module('jobapp', [])
+angular.module('jobapp', ['ngRoute'])
 
+.config(function ($routeProvider,$locationProvider,$httpProvider) {
 
-.controller('phillycontroller', function($scope, $http) {
-  var phillyUrl ='https://raw.githubusercontent.com/mcelaney/opportunities/master/pa-philadelphia.json';
-  var montcoUrl ='https://raw.githubusercontent.com/mcelaney/opportunities/master/pa-montgomery.json';
-  var bucksUrl ='https://raw.githubusercontent.com/mcelaney/opportunities/master/pa-bucks.json';
-  var chesterUrl ='https://raw.githubusercontent.com/mcelaney/opportunities/master/pa-chester.json';
-  var delawareUrl ='https://raw.githubusercontent.com/mcelaney/opportunities/master/pa-delaware.json';
-  var camdenUrl ='https://raw.githubusercontent.com/mcelaney/opportunities/master/nj-camden.json';
+    $routeProvider
+      .when('/', {
+        controller: 'countyController',
+        templateUrl: '/templates/abc.html'
+      })
+      .when('/county/:countyname', {
+        controller: 'countyController',
+        templateUrl: '/templates/counties.html'
+      })
 
-  $http.get(phillyUrl).success(function(data) {
-      $scope.phillys = data;
-  });
+})
 
-  $http.get(montcoUrl).success(function(data) {
-      $scope.montcos = data;
-  });
+.controller("rootcontroller",function($scope){
+  console.log("rootcontroller");
+})
+.controller("countyController",function
+  ($scope,$http,$routeParams){
+    $scope.countyName=$routeParams.countyname;
 
-  $http.get(bucksUrl).success(function(data) {
-      $scope.bucks = data;
-  });
+  var urls={
+    "philly": 'https://raw.githubusercontent.com/mcelaney/opportunities/master/pa-philadelphia.json',
+    "montco": 'https://raw.githubusercontent.com/mcelaney/opportunities/master/pa-montgomery.json',
+    "bucks": 'https://raw.githubusercontent.com/mcelaney/opportunities/master/pa-bucks.json',
+    "chester": 'https://raw.githubusercontent.com/mcelaney/opportunities/master/pa-chester.json',
+    "delaware": 'https://raw.githubusercontent.com/mcelaney/opportunities/master/pa-delaware.json',
+    "camden": 'https://raw.githubusercontent.com/mcelaney/opportunities/master/nj-camden.json'
+  }
+  var url=urls[$scope.countyName]
+    $http.get(url).success(function(data) {
+      $scope.data = data;
+    });
+  })
 
-  $http.get(chesterUrl).success(function(data) {
-    $scope.chesters = data;
-  });
-
-  $http.get(delawareUrl).success(function(data) {
-    $scope.delawares = data;
-  });
-
-  $http.get(camdenUrl).success(function(data) {
-    $scope.camdens = data;
-  });
-});
 
