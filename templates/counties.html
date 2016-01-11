@@ -1,11 +1,10 @@
-<p><input type="text" ng-model="search"></p>
-<div ng-repeat="philly in data | filter : search" class="panel panel-default">
+<div ng-repeat="county in data | filter : search" class="panel panel-default">
   <div class="panel-heading">
-    <h1><a href="{{philly.url}}">{{philly.company}}</a></h1>
-    <p>{{philly.address}}</p>
+    <h1><a href="{{county.url}}">{{county.company}}</a></h1>
+    <p>{{county.address}}</p>
   </div>
   <div class="list-group">
-    <a ng-repeat="position in philly.positions" class="list-group-item" href="{{philly.url}}">
+    <a ng-repeat="position in county.positions" class="list-group-item" href="{{county.url}}">
       {{position.title}}
     </a>
   </div>

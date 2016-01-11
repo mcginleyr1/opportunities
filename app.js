@@ -5,7 +5,7 @@ angular.module('jobapp', ['ngRoute'])
     $routeProvider
       .when('/', {
         controller: 'countyController',
-        templateUrl: '/templates/abc.html'
+        templateUrl: '/templates/all.html'
       })
       .when('/county/:countyname', {
         controller: 'countyController',
