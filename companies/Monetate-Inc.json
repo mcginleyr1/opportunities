@@ -8,16 +8,22 @@
   },
   "positions": [
     {
-      "title": "Director of Delivery Engineering"
+      "title": "Data Scientist"
     },
     {
-      "title": "Web Developer"
+      "title": "DevOps Engineer"
+    },
+    {
+      "title": "Javascript Engineer"
+    },
+    {
+      "title": "Software Engineer"
     },
     {
       "title": "Product Manager"
     },
     {
-      "title": "DevOps Engineer"
+      "title": "Product Owner"
     }
   ]
 }
