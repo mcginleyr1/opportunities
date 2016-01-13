@@ -24,7 +24,7 @@
     },
     "positions": [
       {
-        "title": "Lead QA Engineer"
+        "title": "Director of Corporate Sales"
       }
     ]
   },
@@ -67,16 +67,19 @@
     },
     "positions": [
       {
-        "title": "SAP ERP Developer"
+        "title": "Oracle ETL/Database Developer"
       },
       {
-        "title": "Technical Project Manager"
+        "title": "Human Resources Generalist"
+      },
+      {
+        "title": "Enterprise Marketing Manager"
+      },
+      {
+        "title": "Director | Enterprise Accounts"
       },
       {
         "title": "Product Content Coordinator"
-      },
-      {
-        "title": "Business Intelligence Data Analyst"
       },
       {
         "title": "Software Engineer (Java)"
@@ -86,6 +89,9 @@
       },
       {
         "title": "Senior Java Software Engineer"
+      },
+      {
+        "title": "Customer Service Representative"
       }
     ]
   },
@@ -228,7 +234,7 @@
     },
     "positions": [
       {
-        "title": "DIGITAL MARKETING COORDINATOR"
+        "title": "SENIOR GRAPHIC DESIGNER"
       },
       {
         "title": "DEVELOPER"
@@ -245,13 +251,19 @@
     },
     "positions": [
       {
+        "title": "Billing Specialist"
+      },
+      {
+        "title": "Client Communications Specialist"
+      },
+      {
+        "title": "Client Support Specialist"
+      },
+      {
         "title": "Data Services Support Specialist"
       },
       {
-        "title": "Salesforce Developer"
-      },
-      {
-        "title": "Senior Systems Administrator"
+        "title": "Senior Information Security Analyst-Risk Management"
       },
       {
         "title": "Senior Systems Automation Engineer"
@@ -263,16 +275,7 @@
         "title": "Software Engineer-Data Services"
       },
       {
-        "title": "Sr. Windows Systems Administrator"
-      },
-      {
-        "title": "Technical Support Engineer"
-      },
-      {
-        "title": "UX/UI Designer"
-      },
-      {
-        "title": "Web Designer"
+        "title": "Staff Accountant"
       }
     ]
   },
@@ -317,13 +320,10 @@
     },
     "positions": [
       {
-        "title": "Manager/Director - DevOps"
+        "title": "Data Scientist"
       },
       {
         "title": "Senior Software Engineer"
-      },
-      {
-        "title": "Senior Systems Engineer DevOps"
       }
     ]
   },
@@ -337,16 +337,22 @@
     },
     "positions": [
       {
-        "title": "Director of Delivery Engineering"
+        "title": "Data Scientist"
       },
       {
-        "title": "Web Developer"
+        "title": "DevOps Engineer"
+      },
+      {
+        "title": "Javascript Engineer"
+      },
+      {
+        "title": "Software Engineer"
       },
       {
         "title": "Product Manager"
       },
       {
-        "title": "DevOps Engineer"
+        "title": "Product Owner"
       }
     ]
   },

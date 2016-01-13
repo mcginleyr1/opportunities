@@ -23,13 +23,22 @@
         "title": "Front End Engineer"
       },
       {
-        "title": "Senior Android Engineer"
+        "title": "QA Automation Engineer"
       },
       {
         "title": "Senior Operations Engineer"
       },
       {
         "title": "Senior Software Engineer"
+      },
+      {
+        "title": "Software Engineer"
+      },
+      {
+        "title": "Team Lead - Platform Services Engineering"
+      },
+      {
+        "title": "Team Lead - Web Experience"
       },
       {
         "title": "Technical Project Manager"
@@ -46,10 +55,10 @@
     },
     "positions": [
       {
-        "title": "Senior iOS Developer"
+        "title": "Web Application Developer"
       },
       {
-        "title": "Senior Android Developer"
+        "title": "Mobile Application Developer"
       }
     ]
   },
@@ -70,6 +79,12 @@
       },
       {
         "title": "Web Developer"
+      },
+      {
+        "title": "Copywriter Intern"
+      },
+      {
+        "title": "Graphic Design Intern"
       }
     ]
   },
@@ -100,22 +115,28 @@
     },
     "positions": [
       {
-        "title": "Software Architect, API New Hope, PA, United States"
+        "title": "Big Data Engineer"
       },
       {
-        "title": "Sr. Android Engineer / Architect New Hope, PA, United States"
+        "title": "Software Architect, API"
       },
       {
-        "title": "Sr. iOS Developer / Architect New Hope, PA, United States"
+        "title": "Sr. Android Engineer / Architect"
       },
       {
-        "title": "Sr. Software Developer (API) New Hope, PA, United States"
+        "title": "Sr. iOS Developer / Architect"
       },
       {
-        "title": "DevOps Engineer (Remote) New Hope, PA, United States"
+        "title": "Sr. Software Developer (API)"
       },
       {
         "title": "QA Developer (Automation)"
+      },
+      {
+        "title": "Sr. DevOps Engineer (Remote)"
+      },
+      {
+        "title": "Website Content Review & Customer Support Specialist"
       }
     ]
   },
