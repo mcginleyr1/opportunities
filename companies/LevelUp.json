@@ -8,25 +8,16 @@
   },
   "positions": [
     {
-      "title": ".NET Software Engineer"
-    },
-    {
       "title": "Ruby on Rails Developer"
     },
     {
       "title": "iOS Developer"
     },
     {
-      "title": "Jr iOS Developer"
+      "title": "Sr iOS Developer"
     },
     {
       "title": "Sr Android Developer"
-    },
-    {
-      "title": "Front End Web Designer/Developer"
-    },
-    {
-      "title": "Embedded Linux Engineer"
     }
   ]
 }

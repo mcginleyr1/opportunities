@@ -8,13 +8,19 @@
   },
   "positions": [
     {
+      "title": "Billing Specialist"
+    },
+    {
+      "title": "Client Communications Specialist"
+    },
+    {
+      "title": "Client Support Specialist"
+    },
+    {
       "title": "Data Services Support Specialist"
     },
     {
-      "title": "Salesforce Developer"
-    },
-    {
-      "title": "Senior Systems Administrator"
+      "title": "Senior Information Security Analyst-Risk Management"
     },
     {
       "title": "Senior Systems Automation Engineer"
@@ -26,16 +32,7 @@
       "title": "Software Engineer-Data Services"
     },
     {
-      "title": "Sr. Windows Systems Administrator"
-    },
-    {
-      "title": "Technical Support Engineer"
-    },
-    {
-      "title": "UX/UI Designer"
-    },
-    {
-      "title": "Web Designer"
+      "title": "Staff Accountant"
     }
   ]
 }

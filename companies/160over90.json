@@ -8,22 +8,34 @@
   },
   "positions": [
     {
+      "title": "Group Account Director"
+    },
+    {
       "title": "Account Supervisor"
     },
     {
       "title": "Account Director"
     },
     {
-      "title": "Senior Copywriter"
-    },
-    {
-      "title": "Senior Designer"
-    },
-    {
       "title": "Motion Graphics Designer"
     },
     {
       "title": "Video Editor"
+    },
+    {
+      "title": "Production Artist"
+    },
+    {
+      "title": "Production Manager"
+    },
+    {
+      "title": "Creative Director"
+    },
+    {
+      "title": "Senior Copywriter"
+    },
+    {
+      "title": "Drupal Developer"
     }
   ]
 }
