@@ -1,10 +1,10 @@
-<div ng-repeat="county in data | filter : search" class="panel panel-default">
+<div ng-repeat="opportunity in data | filter : search" class="panel panel-default">
   <div class="panel-heading">
-    <h1><a href="{{county.url}}">{{county.company}}</a></h1>
-    <p>{{county.address}}</p>
+    <h1><a href="{{opportunity.url}}">{{opportunity.company}}</a></h1>
+    <p>{{opportunity.address}}</p>
   </div>
   <div class="list-group">
-    <a ng-repeat="position in county.positions" class="list-group-item" href="{{county.url}}">
+    <a ng-repeat="position in opportunity.positions" class="list-group-item" href="{{opportunity.url}}">
       {{position.title}}
     </a>
   </div>
