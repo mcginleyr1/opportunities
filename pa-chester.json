@@ -38,9 +38,6 @@
         "title": "Software Engineer Java"
       },
       {
-        "title": "Software Engineer Java"
-      },
-      {
         "title": "Software QA Staff Engineer"
       }
     ]
@@ -65,13 +62,7 @@
         "title": "Software Developer"
       },
       {
-        "title": "Technical Specialist"
-      },
-      {
-        "title": "Test Engineer"
-      },
-      {
-        "title": "Controller"
+        "title": "ERP Product Specialist"
       }
     ]
   },
@@ -105,13 +96,10 @@
         "title": "Director, Data Management"
       },
       {
-        "title": "Program Manager"
+        "title": "Senior Director, Customer Marketing"
       },
       {
-        "title": "Product Manager"
-      },
-      {
-        "title": "Senior Software Developer (Java)"
+        "title": "Solution Architect, Senior"
       }
     ]
   },
@@ -124,6 +112,18 @@
       "longitude": -75.5168733857
     },
     "positions": [
+      {
+        "title": "Power Electronics Engineers"
+      },
+      {
+        "title": "Senior Electronics Engineers"
+      },
+      {
+        "title": "Electronics Engineers"
+      },
+      {
+        "title": "Electronics Technicians"
+      },
       {
         "title": "Embedded Software Engineers"
       }
