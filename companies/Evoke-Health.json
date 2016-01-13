@@ -6,5 +6,36 @@
     "latitude": 39.951591,
     "longitude": -75.163514
   },
-  "positions": []
+  "positions": [
+    {
+      "title": "User Experience (UX) Designer"
+    },
+    {
+      "title": "Senior QA Analyst"
+    },
+    {
+      "title": "Project Manager / Sr Project Manager"
+    },
+    {
+      "title": "Copywriter"
+    },
+    {
+      "title": "Art Director"
+    },
+    {
+      "title": "Account Supervisor"
+    },
+    {
+      "title": "Account Executive"
+    },
+    {
+      "title": "Account Director"
+    },
+    {
+      "title": "Proofreader"
+    },
+    {
+      "title": "Analytics Associate"
+    }
+  ]
 }

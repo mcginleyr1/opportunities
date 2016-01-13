@@ -6,5 +6,9 @@
     "latitude": 39.9491672,
     "longitude": -75.1628294
   },
-  "positions": []
+  "positions": [
+    {
+      "title": "Account Manager"
+    }
+  ]
 }
