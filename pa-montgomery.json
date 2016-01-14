@@ -376,13 +376,10 @@
     },
     "positions": [
       {
-        "title": "Sr. Java Programmer"
+        "title": "WordPress developer"
       },
       {
-        "title": "PHP zend developer"
-      },
-      {
-        "title": "Sr. Magento Developer"
+        "title": "Business Development Lead"
       },
       {
         "title": "Senior Engineer"
@@ -429,10 +426,25 @@
     },
     "positions": [
       {
-        "title": "Senior Client Project Manager"
+        "title": "CLIENT PROJECT MANAGER"
       },
       {
-        "title": "Software Engineer"
+        "title": "DATA ARCHITECT"
+      },
+      {
+        "title": "DEVOPS MANAGER"
+      },
+      {
+        "title": "FRONT-END DEVELOPER"
+      },
+      {
+        "title": "SCRUM MASTER"
+      },
+      {
+        "title": "SOFTWARE ENGINEER"
+      },
+      {
+        "title": "SR. SALES EXECUTIVE"
       }
     ]
   },
@@ -466,13 +478,10 @@
     },
     "positions": [
       {
-        "title": "Development Lead"
+        "title": "UX & Visual Design Contractors"
       },
       {
-        "title": "Senior Web Developer"
-      },
-      {
-        "title": "Web Developer"
+        "title": "Vice President of Client Engagement"
       },
       {
         "title": "Experience Designer- Contractor"
@@ -493,6 +502,9 @@
       },
       {
         "title": "iOS Developer"
+      },
+      {
+        "title": "User Interface / Visual Designer"
       }
     ]
   },
@@ -504,14 +516,7 @@
       "latitude": 40.133626,
       "longitude": -75.255467
     },
-    "positions": [
-      {
-        "title": "Software Engineer (All Levels)"
-      },
-      {
-        "title": "DevOps Engineer"
-      }
-    ]
+    "positions": []
   },
   {
     "company": "Zuppler",
@@ -521,6 +526,10 @@
       "latitude": 40.0738422857,
       "longitude": -75.2935051429
     },
-    "positions": []
+    "positions": [
+      {
+        "title": "Operations Project Manager"
+      }
+    ]
   }
 ]

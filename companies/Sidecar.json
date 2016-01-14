@@ -8,16 +8,37 @@
   },
   "positions": [
     {
-      "title": "Client Service Operations Manager"
+      "title": "Application Support Developer"
     },
     {
-      "title": "Data Scientist"
+      "title": "Infrastructure Support Developer"
+    },
+    {
+      "title": "Product Manager"
+    },
+    {
+      "title": "Technical Project Manager"
+    },
+    {
+      "title": "Sr. Product Analyst"
+    },
+    {
+      "title": "Sr. DevOps Engineer"
+    },
+    {
+      "title": "Systems Administrator"
+    },
+    {
+      "title": "Sr. Data Scientist"
     },
     {
       "title": "Sr. Front End Engineer"
     },
     {
       "title": "Sr. Product Engineer"
+    },
+    {
+      "title": "Content Marketing Manager"
     }
   ]
 }

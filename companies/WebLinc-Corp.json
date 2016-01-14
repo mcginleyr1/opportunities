@@ -8,22 +8,25 @@
   },
   "positions": [
     {
-      "title": "ColdFusion Developer"
-    },
-    {
-      "title": "Front-End Developer"
-    },
-    {
       "title": ".NET Lead Developer"
-    },
-    {
-      "title": "Ruby On Rails Developer"
     },
     {
       "title": "Sr. Visual Designer"
     },
     {
+      "title": "Ruby On Rails Developer"
+    },
+    {
+      "title": "Front-End Developer"
+    },
+    {
       "title": "User Experience Designer"
+    },
+    {
+      "title": "Sr. Project Manager"
+    },
+    {
+      "title": "Project Manager"
     }
   ]
 }
