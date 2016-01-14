@@ -142,6 +142,18 @@
         "title": "Senior Product Manager"
       },
       {
+        "title": "Customer Engagement Manager"
+      },
+      {
+        "title": "Marketing Coordinator"
+      },
+      {
+        "title": "Senior Software Engineer"
+      },
+      {
+        "title": "Customer Ambassador"
+      },
+      {
         "title": "QA Analyst"
       }
     ]
@@ -156,19 +168,19 @@
     },
     "positions": [
       {
+        "title": "Account Executive - Digital Sales and Marketing"
+      },
+      {
+        "title": "BI Contractor"
+      },
+      {
         "title": "SharePoint Contractor"
       },
       {
         "title": "Sitecore Developer"
       },
       {
-        "title": "BI and Data Warehouse Specialist"
-      },
-      {
-        "title": "Cloud Developer Architect"
-      },
-      {
-        "title": "Senior SharePoint Engineer"
+        "title": "Digital Marketing Strategist"
       },
       {
         "title": "Cloud Developer Architect Contractor"
@@ -206,7 +218,7 @@
     },
     "positions": [
       {
-        "title": "Software Developer"
+        "title": "Business Analyst"
       }
     ]
   },
@@ -223,13 +235,13 @@
         "title": "UI Designer"
       },
       {
+        "title": "Architect"
+      },
+      {
         "title": "Cloud Services Developer"
       },
       {
         "title": "DevOps Engineer"
-      },
-      {
-        "title": "Director of Engineering"
       },
       {
         "title": "Javascript UI Developer"
@@ -242,6 +254,12 @@
       },
       {
         "title": "QA Test Engineer"
+      },
+      {
+        "title": "Data Analytics Lead Contributor"
+      },
+      {
+        "title": "Director, Content and Brand Marketing"
       }
     ]
   },
@@ -256,15 +274,6 @@
     "positions": [
       {
         "title": "ALGORITHM ENGINEER"
-      },
-      {
-        "title": "SENIOR FRONTEND ENGINEER"
-      },
-      {
-        "title": "SENIOR SERVER BACKEND ENGINEER"
-      },
-      {
-        "title": "SENIOR IOS ENGINEER"
       }
     ]
   }

@@ -6,5 +6,9 @@
     "latitude": 39.95124,
     "longitude": -75.179508
   },
-  "positions": []
+  "positions": [
+    {
+      "title": "Software Engineer"
+    }
+  ]
 }

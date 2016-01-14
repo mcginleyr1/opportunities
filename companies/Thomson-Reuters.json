@@ -1,6 +1,6 @@
 {
   "company": "Thomson Reuters",
-  "url": "https://toc.taleo.net/careersection/advanced_search/moresearch.tl?keyword=Philadelphia",
+  "url": "https://toc.taleo.net/careersection/2/moresearch.ftl?iniurl.src=CWS-10140",
   "address": "1500 Spring Garen Street, Philadelphia, PA 19130",
   "geo": {
     "latitude": 39.962595,
@@ -8,19 +8,13 @@
   },
   "positions": [
     {
-      "title": "Senior Program Manager"
+      "title": "QA Engineer"
+    },
+    {
+      "title": "Senior Director, Sales Training & Development"
     },
     {
       "title": "Technology Consultant"
-    },
-    {
-      "title": "Lead Full-Stack Engineer"
-    },
-    {
-      "title": "API Engineer"
-    },
-    {
-      "title": "Technical Solutions Architect"
     }
   ]
 }

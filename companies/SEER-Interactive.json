@@ -6,5 +6,36 @@
     "latitude": 39.9672323333,
     "longitude": -75.1400423333
   },
-  "positions": []
+  "positions": [
+    {
+      "title": "Digital Strategy Manager"
+    },
+    {
+      "title": "Director of Business Strategy"
+    },
+    {
+      "title": "Analytics Associate"
+    },
+    {
+      "title": "Director of Paid Search"
+    },
+    {
+      "title": "Analytics Account Manager"
+    },
+    {
+      "title": "Technical SEO Associate"
+    },
+    {
+      "title": "SEO Account Manager"
+    },
+    {
+      "title": "PPC Associate"
+    },
+    {
+      "title": "PPC Account Manager"
+    },
+    {
+      "title": "SEO Associate"
+    }
+  ]
 }
