@@ -1503,44 +1503,6 @@
     "positions": []
   },
   {
-    "company": "NavigationArts",
-    "url": "http://www.navigationarts.com/our-company/careers",
-    "address": "125 North 3rd Street, Floor 4",
-    "geo": {
-      "latitude": 39.9528668,
-      "longitude": -75.1450802
-    },
-    "positions": [
-      {
-        "title": "Interactive Visual Designer"
-      },
-      {
-        "title": "Information Architect"
-      },
-      {
-        "title": "Senior Web Business/Systems Analyst"
-      },
-      {
-        "title": "Senior Project Manager"
-      },
-      {
-        "title": "Lead Front-End Developer"
-      },
-      {
-        "title": ".NET Web Application Developer"
-      },
-      {
-        "title": "Senior .NET Web Application Developer (Sitecore)"
-      },
-      {
-        "title": "Drupal CMS Developer"
-      },
-      {
-        "title": "Senior MEAN Stack Developer"
-      }
-    ]
-  },
-  {
     "company": "Netplus",
     "url": "http://thinknetplus.com/contact/#netplus-jobs",
     "address": "718 Arch St Suite #400S",
@@ -1549,6 +1511,15 @@
       "longitude": -75.1518336122
     },
     "positions": [
+      {
+        "title": "Interactive Designer"
+      },
+      {
+        "title": "Social Media Community Manager"
+      },
+      {
+        "title": "Search and Social Advertising Manager"
+      },
       {
         "title": "Web Developer Full-Stack"
       },
@@ -1584,10 +1555,7 @@
     },
     "positions": [
       {
-        "title": "PROJECT MANAGER"
-      },
-      {
-        "title": "LEAD UI / UX DESIGNER"
+        "title": "UI / UX DESIGNER"
       },
       {
         "title": "IOS DEVELOPER"
@@ -1613,13 +1581,10 @@
     },
     "positions": [
       {
-        "title": "Sr. Java Programmer"
+        "title": "WordPress developer"
       },
       {
-        "title": "PHP zend developer"
-      },
-      {
-        "title": "Sr. Magento Developer"
+        "title": "Business Development Lead"
       },
       {
         "title": "Senior Engineer"
@@ -1658,7 +1623,17 @@
       "latitude": 39.9532393469,
       "longitude": -75.1705572449
     },
-    "positions": []
+    "positions": [
+      {
+        "title": "Lead Content Designer / Instructional Designer"
+      },
+      {
+        "title": "Client Success Manager"
+      },
+      {
+        "title": "Account Executive"
+      }
+    ]
   },
   {
     "company": "Philadelphia Convention & Visitors Bureau PHLCVB",
@@ -1668,7 +1643,11 @@
       "latitude": 39.952974,
       "longitude": -75.168444
     },
-    "positions": []
+    "positions": [
+      {
+        "title": "Marketing Specialist"
+      }
+    ]
   },
   {
     "company": "Philly Marketing Labs",
@@ -1681,12 +1660,18 @@
     "positions": [
       {
         "title": "Web Marketing Project Manager"
+      },
+      {
+        "title": "Organic Search Manager"
+      },
+      {
+        "title": "Paid Search Manager"
       }
     ]
   },
   {
     "company": "Picwell",
-    "url": "https://careers.picwell.com/",
+    "url": "http://nerds.picwell.com/jobs/",
     "address": "2200 Arch St Suite 101, Philadelphia PA 19103",
     "geo": {
       "latitude": 39.9558749,
@@ -1715,6 +1700,18 @@
     "positions": [
       {
         "title": "Senior Product Manager"
+      },
+      {
+        "title": "Customer Engagement Manager"
+      },
+      {
+        "title": "Marketing Coordinator"
+      },
+      {
+        "title": "Senior Software Engineer"
+      },
+      {
+        "title": "Customer Ambassador"
       },
       {
         "title": "QA Analyst"
@@ -1793,11 +1790,7 @@
       "latitude": 39.9345045143,
       "longitude": -75.1578163143
     },
-    "positions": [
-      {
-        "title": "Designer"
-      }
-    ]
+    "positions": []
   },
   {
     "company": "Push10 Design",
@@ -1807,15 +1800,11 @@
       "latitude": 39.9528668,
       "longitude": -75.1450802
     },
-    "positions": [
-      {
-        "title": "WordPress Developer"
-      }
-    ]
+    "positions": []
   },
   {
     "company": "Razorfish Health",
-    "url": "http://www.publicishealthcare.com/en/careers/applyForJobs.aspx",
+    "url": "https://publicis.taleo.net/careersection/phcg_external_career_section/jobsearch.ftl?keyword=razorfishhealth&searchExpanded=FALSE#",
     "address": "100 Penn Square East, Philadelphia, PA 19107",
     "geo": {
       "latitude": 39.94491,
@@ -1833,19 +1822,19 @@
     },
     "positions": [
       {
+        "title": "Account Executive - Digital Sales and Marketing"
+      },
+      {
+        "title": "BI Contractor"
+      },
+      {
         "title": "SharePoint Contractor"
       },
       {
         "title": "Sitecore Developer"
       },
       {
-        "title": "BI and Data Warehouse Specialist"
-      },
-      {
-        "title": "Cloud Developer Architect"
-      },
-      {
-        "title": "Senior SharePoint Engineer"
+        "title": "Digital Marketing Strategist"
       },
       {
         "title": "Cloud Developer Architect Contractor"
@@ -1863,6 +1852,12 @@
     "positions": [
       {
         "title": "APP DEVELOPER"
+      },
+      {
+        "title": "ART DIRECTOR"
+      },
+      {
+        "title": "COPYWRITER"
       }
     ]
   },
@@ -1876,10 +1871,25 @@
     },
     "positions": [
       {
-        "title": "Senior Client Project Manager"
+        "title": "CLIENT PROJECT MANAGER"
       },
       {
-        "title": "Software Engineer"
+        "title": "DATA ARCHITECT"
+      },
+      {
+        "title": "DEVOPS MANAGER"
+      },
+      {
+        "title": "FRONT-END DEVELOPER"
+      },
+      {
+        "title": "SCRUM MASTER"
+      },
+      {
+        "title": "SOFTWARE ENGINEER"
+      },
+      {
+        "title": "SR. SALES EXECUTIVE"
       }
     ]
   },
@@ -1893,13 +1903,28 @@
     },
     "positions": [
       {
-        "title": "Web Developer"
+        "title": "Manager, Digital Analytics and Insights"
       },
       {
-        "title": "Technical Project Manager"
+        "title": "Manager, Usability and Research"
       },
       {
         "title": "Senior Product Designer"
+      },
+      {
+        "title": "Search Engine Marketing (SEM) Manager"
+      },
+      {
+        "title": "Digital Marketing Manager - Display/Media"
+      },
+      {
+        "title": "Digital Content Manager - Editorial"
+      },
+      {
+        "title": "RevZilla Video Production Coordinator"
+      },
+      {
+        "title": "Web Developer"
       }
     ]
   },
@@ -1930,16 +1955,16 @@
     },
     "positions": [
       {
-        "title": "Director of Infrmation Security"
+        "title": "Data Analyst"
+      },
+      {
+        "title": "Data Warehouse Analyst"
       },
       {
         "title": "Security Engineer"
       },
       {
         "title": "Senior Web Applications Engineer"
-      },
-      {
-        "title": "Software Engineer"
       }
     ]
   },
@@ -1994,7 +2019,7 @@
     },
     "positions": [
       {
-        "title": "Software Developer"
+        "title": "Business Analyst"
       }
     ]
   },
@@ -2006,7 +2031,38 @@
       "latitude": 39.9672323333,
       "longitude": -75.1400423333
     },
-    "positions": []
+    "positions": [
+      {
+        "title": "Digital Strategy Manager"
+      },
+      {
+        "title": "Director of Business Strategy"
+      },
+      {
+        "title": "Analytics Associate"
+      },
+      {
+        "title": "Director of Paid Search"
+      },
+      {
+        "title": "Analytics Account Manager"
+      },
+      {
+        "title": "Technical SEO Associate"
+      },
+      {
+        "title": "SEO Account Manager"
+      },
+      {
+        "title": "PPC Associate"
+      },
+      {
+        "title": "PPC Account Manager"
+      },
+      {
+        "title": "SEO Associate"
+      }
+    ]
   },
   {
     "company": "Sidecar",
@@ -2018,16 +2074,37 @@
     },
     "positions": [
       {
-        "title": "Client Service Operations Manager"
+        "title": "Application Support Developer"
       },
       {
-        "title": "Data Scientist"
+        "title": "Infrastructure Support Developer"
+      },
+      {
+        "title": "Product Manager"
+      },
+      {
+        "title": "Technical Project Manager"
+      },
+      {
+        "title": "Sr. Product Analyst"
+      },
+      {
+        "title": "Sr. DevOps Engineer"
+      },
+      {
+        "title": "Systems Administrator"
+      },
+      {
+        "title": "Sr. Data Scientist"
       },
       {
         "title": "Sr. Front End Engineer"
       },
       {
         "title": "Sr. Product Engineer"
+      },
+      {
+        "title": "Content Marketing Manager"
       }
     ]
   },
@@ -2061,16 +2138,16 @@
     "address": "",
     "positions": [
       {
-        "title": "Core Java Development Engineer"
+        "title": "Sr. Core Java developer"
       },
       {
         "title": "Sr. Android developer"
       },
       {
-        "title": "Sr. Lead Java developer"
+        "title": "Ruby on Rails Web Developer"
       },
       {
-        "title": "Sr. Core Java developer"
+        "title": "Project Manager (Collateral Management Software Implementation)"
       }
     ]
   },
@@ -2104,13 +2181,10 @@
     },
     "positions": [
       {
-        "title": "Development Lead"
+        "title": "UX & Visual Design Contractors"
       },
       {
-        "title": "Senior Web Developer"
-      },
-      {
-        "title": "Web Developer"
+        "title": "Vice President of Client Engagement"
       },
       {
         "title": "Experience Designer- Contractor"
@@ -2119,7 +2193,7 @@
   },
   {
     "company": "Thomson Reuters",
-    "url": "https://toc.taleo.net/careersection/advanced_search/moresearch.tl?keyword=Philadelphia",
+    "url": "https://toc.taleo.net/careersection/2/moresearch.ftl?iniurl.src=CWS-10140",
     "address": "1500 Spring Garen Street, Philadelphia, PA 19130",
     "geo": {
       "latitude": 39.962595,
@@ -2127,19 +2201,13 @@
     },
     "positions": [
       {
-        "title": "Senior Program Manager"
+        "title": "QA Engineer"
+      },
+      {
+        "title": "Senior Director, Sales Training & Development"
       },
       {
         "title": "Technology Consultant"
-      },
-      {
-        "title": "Lead Full-Stack Engineer"
-      },
-      {
-        "title": "API Engineer"
-      },
-      {
-        "title": "Technical Solutions Architect"
       }
     ]
   },
@@ -2154,9 +2222,6 @@
     "positions": [
       {
         "title": "Development Director, Mobile"
-      },
-      {
-        "title": "iOS Developer"
       }
     ]
   },
@@ -2168,7 +2233,11 @@
       "latitude": 39.95124,
       "longitude": -75.179508
     },
-    "positions": []
+    "positions": [
+      {
+        "title": "Software Engineer"
+      }
+    ]
   },
   {
     "company": "Tonic Design Co",
@@ -2180,13 +2249,13 @@
     },
     "positions": [
       {
+        "title": ".NET/C# Developer"
+      },
+      {
         "title": "Experience Design Lead"
       },
       {
         "title": "Mobile Developers - Android & iOS"
-      },
-      {
-        "title": "Ruby on Rails Developer"
       },
       {
         "title": "Senior User Experience Designer (UX)"
@@ -2207,6 +2276,9 @@
       },
       {
         "title": "iOS Developer"
+      },
+      {
+        "title": "User Interface / Visual Designer"
       }
     ]
   },
@@ -2218,11 +2290,7 @@
       "latitude": 39.952584,
       "longitude": -75.165222
     },
-    "positions": [
-      {
-        "title": "UI/UX Designer"
-      }
-    ]
+    "positions": []
   },
   {
     "company": "Velora Studios",
@@ -2268,22 +2336,25 @@
     },
     "positions": [
       {
-        "title": "ColdFusion Developer"
-      },
-      {
-        "title": "Front-End Developer"
-      },
-      {
         "title": ".NET Lead Developer"
-      },
-      {
-        "title": "Ruby On Rails Developer"
       },
       {
         "title": "Sr. Visual Designer"
       },
       {
+        "title": "Ruby On Rails Developer"
+      },
+      {
+        "title": "Front-End Developer"
+      },
+      {
         "title": "User Experience Designer"
+      },
+      {
+        "title": "Sr. Project Manager"
+      },
+      {
+        "title": "Project Manager"
       }
     ]
   },
@@ -2312,14 +2383,7 @@
       "latitude": 40.133626,
       "longitude": -75.255467
     },
-    "positions": [
-      {
-        "title": "Software Engineer (All Levels)"
-      },
-      {
-        "title": "DevOps Engineer"
-      }
-    ]
+    "positions": []
   },
   {
     "company": "YIKES Inc",
@@ -2358,13 +2422,13 @@
         "title": "UI Designer"
       },
       {
+        "title": "Architect"
+      },
+      {
         "title": "Cloud Services Developer"
       },
       {
         "title": "DevOps Engineer"
-      },
-      {
-        "title": "Director of Engineering"
       },
       {
         "title": "Javascript UI Developer"
@@ -2377,6 +2441,12 @@
       },
       {
         "title": "QA Test Engineer"
+      },
+      {
+        "title": "Data Analytics Lead Contributor"
+      },
+      {
+        "title": "Director, Content and Brand Marketing"
       }
     ]
   },
@@ -2391,15 +2461,6 @@
     "positions": [
       {
         "title": "ALGORITHM ENGINEER"
-      },
-      {
-        "title": "SENIOR FRONTEND ENGINEER"
-      },
-      {
-        "title": "SENIOR SERVER BACKEND ENGINEER"
-      },
-      {
-        "title": "SENIOR IOS ENGINEER"
       }
     ]
   },
@@ -2411,6 +2472,10 @@
       "latitude": 40.0738422857,
       "longitude": -75.2935051429
     },
-    "positions": []
+    "positions": [
+      {
+        "title": "Operations Project Manager"
+      }
+    ]
   }
 ]
