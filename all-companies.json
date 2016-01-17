@@ -605,6 +605,26 @@
     ]
   },
   {
+    "company": "CLVmetrics",
+    "url": "http://jobs.lever.co/clvmetrics",
+    "address": "4040 Locust St, Philadelphia, PA",
+    "geo": {
+      "latitude": "39.953097",
+      "longitude": "-75.204864"
+    },
+    "positions": [
+      {
+        "title": "Backend Engineer"
+      },
+      {
+        "title": "Frontend Engineer"
+      },
+      {
+        "title": "Full Stack Engineer"
+      }
+    ]
+  },
+  {
     "company": "CoreDial",
     "url": "https://careers-coredial.icims.com/jobs/search?ss=1&hashed=-435708982",
     "address": "Hillcrest I, 751 Arbor Way, Suite 150, Blue Bell PA, 19422",
