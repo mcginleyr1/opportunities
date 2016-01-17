@@ -385,7 +385,6 @@
       }
     ]
   },
-
   {
     "company": "Curalate",
     "url": "https://boards.greenhouse.io/curalate#.VkAHsa6rRE5",
@@ -1274,6 +1273,20 @@
       "longitude": -75.1728245
     },
     "positions": []
+  },
+  {
+    "company": "Stuzo",
+    "url": "http://www.stuzo.com/careers/",
+    "address": "211 North 13th Street, Suite 802, Philadelphia, PA 19107",
+    "geo": {
+      "latitude": 39.956513,
+      "longitude": -75.160248
+    },
+    "positions": [
+      {
+        "title": "Technical Project Manager"
+      }
+    ]
   },
   {
     "company": "Technically Media",
