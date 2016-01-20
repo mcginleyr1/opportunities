@@ -1,5 +1,22 @@
 [
   {
+    "company": "1 Trick Pony",
+    "url": "http://1trickpony.com/jobs/",
+    "address": "251 Bellevue Ave, Hammonton, NJ 08037",
+    "geo": {
+      "latitude": 39.6371142269,
+      "longitude": -74.8023355257
+    },
+    "positions": [
+      {
+        "title": "FRONT-END DEVELOPER"
+      },
+      {
+        "title": "SR. COPYWRITER / CONCEPT LEAD"
+      }
+    ]
+  },
+  {
     "company": "160over90",
     "url": "http://www.160over90.com/careers/",
     "address": "1 South Broad Street, 10th Floor, Philadelphia, PA 19107",
@@ -434,6 +451,20 @@
       "longitude": -75.1502415238
     },
     "positions": []
+  },
+  {
+    "company": "Brownstein Group",
+    "url": "http://www.brownsteingroup.com/careers/",
+    "address": "215 South Broad Street, Philadelphia, PA 19107",
+    "geo": {
+      "latitude": 39.9485219589,
+      "longitude": -75.1646539375
+    },
+    "positions": [
+      {
+        "title": "Production Artist"
+      }
+    ]
   },
   {
     "company": "BuLogics",
@@ -1102,6 +1133,25 @@
     ]
   },
   {
+    "company": "Happy Cog",
+    "url": "http://www.happycog.com/",
+    "address": "1315 Walnut St, Philadelphia, PA 19107",
+    "geo": {
+      "latitude": 39.949591,
+      "longitude": -75.16289
+    },
+    "positions": [
+      {
+        "title": "Designer",
+        "datePosted": "2016-01-05"
+      },
+      {
+        "title": "Senior Designer",
+        "datePosted": "2016-01-05"
+      }
+    ]
+  },
+  {
     "company": "Here's My Chance",
     "url": "http://heresmychance.com/careers/",
     "address": "121 S. 13th Street 4th Floor Philadelphia, PA 19107",
@@ -1552,6 +1602,25 @@
       },
       {
         "title": "Digital Project Manager"
+      }
+    ]
+  },
+  {
+    "company": "Night Kitchen Interactive",
+    "url": "http://www.whatscookin.com/about/careers",
+    "address": "411 South 2nd Street, Suite 200, Philadelphia, PA 19147",
+    "geo": {
+      "latitude": 39.942945848,
+      "longitude": -75.1449762344
+    },
+    "positions": [
+      {
+        "title": "Creative Lead",
+        "datePosted": "2015-07-28"
+      },
+      {
+        "title": "Interactive Web Developer",
+        "datePosted": "2015-07-28"
       }
     ]
   },
@@ -2034,6 +2103,23 @@
     ]
   },
   {
+    "company": "RTO+P",
+    "url": "http://www.rtop.com/",
+    "address": "1 South Broad Street, 24th Floor, Philadelphia, PA 19107",
+    "geo": {
+      "latitude": 39.951741,
+      "longitude": -75.163514
+    },
+    "positions": [
+      {
+        "title": "RT DIRECTOR"
+      },
+      {
+        "title": "APP DEVELOPER"
+      }
+    ]
+  },
+  {
     "company": "Savana, Inc.",
     "url": "http://savanainc.com/company/careers/",
     "address": "920 Cassatt Road, Suite 220, Berwyn, PA 19312",
@@ -2044,6 +2130,20 @@
     "positions": [
       {
         "title": "Business Analyst"
+      }
+    ]
+  },
+  {
+    "company": "Scala",
+    "url": "http://join.scala.com/careers/",
+    "address": "7 Great Valley Pkwy #300, Malvern, PA 19355",
+    "geo": {
+      "latitude": 40.0632385406,
+      "longitude": -75.5384306945
+    },
+    "positions": [
+      {
+        "title": "Programmer"
       }
     ]
   },
@@ -2264,7 +2364,7 @@
     ]
   },
   {
-    "company": "TicketLeap",
+    "company": "Ticketleap",
     "url": "http://ticketleap.theresumator.com/",
     "address": "2401 Walnut Street, Suite 502, Philadelphia, PA 19103",
     "geo": {

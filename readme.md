@@ -16,10 +16,11 @@ Just a dump of data I've been collecting on companies hiring around Philadelphia
 ## Contributing
 
 ### New company
-If want to list a new company, please perform the following steps:
+If you want to list a new company, please perform the following steps:
 
-* Fork this repository.
-* Create a new JSON file in the `companies` folder. Please only use Alphanumeric characters [A-Za-z0-9] or "-" for the company portion of the filename.
+* Fork the repository.
+* Create a new JSON file in the `companies` folder.
+  * Please only use Alphanumeric characters [A-Za-z0-9] or "-" for the company portion of the filename.
 * Review the `sample.json` file to see an example.
 * For the company object populate the following attributes:
   * company
@@ -44,7 +45,7 @@ If you have thoughts on how to enhance the meta data, please open an [issue](htt
 
 ## Build
 
-For building the county files, have Node.js and npm installed. Type `npm run merge` to merge the company JSON files into their county file.
+For building the county files, you need to have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed. Type `npm run merge` to merge the company JSON files into their county file.
 
 
 ## Acknowledgements
