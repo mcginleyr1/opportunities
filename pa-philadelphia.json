@@ -2,9 +2,9 @@
   {
     "company": "160over90",
     "url": "http://www.160over90.com/careers/",
-    "address": "1 S. Broad St., 10th Floor, Philadelphia, PA 19107",
+    "address": "1 South Broad Street, 10th Floor, Philadelphia, PA 19107",
     "geo": {
-      "latitude": 39.951591,
+      "latitude": 39.951741,
       "longitude": -75.163514
     },
     "positions": [
@@ -79,10 +79,10 @@
   {
     "company": "Allen & Gerritsen",
     "url": "http://www.a-g.com/careers/",
-    "address": "619 Walnut St, Philadelphia, PA 19128",
+    "address": "1619 Walnut St. Philadelphia, PA 19103",
     "geo": {
-      "latitude": 39.9461686667,
-      "longitude": -75.15197
+      "latitude": 39.9499277431,
+      "longitude": -75.1677158144
     },
     "positions": [
       {
@@ -123,12 +123,12 @@
     ]
   },
   {
-    "company": "Arcweb",
+    "company": "Arcweb Technologies",
     "url": "https://arcweb.co/careers/",
-    "address": "234 Market St, Philadelphia, PA 19106",
+    "address": "234 Market Street, 5th Floor, Philadelphia, PA 19106",
     "geo": {
-      "latitude": 39.950092,
-      "longitude": -75.1449277143
+      "latitude": 39.9499438006,
+      "longitude": -75.1449411502
     },
     "positions": [
       {
@@ -215,10 +215,10 @@
   {
     "company": "Bluecadet",
     "url": "http://www.bluecadet.com/contact/careers/",
-    "address": "1011 N Hancock st, Philadelphia PA 19123",
+    "address": "1526 Frankford Ave, Philadelphia, PA 19125",
     "geo": {
-      "latitude": 39.965753,
-      "longitude": -75.1392843333
+      "latitude": 39.9735053244,
+      "longitude": -75.1338803439
     },
     "positions": [
       {
@@ -390,7 +390,7 @@
     "url": "https://boards.greenhouse.io/curalate#.VkAHsa6rRE5",
     "address": "2401 Walnut St #502, Philadelphia, PA 19103",
     "geo": {
-      "latitude": 39.95124,
+      "latitude": 39.95109,
       "longitude": -75.179508
     },
     "positions": [
@@ -674,10 +674,10 @@
   {
     "company": "Intuitive Company",
     "url": "http://intuitivecompany.com/careers/",
-    "address": "3 Rector Street, Philadelphia PA, 19127",
+    "address": "3 Rector St #2, Philadelphia, PA 19127",
     "geo": {
-      "latitude": 40.0241577959,
-      "longitude": -75.2220595102
+      "latitude": 40.0240484551,
+      "longitude": -75.22196085
     },
     "positions": [
       {
@@ -919,10 +919,10 @@
   {
     "company": "O3 World",
     "url": "http://o3world.com/careers/",
-    "address": "1000 N. Hancock St. Suite 103 Philadelphia PA, 19123",
+    "address": "1339 Frankford Avenue, Suite 3, Philadelphia, PA 19125",
     "geo": {
-      "latitude": 39.9652262979,
-      "longitude": -75.1398402553
+      "latitude": 39.9712247406,
+      "longitude": -75.1342654346
     },
     "positions": [
       {
@@ -1309,6 +1309,26 @@
     "positions": []
   },
   {
+    "company": "Think Brownstone",
+    "url": "https://www.thinkbrownstone.com/careers/",
+    "address": "111 South 15th Street, Mezzanine, Philadelphia, PA 19102",
+    "geo": {
+      "latitude": 39.950745,
+      "longitude": -75.165716
+    },
+    "positions": [
+      {
+        "title": "UX & Visual Design Contractors"
+      },
+      {
+        "title": "Vice President of Client Engagement"
+      },
+      {
+        "title": "Experience Designer- Contractor"
+      }
+    ]
+  },
+  {
     "company": "Thomson Reuters",
     "url": "https://toc.taleo.net/careersection/2/moresearch.ftl?iniurl.src=CWS-10140",
     "address": "1500 Spring Garen Street, Philadelphia, PA 19130",
@@ -1333,7 +1353,7 @@
     "url": "https://thoughtbot.com/jobs",
     "address": "2401 Walnut St, Suite 102, Philadelphia, PA 19103",
     "geo": {
-      "latitude": 39.95124,
+      "latitude": 39.95109,
       "longitude": -75.179508
     },
     "positions": [
