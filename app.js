@@ -14,7 +14,7 @@ var app = angular.module('jobapp', ['ngRoute'])
 
 
 app.service('Opportunity', function($http, $q) {
-  var opportunities = ['pa-philadelphia', 'pa-montgomery', 'pa-bucks', 'pa-chester', 'pa-delaware', 'nj-camden'];  
+  var opportunities = ['pa-bucks', 'pa-philadelphia', 'pa-chester', 'pa-delaware', 'pa-montgomery','nj-camden'];  
   function fetch(memo, name) { 
     var url = 'https://raw.githubusercontent.com/mcelaney/opportunities/master/' + name + '.json';
     memo[name] = $http.get(url).then(function(resp) { return resp.data; }); 
