@@ -1,4 +1,4 @@
-<div ng-repeat="opportunity in data | filter : search" class="panel panel-default">
+<div ng-repeat="opportunity in data | filter : search" class="panel panel-default" ng-show="opportunity.positions != ''">
   <div class="panel-heading">
     <h1><a href="{{opportunity.url}}">{{opportunity.company}}</a></h1>
     <p>{{opportunity.address}}</p>
