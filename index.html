@@ -9,8 +9,8 @@
 <body>
   <div ng-controller="mycontroller" id="content" class="container">
     <br/>
-    <div ng-repeat="listing in listings" class="panel panel-default">
-      <div class="panel-heading">
+    <div ng-repeat="listing in listings" class="panel panel-default" >
+      <div class="panel-heading" ng-show="listing.positions != ''">
 	<h1><a href="{{listing.url}}">{{listing.company}}</a></h1>
 	<p>{{listing.address}}</p>
       </div>
