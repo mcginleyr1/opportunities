@@ -18,8 +18,8 @@
     </nav>  
     <div ng-controller="mycontroller" id="content" class="container">
       <br/>
-      <div ng-repeat="listing in listings | filter : search" class="panel panel-default">
-	<div class="panel-heading" ng-show="listing.positions != ''">
+      <div ng-repeat="listing in listings | filter : search" class="panel panel-default" ng-show="listing.positions != ''">
+	<div class="panel-heading">
 	  <h1><a href="{{listing.url}}">{{listing.company}}</a></h1>
 	  <p>{{listing.address}}</p>
 	</div>
