@@ -11,6 +11,21 @@
     "positions": []
   },
   {
+    "company": "AppNexus Inc",
+    "url": "http://www.appnexus.com/en/company/careers/open-roles",
+    "webSiteUrl": "http://www.appnexus.com/",
+    "address": "625 Ridge Pike, Building A Suite 200, Conshohocken, PA 19428",
+    "geo": {
+      "latitude": 40.09644,
+      "longitude": -75.29872
+    },
+    "positions": [
+      {
+        "title": "Senior Software Engineer"
+      }
+    ]
+  },
+  {
     "company": "ApprenNet",
     "url": "http://info.apprennet.com/jobs/",
     "address": "1007 E Abington Ave, Wyndmoor, PA 19038",
@@ -465,26 +480,6 @@
     ]
   },
   {
-    "company": "Think Brownstone",
-    "url": "https://www.thinkbrownstone.com/careers/",
-    "address": "201 Fayette St, Conshohocken, PA 19428",
-    "geo": {
-      "latitude": 40.074711,
-      "longitude": -75.305449
-    },
-    "positions": [
-      {
-        "title": "UX & Visual Design Contractors"
-      },
-      {
-        "title": "Vice President of Client Engagement"
-      },
-      {
-        "title": "Experience Designer- Contractor"
-      }
-    ]
-  },
-  {
     "company": "Transmogrify",
     "url": "http://xmog.com/jobs",
     "address": "112 Fayette St., Conshohocken, PA 19428",
@@ -512,7 +507,17 @@
       "latitude": 40.133626,
       "longitude": -75.255467
     },
-    "positions": []
+    "positions": [
+      {
+        "title": "Software Engineer"
+      },
+      {
+        "title": "Project Manager"
+      },
+      {
+        "title": "DevOps Engineer"
+      }
+    ]
   },
   {
     "company": "Zuppler",
