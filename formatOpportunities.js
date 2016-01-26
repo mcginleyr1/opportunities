@@ -1,4 +1,3 @@
-@@ -0,0 +1,65 @@
 var fs = require('fs');
 
 var pathName = process.argv[2];
