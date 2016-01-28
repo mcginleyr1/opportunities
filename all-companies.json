@@ -1838,6 +1838,27 @@
     ]
   },
   {
+    "company": "NRG Edge, LLC",
+    "url": "http://nrg-edge.com/careers.html",
+    "webSiteUrl": "http://nrg-edge.com/",
+    "address": "5 Great Valley Parkway, Suite 210, Malvern, PA 19355 United States",
+    "geo": {
+      "latitude": 40.064788,
+      "longitude": -75.533473
+    },
+    "positions": [
+      {
+        "title": "Lead Web Development Architect"
+      },
+      {
+        "title": "UI Developer"
+      },
+      {
+        "title": "Web Analyst / Tester"
+      }
+    ]
+  },
+  {
     "company": "O3 World",
     "url": "http://o3world.com/careers/",
     "webSiteUrl": "http://o3world.com/",
@@ -2200,14 +2221,21 @@
   },
   {
     "company": "P'unk Avenue",
-    "url": "http://punkave.com/connect",
+    "url": "http://jobs.punkave.com/",
     "webSiteUrl": "http://punkave.com/",
     "address": "1168 E. Passyunk Avenue Philadelphia, PA 19147",
     "geo": {
       "latitude": 39.9345045143,
       "longitude": -75.1578163143
     },
-    "positions": []
+    "positions": [
+      {
+        "title": "Front-End Developer"
+      },
+      {
+        "title": "Full Stack Developer"
+      }
+    ]
   },
   {
     "company": "Push10 Design",
