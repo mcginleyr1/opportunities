@@ -71,6 +71,39 @@
     ]
   },
   {
+    "company": "Aspect Consulting",
+    "url": "http://www.aspect-consulting.com/careers.aspx",
+    "webSiteUrl": "http://www.aspect-consulting.com/",
+    "address": "20140 Valley Forge Circle, King of Prussia, PA 19406",
+    "geo": {
+      "latitude": 40.105065,
+      "longitude": -75.412618
+    },
+    "positions": [
+      {
+        "title": "Programmer Analyst/.NET Developer"
+      },
+      {
+        "title": "System Administrator, SME"
+      }
+    ]
+  },
+  {
+    "company": "Brio Solutions",
+    "url": "http://www.briosolutions.com/About/Careers.aspx",
+    "webSiteUrl": "http://www.briosolutions.com/",
+    "address": "455 Pennsylvania Avenue, Suite 136, Fort Washington, PA 19034",
+    "geo": {
+      "latitude": 40.135976,
+      "longitude": -75.20793
+    },
+    "positions": [
+      {
+        "title": ".NET Software Developers (All Levels)"
+      }
+    ]
+  },
+  {
     "company": "CardConnect",
     "url": "https://www.cardconnect.com/contact/job-openings/",
     "webSiteUrl": "https://www.cardconnect.com/",
@@ -333,6 +366,42 @@
     ]
   },
   {
+    "company": "GLOBO",
+    "url": "https://globolanguage.hyrell.com/UI/Views/Applicant/VirtualStepCareers.aspx",
+    "webSiteUrl": "http://www.helloglobo.com/",
+    "address": "500 W Office Center Drive, Fort Washington, PA 19034",
+    "geo": {
+      "latitude": 40.141835,
+      "longitude": -75.173581
+    },
+    "positions": [
+      {
+        "title": "DevOps Engineer"
+      },
+      {
+        "title": "Quality Assurance Coordinator: Bilingual English-Spanish"
+      }
+    ]
+  },
+  {
+    "company": "J2 Solutions",
+    "url": "http://www.j2-solutions.com/career.aspx",
+    "webSiteUrl": "http://www.j2-solutions.com/",
+    "address": "660 American Avenue, Suite 104, King of Prussia, PA 19406",
+    "geo": {
+      "latitude": 40.094423,
+      "longitude": -75.394149
+    },
+    "positions": [
+      {
+        "title": "Application Developers - .NET"
+      },
+      {
+        "title": "Application Developers - Java"
+      }
+    ]
+  },
+  {
     "company": "LeadiD",
     "url": "http://www.leadid.com/about-us/join-our-team/open-positions",
     "webSiteUrl": "http://www.leadid.com/",
@@ -495,6 +564,108 @@
       },
       {
         "title": "Senior Project Manager"
+      }
+    ]
+  },
+  {
+    "company": "Susquehanna International Group",
+    "url": "https://careers.sig.com/",
+    "webSiteUrl": "http://sig.com/",
+    "address": "401 City Avenue, Bala Cynwyd, PA 19004",
+    "geo": {
+      "latitude": 40.008582,
+      "longitude": -75.213322
+    },
+    "positions": [
+      {
+        "title": "Junior Technical Support Analyst"
+      },
+      {
+        "title": "QlikView Developer"
+      },
+      {
+        "title": "Software Engineering Internship Program"
+      },
+      {
+        "title": "Junior Systems Administrator (Data Center)"
+      },
+      {
+        "title": "Software Developer"
+      },
+      {
+        "title": "Software Developer - Middleware"
+      },
+      {
+        "title": "Business Analyst/Project Manager"
+      },
+      {
+        "title": "FPGA Engineer"
+      },
+      {
+        "title": "Technical Support Analyst"
+      },
+      {
+        "title": "Telecom Client Support Analyst"
+      },
+      {
+        "title": "Senior VMware Engineer"
+      },
+      {
+        "title": "Software Developer - Clearing and Positions"
+      },
+      {
+        "title": "Software Engineer - Production Engineering"
+      },
+      {
+        "title": "Software Developer - C++"
+      },
+      {
+        "title": "Messaging Engineer (Middleware)"
+      },
+      {
+        "title": "Linux Engineer"
+      },
+      {
+        "title": "Technical Support Analyst (Trading Floor)"
+      },
+      {
+        "title": "Technology Associate: Software Engineering Development Program"
+      },
+      {
+        "title": "Junior FPGA Engineer"
+      },
+      {
+        "title": "Software Developer- Operations"
+      },
+      {
+        "title": "Software Developer - SOT Services"
+      },
+      {
+        "title": "Technology Co-op"
+      },
+      {
+        "title": "Junior Technical Support Engineer"
+      },
+      {
+        "title": "Junior Telecom Client Support Analyst"
+      },
+      {
+        "title": "Systems & Network Administrator (Data Center)"
+      },
+      {
+        "title": "Technical Business Analyst"
+      },
+      {
+        "title": "Software Developer – Proprietary Trading Services"
+      },
+      {
+        "title": "Software Developer - Instruments Team"
+      },
+      {
+        "title": "Software Developer- TORQ"
+      },
+      {
+        "title": "Quantitative Developer - Backtesting and Research Computing "
       }
     ]
   },
