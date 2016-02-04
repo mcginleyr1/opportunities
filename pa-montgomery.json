@@ -11,6 +11,21 @@
     "positions": []
   },
   {
+    "company": "Alura Business Solutions",
+    "url": "http://www.alura.com/about.php",
+    "webSiteUrl": "http://www.alura.com/",
+    "address": "1000 Germantown Pike, Suite C4, Plymouth Meeting, PA 19462",
+    "geo": {
+      "latitude": 40.129261,
+      "longitude": -75.297043
+    },
+    "positions": [
+      {
+        "title": "Network Administrator"
+      }
+    ]
+  },
+  {
     "company": "AppNexus Inc",
     "url": "http://www.appnexus.com/en/company/careers/open-roles",
     "webSiteUrl": "http://www.appnexus.com/",
@@ -104,6 +119,21 @@
     ]
   },
   {
+    "company": "BTB Security",
+    "url": "http://www.btbsecurity.com/who-we-are/job-opportunities",
+    "webSiteUrl": "http://www.btbsecurity.com/",
+    "address": "3 Bala Plaza, Suite 701, Bala Cynwyd, PA 19004",
+    "geo": {
+      "latitude": 40.009488,
+      "longitude": -75.218509
+    },
+    "positions": [
+      {
+        "title": "RADAR Analyst"
+      }
+    ]
+  },
+  {
     "company": "CardConnect",
     "url": "https://www.cardconnect.com/contact/job-openings/",
     "webSiteUrl": "https://www.cardconnect.com/",
@@ -160,6 +190,24 @@
       },
       {
         "title": "Mobile Developers"
+      }
+    ]
+  },
+  {
+    "company": "Clinical Ink",
+    "url": "https://careers.smartrecruiters.com/ClinicalInk",
+    "webSiteUrl": "http://www.clinicalink.com/",
+    "address": "110 Gibraltar Road, Suite 150, Horsham, PA 19044",
+    "geo": {
+      "latitude": 40.171473,
+      "longitude": -75.130956
+    },
+    "positions": [
+      {
+        "title": ".Net Senior Engineer"
+      },
+      {
+        "title": ".NET/SQL Developer"
       }
     ]
   },
@@ -333,6 +381,25 @@
     ]
   },
   {
+    "_comment": "Seems to be EPAM Systems now. Already have a file for them.",
+    "company": "Empathy Lab",
+    "url": "http://www.epam.com/careers",
+    "webSiteUrl": "http://empathylab.epam.com/",
+    "address": "101 East 8th Ave, Suite 201, Conshohocken, PA 19428",
+    "geo": {
+      "latitude": 40.079039,
+      "longitude": -75.299617
+    },
+    "positions": [
+      {
+        "title": "Creative Director"
+      },
+      {
+        "title": "Senior UX Designer"
+      }
+    ]
+  },
+  {
     "company": "EPAM",
     "url": "http://www.epam.com/careers",
     "webSiteUrl": "http://www.epam.com/",
@@ -384,6 +451,24 @@
     ]
   },
   {
+    "company": "Halfpenny Technologies",
+    "url": "http://www.halfpenny.com/careers.html",
+    "webSiteUrl": "http://www.halfpenny.com/",
+    "address": "960 Harvest Drive, Building B Suite 200, Blue Bell, PA 19422",
+    "geo": {
+      "latitude": 40.152771,
+      "longitude": -75.283326
+    },
+    "positions": [
+      {
+        "title": "Integration Developer"
+      },
+      {
+        "title": "Quality Assurance (QA) Analyst"
+      }
+    ]
+  },
+  {
     "company": "J2 Solutions",
     "url": "http://www.j2-solutions.com/career.aspx",
     "webSiteUrl": "http://www.j2-solutions.com/",
@@ -398,6 +483,27 @@
       },
       {
         "title": "Application Developers - Java"
+      }
+    ]
+  },
+  {
+    "company": "KPInterface, Inc.",
+    "url": "http://www.kpinterface.com/careers.html",
+    "webSiteUrl": "http://www.kpinterface.com/",
+    "address": "477 N. Lewis Road, Suite 210, Limerick, PA 19468",
+    "geo": {
+      "latitude": 40.209139,
+      "longitude": -75.544583
+    },
+    "positions": [
+      {
+        "title": "IT Consultant – Mid-Level"
+      },
+      {
+        "title": "IT Consultant – Junior Level"
+      },
+      {
+        "title": "Computer Tech Support Internship"
       }
     ]
   },
@@ -666,6 +772,27 @@
       },
       {
         "title": "Quantitative Developer - Backtesting and Research Computing "
+      }
+    ]
+  },
+  {
+    "company": "TherapyNotes",
+    "url": "https://www.pliner.com/careers/",
+    "webSiteUrl": "https://www.therapynotes.com/",
+    "address": "630 Fitzwatertown Rd, Suite A4, Willow Grove, PA, 19090",
+    "geo": {
+      "latitude": 40.157568,
+      "longitude": -75.120882
+    },
+    "positions": [
+      {
+        "title": "Quality Assurance Engineer"
+      },
+      {
+        "title": "Senior Software Developer"
+      },
+      {
+        "title": "Software Developer"
       }
     ]
   },

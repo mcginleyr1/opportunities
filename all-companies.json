@@ -157,6 +157,21 @@
     ]
   },
   {
+    "company": "Alura Business Solutions",
+    "url": "http://www.alura.com/about.php",
+    "webSiteUrl": "http://www.alura.com/",
+    "address": "1000 Germantown Pike, Suite C4, Plymouth Meeting, PA 19462",
+    "geo": {
+      "latitude": 40.129261,
+      "longitude": -75.297043
+    },
+    "positions": [
+      {
+        "title": "Network Administrator"
+      }
+    ]
+  },
+  {
     "company": "AppNexus Inc",
     "url": "http://www.appnexus.com/en/company/careers/open-roles",
     "webSiteUrl": "http://www.appnexus.com/",
@@ -303,6 +318,42 @@
       },
       {
         "title": "Software Project Manager"
+      }
+    ]
+  },
+  {
+    "company": "Arora Engineers, Inc.",
+    "url": "http://www.aroraengineers.com/careers.asp",
+    "webSiteUrl": "http://www.aroraengineers.com/",
+    "address": "1601 Walnut Street, Suite 512, Philadelphia, PA 19102",
+    "geo": {
+      "latitude": 39.950012,
+      "longitude": -75.167689
+    },
+    "positions": [
+      {
+        "title": "Mechanical Engineers"
+      },
+      {
+        "title": "Electrical Engineers"
+      },
+      {
+        "title": "Special Systems/Telecommunications Specialists"
+      },
+      {
+        "title": "Fire Protection/Life Safety Engineers"
+      },
+      {
+        "title": "Project Managers"
+      },
+      {
+        "title": "Facilities Maintenance Technicians"
+      },
+      {
+        "title": "Construction Managers"
+      },
+      {
+        "title": "CAD Designers/Operators"
       }
     ]
   },
@@ -459,6 +510,24 @@
     ]
   },
   {
+    "company": "BOLT ON TECHNOLOGY",
+    "url": "http://boltontechnology.com/category/careers/",
+    "webSiteUrl": "http://www.boltontechnology.com/",
+    "address": "1105 Industrial Blvd., Southampton, PA 18966-4160",
+    "geo": {
+      "latitude": 40.16228,
+      "longitude": -75.040384
+    },
+    "positions": [
+      {
+        "title": "Customer Support Technician"
+      },
+      {
+        "title": "Microsoft Software Developer"
+      }
+    ]
+  },
+  {
     "company": "Boomi",
     "url": "http://www.boomi.com/company/careers",
     "webSiteUrl": "http://www.boomi.com/",
@@ -596,6 +665,21 @@
     ]
   },
   {
+    "company": "BTB Security",
+    "url": "http://www.btbsecurity.com/who-we-are/job-opportunities",
+    "webSiteUrl": "http://www.btbsecurity.com/",
+    "address": "3 Bala Plaza, Suite 701, Bala Cynwyd, PA 19004",
+    "geo": {
+      "latitude": 40.009488,
+      "longitude": -75.218509
+    },
+    "positions": [
+      {
+        "title": "RADAR Analyst"
+      }
+    ]
+  },
+  {
     "company": "BuLogics",
     "url": "http://bulogics.com/about-us/jobs/",
     "webSiteUrl": "http://bulogics.com/",
@@ -714,6 +798,24 @@
     "positions": []
   },
   {
+    "company": "Clinical Ink",
+    "url": "https://careers.smartrecruiters.com/ClinicalInk",
+    "webSiteUrl": "http://www.clinicalink.com/",
+    "address": "110 Gibraltar Road, Suite 150, Horsham, PA 19044",
+    "geo": {
+      "latitude": 40.171473,
+      "longitude": -75.130956
+    },
+    "positions": [
+      {
+        "title": ".Net Senior Engineer"
+      },
+      {
+        "title": ".NET/SQL Developer"
+      }
+    ]
+  },
+  {
     "company": "Cloudamize",
     "url": "http://www.cloudamize.com/careers/",
     "webSiteUrl": "http://www.cloudamize.com/",
@@ -802,6 +904,93 @@
       },
       {
         "title": "Full Stack Engineer"
+      }
+    ]
+  },
+  {
+    "company": "Compliance Implementation Services",
+    "url": "http://www.cisbydeloitte.com/careers/",
+    "webSiteUrl": "http://www.cis-partners.com/",
+    "address": "3809 West Chester Pike, Suite 100, Newtown Square, PA 19073",
+    "geo": {
+      "latitude": 39.99049,
+      "longitude": -75.411689
+    },
+    "positions": [
+      {
+        "title": "BI Analytics and Visualization Specialist"
+      },
+      {
+        "title": "Client Account Manager - Life Sciences"
+      },
+      {
+        "title": "Data Software Engineer"
+      },
+      {
+        "title": "Senior Software Engineer"
+      },
+      {
+        "title": "Senior Software Engineer"
+      },
+      {
+        "title": "Quality Assurance Manager"
+      },
+      {
+        "title": "Manager Government Pricing and Contracts"
+      },
+      {
+        "title": "Security & Information Assurance Manager"
+      },
+      {
+        "title": "Business Analyst - Life Sciences"
+      },
+      {
+        "title": "Quality Assurance Engineer"
+      },
+      {
+        "title": "Software Engineer"
+      },
+      {
+        "title": "Software Engineer"
+      },
+      {
+        "title": "Sr. IT System Administrator"
+      }
+    ]
+  },
+  {
+    "company": "Conigent",
+    "url": "http://www.conigent.com/contact/#openings-list",
+    "webSiteUrl": "http://www.conigent.com/",
+    "address": "226 Haddonfield Road, Suite 300, Cherry Hill, NJ 08002",
+    "geo": {
+      "latitude": 39.952584,
+      "longitude": -75.165222
+    },
+    "positions": [
+      {
+        "title": "Infor M3 Project Manager"
+      },
+      {
+        "title": "Infor M3 Functional Consultant - Procurement Warehousing & Logistics"
+      },
+      {
+        "title": "Infor M3 Functional Consultant - Financial Management Implementation"
+      },
+      {
+        "title": "Infor M3 Technical Consultant - Integration (MEC/ION/EDI)"
+      },
+      {
+        "title": "Infor M3 Technical Consultant - Development (Java/MAK/Mashups/Smart Office SDK)"
+      },
+      {
+        "title": "Infor M3 Functional Consultant - Equipment Service Management & Rental"
+      },
+      {
+        "title": "Infor M3 Functional Consultant - Customer Sales Management"
+      },
+      {
+        "title": "M3 Functional Consultant - Planning & Manufacturing Operations"
       }
     ]
   },
@@ -1192,6 +1381,25 @@
     ]
   },
   {
+    "_comment": "Seems to be EPAM Systems now. Already have a file for them.",
+    "company": "Empathy Lab",
+    "url": "http://www.epam.com/careers",
+    "webSiteUrl": "http://empathylab.epam.com/",
+    "address": "101 East 8th Ave, Suite 201, Conshohocken, PA 19428",
+    "geo": {
+      "latitude": 40.079039,
+      "longitude": -75.299617
+    },
+    "positions": [
+      {
+        "title": "Creative Director"
+      },
+      {
+        "title": "Senior UX Designer"
+      }
+    ]
+  },
+  {
     "company": "EPAM",
     "url": "http://www.epam.com/careers",
     "webSiteUrl": "http://www.epam.com/",
@@ -1266,6 +1474,21 @@
       },
       {
         "title": "Platform Engineer, Cloud Computing"
+      }
+    ]
+  },
+  {
+    "company": "Famehouse",
+    "url": "http://famehouse.net/category/job-listings/",
+    "webSiteUrl": "http://famehouse.net/",
+    "address": "Philadelphia, PA",
+    "geo": {
+      "latitude": 40.07231,
+      "longitude": -75.203371
+    },
+    "positions": [
+      {
+        "title": "FRONT-END DEVELOPER"
       }
     ]
   },
@@ -1423,6 +1646,24 @@
       "longitude": -75.1446795469
     },
     "positions": []
+  },
+  {
+    "company": "Halfpenny Technologies",
+    "url": "http://www.halfpenny.com/careers.html",
+    "webSiteUrl": "http://www.halfpenny.com/",
+    "address": "960 Harvest Drive, Building B Suite 200, Blue Bell, PA 19422",
+    "geo": {
+      "latitude": 40.152771,
+      "longitude": -75.283326
+    },
+    "positions": [
+      {
+        "title": "Integration Developer"
+      },
+      {
+        "title": "Quality Assurance (QA) Analyst"
+      }
+    ]
   },
   {
     "company": "Happy Cog",
@@ -1614,6 +1855,21 @@
     ]
   },
   {
+    "company": "IT Pros - Philadelphia",
+    "url": "http://www.itprosphilly.com/careers/",
+    "webSiteUrl": "http://www.itprosphilly.com",
+    "address": "1 Brown Street, #1604, Philadelphia, PA 19123",
+    "geo": {
+      "latitude": 39.962402,
+      "longitude": -75.13767
+    },
+    "positions": [
+      {
+        "title": ".NET Developer"
+      }
+    ]
+  },
+  {
     "company": "J2 Solutions",
     "url": "http://www.j2-solutions.com/career.aspx",
     "webSiteUrl": "http://www.j2-solutions.com/",
@@ -1641,6 +1897,69 @@
       "longitude": -75.165222
     },
     "positions": []
+  },
+  {
+    "company": "KickUp",
+    "url": "",
+    "webSiteUrl": "http://kickup.co/",
+    "address": "1133 15th St. Northwest, Washington, D.C. 20005",
+    "geo": {
+      "latitude": 38.904864,
+      "longitude": -77.033996
+    },
+    "positions": [
+      {
+        "title": "Data visualization intern"
+      },
+      {
+        "title": "Front-end engineer"
+      },
+      {
+        "title": "Full-stack developer"
+      }
+    ]
+  },
+  {
+    "company": "KPInterface, Inc.",
+    "url": "http://www.kpinterface.com/careers.html",
+    "webSiteUrl": "http://www.kpinterface.com/",
+    "address": "477 N. Lewis Road, Suite 210, Limerick, PA 19468",
+    "geo": {
+      "latitude": 40.209139,
+      "longitude": -75.544583
+    },
+    "positions": [
+      {
+        "title": "IT Consultant – Mid-Level"
+      },
+      {
+        "title": "IT Consultant – Junior Level"
+      },
+      {
+        "title": "Computer Tech Support Internship"
+      }
+    ]
+  },
+  {
+    "company": "Lamps.com Inc",
+    "url": "http://jobs.interactivecommercegroup.com/",
+    "webSiteUrl": "http://www.lamps.com/",
+    "address": "1217 Sansom St, Floor 8, Philadelphia, PA 19107",
+    "geo": {
+      "latitude": 39.949923,
+      "longitude": -75.161334
+    },
+    "positions": [
+      {
+        "title": "eCommerce Merchandiser"
+      },
+      {
+        "title": "Full Stack Magento Developer"
+      },
+      {
+        "title": "Product Data Specialist"
+      }
+    ]
   },
   {
     "company": "LeadiD",
@@ -3020,6 +3339,27 @@
     "positions": []
   },
   {
+    "company": "TherapyNotes",
+    "url": "https://www.pliner.com/careers/",
+    "webSiteUrl": "https://www.therapynotes.com/",
+    "address": "630 Fitzwatertown Rd, Suite A4, Willow Grove, PA, 19090",
+    "geo": {
+      "latitude": 40.157568,
+      "longitude": -75.120882
+    },
+    "positions": [
+      {
+        "title": "Quality Assurance Engineer"
+      },
+      {
+        "title": "Senior Software Developer"
+      },
+      {
+        "title": "Software Developer"
+      }
+    ]
+  },
+  {
     "company": "Think Brownstone",
     "url": "https://www.thinkbrownstone.com/careers/",
     "webSiteUrl": "https://www.thinkbrownstone.com/",
@@ -3397,6 +3737,21 @@
       },
       {
         "title": "Director, Content and Brand Marketing"
+      }
+    ]
+  },
+  {
+    "company": "Zoomer",
+    "url": "https://jobs.lever.co/zoomer",
+    "webSiteUrl": "http://www.zoomerdelivery.com/",
+    "address": "Philadelphia, PA",
+    "geo": {
+      "latitude": 40.07231,
+      "longitude": -75.203371
+    },
+    "positions": [
+      {
+        "title": "Backend Engineer"
       }
     ]
   },
