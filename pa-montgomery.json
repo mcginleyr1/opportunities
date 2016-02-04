@@ -11,6 +11,21 @@
     "positions": []
   },
   {
+    "company": "Alura Business Solutions",
+    "url": "http://www.alura.com/about.php",
+    "webSiteUrl": "http://www.alura.com/",
+    "address": "1000 Germantown Pike, Suite C4, Plymouth Meeting, PA 19462",
+    "geo": {
+      "latitude": 40.129261,
+      "longitude": -75.297043
+    },
+    "positions": [
+      {
+        "title": "Network Administrator"
+      }
+    ]
+  },
+  {
     "company": "AppNexus Inc",
     "url": "http://www.appnexus.com/en/company/careers/open-roles",
     "webSiteUrl": "http://www.appnexus.com/",
@@ -71,6 +86,54 @@
     ]
   },
   {
+    "company": "Aspect Consulting",
+    "url": "http://www.aspect-consulting.com/careers.aspx",
+    "webSiteUrl": "http://www.aspect-consulting.com/",
+    "address": "20140 Valley Forge Circle, King of Prussia, PA 19406",
+    "geo": {
+      "latitude": 40.105065,
+      "longitude": -75.412618
+    },
+    "positions": [
+      {
+        "title": "Programmer Analyst/.NET Developer"
+      },
+      {
+        "title": "System Administrator, SME"
+      }
+    ]
+  },
+  {
+    "company": "Brio Solutions",
+    "url": "http://www.briosolutions.com/About/Careers.aspx",
+    "webSiteUrl": "http://www.briosolutions.com/",
+    "address": "455 Pennsylvania Avenue, Suite 136, Fort Washington, PA 19034",
+    "geo": {
+      "latitude": 40.135976,
+      "longitude": -75.20793
+    },
+    "positions": [
+      {
+        "title": ".NET Software Developers (All Levels)"
+      }
+    ]
+  },
+  {
+    "company": "BTB Security",
+    "url": "http://www.btbsecurity.com/who-we-are/job-opportunities",
+    "webSiteUrl": "http://www.btbsecurity.com/",
+    "address": "3 Bala Plaza, Suite 701, Bala Cynwyd, PA 19004",
+    "geo": {
+      "latitude": 40.009488,
+      "longitude": -75.218509
+    },
+    "positions": [
+      {
+        "title": "RADAR Analyst"
+      }
+    ]
+  },
+  {
     "company": "CardConnect",
     "url": "https://www.cardconnect.com/contact/job-openings/",
     "webSiteUrl": "https://www.cardconnect.com/",
@@ -127,6 +190,24 @@
       },
       {
         "title": "Mobile Developers"
+      }
+    ]
+  },
+  {
+    "company": "Clinical Ink",
+    "url": "https://careers.smartrecruiters.com/ClinicalInk",
+    "webSiteUrl": "http://www.clinicalink.com/",
+    "address": "110 Gibraltar Road, Suite 150, Horsham, PA 19044",
+    "geo": {
+      "latitude": 40.171473,
+      "longitude": -75.130956
+    },
+    "positions": [
+      {
+        "title": ".Net Senior Engineer"
+      },
+      {
+        "title": ".NET/SQL Developer"
       }
     ]
   },
@@ -300,6 +381,25 @@
     ]
   },
   {
+    "_comment": "Seems to be EPAM Systems now. Already have a file for them.",
+    "company": "Empathy Lab",
+    "url": "http://www.epam.com/careers",
+    "webSiteUrl": "http://empathylab.epam.com/",
+    "address": "101 East 8th Ave, Suite 201, Conshohocken, PA 19428",
+    "geo": {
+      "latitude": 40.079039,
+      "longitude": -75.299617
+    },
+    "positions": [
+      {
+        "title": "Creative Director"
+      },
+      {
+        "title": "Senior UX Designer"
+      }
+    ]
+  },
+  {
     "company": "EPAM",
     "url": "http://www.epam.com/careers",
     "webSiteUrl": "http://www.epam.com/",
@@ -329,6 +429,81 @@
     "positions": [
       {
         "title": "Senior Developer"
+      }
+    ]
+  },
+  {
+    "company": "GLOBO",
+    "url": "https://globolanguage.hyrell.com/UI/Views/Applicant/VirtualStepCareers.aspx",
+    "webSiteUrl": "http://www.helloglobo.com/",
+    "address": "500 W Office Center Drive, Fort Washington, PA 19034",
+    "geo": {
+      "latitude": 40.141835,
+      "longitude": -75.173581
+    },
+    "positions": [
+      {
+        "title": "DevOps Engineer"
+      },
+      {
+        "title": "Quality Assurance Coordinator: Bilingual English-Spanish"
+      }
+    ]
+  },
+  {
+    "company": "Halfpenny Technologies",
+    "url": "http://www.halfpenny.com/careers.html",
+    "webSiteUrl": "http://www.halfpenny.com/",
+    "address": "960 Harvest Drive, Building B Suite 200, Blue Bell, PA 19422",
+    "geo": {
+      "latitude": 40.152771,
+      "longitude": -75.283326
+    },
+    "positions": [
+      {
+        "title": "Integration Developer"
+      },
+      {
+        "title": "Quality Assurance (QA) Analyst"
+      }
+    ]
+  },
+  {
+    "company": "J2 Solutions",
+    "url": "http://www.j2-solutions.com/career.aspx",
+    "webSiteUrl": "http://www.j2-solutions.com/",
+    "address": "660 American Avenue, Suite 104, King of Prussia, PA 19406",
+    "geo": {
+      "latitude": 40.094423,
+      "longitude": -75.394149
+    },
+    "positions": [
+      {
+        "title": "Application Developers - .NET"
+      },
+      {
+        "title": "Application Developers - Java"
+      }
+    ]
+  },
+  {
+    "company": "KPInterface, Inc.",
+    "url": "http://www.kpinterface.com/careers.html",
+    "webSiteUrl": "http://www.kpinterface.com/",
+    "address": "477 N. Lewis Road, Suite 210, Limerick, PA 19468",
+    "geo": {
+      "latitude": 40.209139,
+      "longitude": -75.544583
+    },
+    "positions": [
+      {
+        "title": "IT Consultant – Mid-Level"
+      },
+      {
+        "title": "IT Consultant – Junior Level"
+      },
+      {
+        "title": "Computer Tech Support Internship"
       }
     ]
   },
@@ -495,6 +670,129 @@
       },
       {
         "title": "Senior Project Manager"
+      }
+    ]
+  },
+  {
+    "company": "Susquehanna International Group",
+    "url": "https://careers.sig.com/",
+    "webSiteUrl": "http://sig.com/",
+    "address": "401 City Avenue, Bala Cynwyd, PA 19004",
+    "geo": {
+      "latitude": 40.008582,
+      "longitude": -75.213322
+    },
+    "positions": [
+      {
+        "title": "Junior Technical Support Analyst"
+      },
+      {
+        "title": "QlikView Developer"
+      },
+      {
+        "title": "Software Engineering Internship Program"
+      },
+      {
+        "title": "Junior Systems Administrator (Data Center)"
+      },
+      {
+        "title": "Software Developer"
+      },
+      {
+        "title": "Software Developer - Middleware"
+      },
+      {
+        "title": "Business Analyst/Project Manager"
+      },
+      {
+        "title": "FPGA Engineer"
+      },
+      {
+        "title": "Technical Support Analyst"
+      },
+      {
+        "title": "Telecom Client Support Analyst"
+      },
+      {
+        "title": "Senior VMware Engineer"
+      },
+      {
+        "title": "Software Developer - Clearing and Positions"
+      },
+      {
+        "title": "Software Engineer - Production Engineering"
+      },
+      {
+        "title": "Software Developer - C++"
+      },
+      {
+        "title": "Messaging Engineer (Middleware)"
+      },
+      {
+        "title": "Linux Engineer"
+      },
+      {
+        "title": "Technical Support Analyst (Trading Floor)"
+      },
+      {
+        "title": "Technology Associate: Software Engineering Development Program"
+      },
+      {
+        "title": "Junior FPGA Engineer"
+      },
+      {
+        "title": "Software Developer- Operations"
+      },
+      {
+        "title": "Software Developer - SOT Services"
+      },
+      {
+        "title": "Technology Co-op"
+      },
+      {
+        "title": "Junior Technical Support Engineer"
+      },
+      {
+        "title": "Junior Telecom Client Support Analyst"
+      },
+      {
+        "title": "Systems & Network Administrator (Data Center)"
+      },
+      {
+        "title": "Technical Business Analyst"
+      },
+      {
+        "title": "Software Developer – Proprietary Trading Services"
+      },
+      {
+        "title": "Software Developer - Instruments Team"
+      },
+      {
+        "title": "Software Developer- TORQ"
+      },
+      {
+        "title": "Quantitative Developer - Backtesting and Research Computing "
+      }
+    ]
+  },
+  {
+    "company": "TherapyNotes",
+    "url": "https://www.pliner.com/careers/",
+    "webSiteUrl": "https://www.therapynotes.com/",
+    "address": "630 Fitzwatertown Rd, Suite A4, Willow Grove, PA, 19090",
+    "geo": {
+      "latitude": 40.157568,
+      "longitude": -75.120882
+    },
+    "positions": [
+      {
+        "title": "Quality Assurance Engineer"
+      },
+      {
+        "title": "Senior Software Developer"
+      },
+      {
+        "title": "Software Developer"
       }
     ]
   },

@@ -45,6 +45,17 @@
     ]
   },
   {
+    "company": "Cerner",
+    "url": "http://cerner.com/About_Cerner/Careers/",
+    "webSiteUrl": "http://cerner.com/",
+    "address": "51 Valley Stream Parkway, Malvern, PA 19355-1406",
+    "geo": {
+      "latitude": 40.060103,
+      "longitude": -75.522087
+    },
+    "positions": []
+  },
+  {
     "company": "Deacom, Inc",
     "type": [],
     "url": "http://deacom.com/ViewPage/21/deacom-inc-company-careers",
@@ -84,6 +95,30 @@
       },
       {
         "title": "Platform Engineer, Cloud Computing"
+      }
+    ]
+  },
+  {
+    "company": "iPipeline",
+    "url": "https://ipipeline-orspartners.icims.com/jobs/intro?hashed=-435738742&mobile=false&width=889&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
+    "webSiteUrl": "http://www.ipipeline.com/",
+    "address": "222 Valley Creek Boulevard, Suite 300, Exton, PA 19341",
+    "geo": {
+      "latitude": 40.03875,
+      "longitude": -75.597482
+    },
+    "positions": [
+      {
+        "title": "Application Support Engineer"
+      },
+      {
+        "title": "Actuarial Developer"
+      },
+      {
+        "title": "Application Developer"
+      },
+      {
+        "title": "Application Support Analyst"
       }
     ]
   },
