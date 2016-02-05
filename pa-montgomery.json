@@ -674,6 +674,27 @@
     ]
   },
   {
+    "company": "Saturn Infotech Inc",
+    "url": "http://www.saturninfotech.com/pagedetail.php?contentid=22&mid=21",
+    "webSiteUrl": "http://www.saturninfotech.com/",
+    "address": "1120 Welsh Road, Suite 110, North Wales, Pennsylvania 19454",
+    "geo": {
+      "latitude": 40.227722,
+      "longitude": -75.261352
+    },
+    "positions": [
+      {
+        "title": "Entry Level Hyperion Developers"
+      },
+      {
+        "title": "Junior C/C++ or MATLAB Developers"
+      },
+      {
+        "title": "Fresh Graduates - Systems Analyst / Programmer Analyst"
+      }
+    ]
+  },
+  {
     "company": "Susquehanna International Group",
     "url": "https://careers.sig.com/",
     "webSiteUrl": "http://sig.com/",
@@ -818,6 +839,33 @@
     ]
   },
   {
+    "company": "Veris Associates, Inc., dba VerisVisalign",
+    "url": "http://www.verisvisalign.com/company/careers/career-opportunities/",
+    "webSiteUrl": "http://www.verisvisalign.com/",
+    "address": "920 S. Broad Street, Lansdale, PA 19446",
+    "geo": {
+      "latitude": 40.229151,
+      "longitude": -75.296258
+    },
+    "positions": [
+      {
+        "title": "SHAREPOINT ARCHITECTS"
+      },
+      {
+        "title": "SHAREPOINT DEVELOPERS"
+      },
+      {
+        "title": "PROJECT MANAGER"
+      },
+      {
+        "title": "HELP DESK/SERVICE DESK ANALYST"
+      },
+      {
+        "title": "APPLICATION PACKAGER"
+      }
+    ]
+  },
+  {
     "company": "Wingspan Technology",
     "url": "http://www.wingspan.com/career_open_positions/",
     "webSiteUrl": "http://www.wingspan.com/",
@@ -835,6 +883,24 @@
       },
       {
         "title": "DevOps Engineer"
+      }
+    ]
+  },
+  {
+    "company": "WizeHive",
+    "url": "https://review.wizehive.com/voting/posting",
+    "webSiteUrl": "http://wizehive.com/",
+    "address": "441 E. Hector Street, Conshohocken, PA 19428",
+    "geo": {
+      "latitude": 40.073628,
+      "longitude": -75.297755
+    },
+    "positions": [
+      {
+        "title": "Implementation Specialist"
+      },
+      {
+        "title": "Jr. Implementation Specialist"
       }
     ]
   },
