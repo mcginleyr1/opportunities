@@ -1857,7 +1857,7 @@
   {
     "company": "IT Pros - Philadelphia",
     "url": "http://www.itprosphilly.com/careers/",
-    "webSiteUrl": "http://www.itprosphilly.com",
+    "webSiteUrl": "http://www.itprosphilly.com/",
     "address": "1 Brown Street, #1604, Philadelphia, PA 19123",
     "geo": {
       "latitude": 39.962402,
@@ -2064,6 +2064,48 @@
       "longitude": -75.1444120428
     },
     "positions": []
+  },
+  {
+    "company": "MaassMedia, LLC",
+    "url": "http://www.maassmedia.com/about-our-careers.php",
+    "webSiteUrl": "http://www.maassmedia.com/",
+    "address": "1880 JFK Blvd, Suite 201, Philadelphia, PA 19103",
+    "geo": {
+      "latitude": 39.954096,
+      "longitude": -75.171007
+    },
+    "positions": [
+      {
+        "title": "Analytics Solutions Engineer"
+      },
+      {
+        "title": "Consultant - Data Science/Reporting"
+      }
+    ]
+  },
+  {
+    "company": "Masterminds",
+    "url": "http://mastermindsagency.com/#gigs",
+    "webSiteUrl": "http://mastermindsagency.com/",
+    "address": "1315 Walnut Street, Suite 300, Philadelphia, PA 19107",
+    "geo": {
+      "latitude": 39.9493152971,
+      "longitude": -75.1626386191
+    },
+    "positions": [
+      {
+        "title": "Social Media Community Manager"
+      },
+      {
+        "title": "Graphic Designer – Full time or Freelance"
+      },
+      {
+        "title": "Creative Internships"
+      },
+      {
+        "title": "Media Internship"
+      }
+    ]
   },
   {
     "company": "Medecision",
@@ -3016,6 +3058,27 @@
     ]
   },
   {
+    "company": "Saturn Infotech Inc",
+    "url": "http://www.saturninfotech.com/pagedetail.php?contentid=22&mid=21",
+    "webSiteUrl": "http://www.saturninfotech.com/",
+    "address": "1120 Welsh Road, Suite 110, North Wales, Pennsylvania 19454",
+    "geo": {
+      "latitude": 40.227722,
+      "longitude": -75.261352
+    },
+    "positions": [
+      {
+        "title": "Entry Level Hyperion Developers"
+      },
+      {
+        "title": "Junior C/C++ or MATLAB Developers"
+      },
+      {
+        "title": "Fresh Graduates - Systems Analyst / Programmer Analyst"
+      }
+    ]
+  },
+  {
     "company": "Savana, Inc.",
     "url": "http://savanainc.com/company/careers/",
     "webSiteUrl": "http://savanainc.com/",
@@ -3571,6 +3634,33 @@
     ]
   },
   {
+    "company": "Veris Associates, Inc., dba VerisVisalign",
+    "url": "http://www.verisvisalign.com/company/careers/career-opportunities/",
+    "webSiteUrl": "http://www.verisvisalign.com/",
+    "address": "920 S. Broad Street, Lansdale, PA 19446",
+    "geo": {
+      "latitude": 40.229151,
+      "longitude": -75.296258
+    },
+    "positions": [
+      {
+        "title": "SHAREPOINT ARCHITECTS"
+      },
+      {
+        "title": "SHAREPOINT DEVELOPERS"
+      },
+      {
+        "title": "PROJECT MANAGER"
+      },
+      {
+        "title": "HELP DESK/SERVICE DESK ANALYST"
+      },
+      {
+        "title": "APPLICATION PACKAGER"
+      }
+    ]
+  },
+  {
     "company": "Vistar Media",
     "url": "http://www.vistarmedia.com/careers",
     "webSiteUrl": "http://www.vistarmedia.com/",
@@ -3652,6 +3742,21 @@
     ]
   },
   {
+    "company": "Wilson Legal Solutions Inc",
+    "url": "http://www.wilsonlegalsol.com/careers.html",
+    "webSiteUrl": "http://www.wilsonlegalsol.com/",
+    "address": "3817 West Chester Pike, Newtown Square, PA 19073",
+    "geo": {
+      "latitude": 39.986286,
+      "longitude": -75.408623
+    },
+    "positions": [
+      {
+        "title": ".Net Developer"
+      }
+    ]
+  },
+  {
     "company": "Wingspan Technology",
     "url": "http://www.wingspan.com/career_open_positions/",
     "webSiteUrl": "http://www.wingspan.com/",
@@ -3669,6 +3774,24 @@
       },
       {
         "title": "DevOps Engineer"
+      }
+    ]
+  },
+  {
+    "company": "WizeHive",
+    "url": "https://review.wizehive.com/voting/posting",
+    "webSiteUrl": "http://wizehive.com/",
+    "address": "441 E. Hector Street, Conshohocken, PA 19428",
+    "geo": {
+      "latitude": 40.073628,
+      "longitude": -75.297755
+    },
+    "positions": [
+      {
+        "title": "Implementation Specialist"
+      },
+      {
+        "title": "Jr. Implementation Specialist"
       }
     ]
   },
