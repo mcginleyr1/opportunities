@@ -259,6 +259,24 @@
     "positions": []
   },
   {
+    "company": "Blackfynn",
+    "url": "http://www.blackfynn.com/careers/",
+    "webSiteUrl": "http://www.blackfynn.com/",
+    "address": "123 N 3rd St 2nd Floor Philadelphia, PA 19106",
+    "geo": {
+      "latitude": 39.952821,
+      "longitude": -75.145047
+    },
+    "positions": [
+      {
+        "title": "Full Stack Engineer"
+      },
+      {
+        "title": "Front-end Developer"
+      }
+    ]
+  },
+  {
     "company": "Bluecadet",
     "url": "http://www.bluecadet.com/contact/careers/",
     "webSiteUrl": "http://www.bluecadet.com/",
@@ -579,6 +597,22 @@
       },
       {
         "title": "Systems Admin / DevOps Architect"
+      }
+    ]
+  },
+  {
+    "company": "Diagnostic Driving, LLC",
+    "url": "http://www.diagnosticdriving.com/careers/",
+    "webSiteUrl": "http://www.diagnosticdriving.com/",
+    "address": "3401 Market Street, 2nd Floor, Philadelphia, PA 19104",
+    "geo": {
+      "latitude": 39.956175,
+      "longitude": -75.191729
+    },
+    "positions": [
+      {
+        "title": "Game Developer",
+        "datePosted": "2016-02-11"
       }
     ]
   },
@@ -1831,6 +1865,27 @@
     "positions": [
       {
         "title": "Technical Project Manager"
+      }
+    ]
+  },
+  {
+    "company": "SunGuard Financial",
+    "url": "http://financialsystemsjobs.sungard.com/search/advanced-search/ASCategory/-1/SPostedDate/-1/ASCountry/-1/ASState/-1/ASCity/Philadelphia/ASLocation/-1/ASCompanyName/-1/ASCustom1/-1/ASCustom2/-1/ASCustom3/-1/ASCustom4/-1/ASCustom5/-1/SIsRadius/false/ASCityStateZipcode/-1/ASDistance/-1/ASLatitude/-1/ASLongitude/-1/ASDistanceType/-1",
+    "webSiteUrl": "https://www.sungard.com/",
+    "address": "601 Walnut St, Philadelphia, PA 19106",
+    "geo": {
+      "latitude": 39.94827,
+      "longitude": -75.151171
+    },
+    "positions": [
+      {
+        "title": "Sr. Android developer"
+      },
+      {
+        "title": "Sr. Java developer"
+      },
+      {
+        "title": "Ruby on Rails Web Developer"
       }
     ]
   },
