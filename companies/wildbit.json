@@ -9,8 +9,8 @@
   },
   "positions": [
     {
-      "title": "Customer Success: Postmark (SPF, DKIM, DMARC)"
-      "title": "Customer Success: Beanstalk (Git & Subversion)"
+      "title": "Customer Success: Postmark (SPF, DKIM, DMARC)",
+      "title": "Customer Success: Beanstalk (Git & Subversion)",
       "title": "Quality Assurance Engineer"
     }
   ]
