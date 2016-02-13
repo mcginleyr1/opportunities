@@ -481,6 +481,21 @@
     ]
   },
   {
+    "company": "BioBots",
+    "url": "https://angel.co/biobots/jobs",
+    "webSiteUrl": "https://www.biobots.io/",
+    "address": "Philadelphia, PA",
+    "geo": {
+      "latitude": 40.07231,
+      "longitude": -75.203371
+    },
+    "positions": [
+      {
+        "title": "Software Engineer"
+      }
+    ]
+  },
+  {
     "company": "Biomeme, Inc.",
     "url": "http://www.biomeme.com/careers",
     "webSiteUrl": "http://www.biomeme.com/",
@@ -1527,6 +1542,21 @@
     ]
   },
   {
+    "company": "FastFig",
+    "url": "https://angel.co/fastfig/jobs",
+    "webSiteUrl": "https://www.fastfig.com/",
+    "address": "Philadelphia, PA",
+    "geo": {
+      "latitude": 40.07231,
+      "longitude": -75.203371
+    },
+    "positions": [
+      {
+        "title": "Front End Developer"
+      }
+    ]
+  },
+  {
     "company": "Fynydd",
     "url": "https://fynydd.com/careers/",
     "webSiteUrl": "https://fynydd.com/",
@@ -1716,6 +1746,30 @@
       {
         "title": "Senior Designer",
         "datePosted": "2016-01-05"
+      }
+    ]
+  },
+  {
+    "company": "HealthVerity",
+    "url": "http://healthverity.com/careers-2",
+    "webSiteUrl": "http://healthverity.com/",
+    "address": "100 North 20th Street, Suite 203, Philadelphia, PA  19103",
+    "geo": {
+      "latitude": 39.95591,
+      "longitude": -75.17309
+    },
+    "positions": [
+      {
+        "title": "GIS Developer"
+      },
+      {
+        "title": "Back End Software Developer"
+      },
+      {
+        "title": "Front End Software Developer"
+      },
+      {
+        "title": "Operations Engineer / DevOps"
       }
     ]
   },
@@ -1934,12 +1988,12 @@
   },
   {
     "company": "KickUp",
-    "url": "",
+    "url": "https://angel.co/kickup-1/jobs",
     "webSiteUrl": "http://kickup.co/",
-    "address": "1133 15th St. Northwest, Washington, D.C. 20005",
+    "address": "Philadelphia, PA",
     "geo": {
-      "latitude": 38.904864,
-      "longitude": -77.033996
+      "latitude": 40.07231,
+      "longitude": -75.203371
     },
     "positions": [
       {
@@ -2028,6 +2082,24 @@
       },
       {
         "title": "Software Engineer (node.js, java, php, aws)"
+      }
+    ]
+  },
+  {
+    "company": "Lemma",
+    "url": "https://www.lem.ma/home/?page_id=70",
+    "webSiteUrl": "https://www.lem.ma/",
+    "address": "Philadelphia, PA",
+    "geo": {
+      "latitude": 40.07231,
+      "longitude": -75.203371
+    },
+    "positions": [
+      {
+        "title": "Full stack Angular.js, Node.js developer"
+      },
+      {
+        "title": "UX Developer"
       }
     ]
   },
@@ -2378,6 +2450,36 @@
     ]
   },
   {
+    "company": "Moven",
+    "url": "https://angel.co/moven/jobs",
+    "webSiteUrl": "https://www.moven.com/",
+    "address": "Philadelphia, PA",
+    "geo": {
+      "latitude": 40.07231,
+      "longitude": -75.203371
+    },
+    "positions": [
+      {
+        "title": "Full Stack Engineer"
+      },
+      {
+        "title": "Service Delivery Engineer"
+      },
+      {
+        "title": "Senior UX Designer"
+      },
+      {
+        "title": "Data Scientist"
+      },
+      {
+        "title": "Data Analyst"
+      },
+      {
+        "title": "Senior Mobile Engineer"
+      }
+    ]
+  },
+  {
     "company": "Municibid",
     "url": "https://municibid.com/jobs/",
     "webSiteUrl": "https://municibid.com/",
@@ -2387,6 +2489,21 @@
       "longitude": -75.115217
     },
     "positions": []
+  },
+  {
+    "company": "My Mobile ED",
+    "url": "https://angel.co/my-mobile-ed/jobs",
+    "webSiteUrl": "http://mymobileed.com/",
+    "address": "Philadelphia, PA",
+    "geo": {
+      "latitude": 40.07231,
+      "longitude": -75.203371
+    },
+    "positions": [
+      {
+        "title": "Software Engineer"
+      }
+    ]
   },
   {
     "company": "Nasdaq OMX",
@@ -2444,6 +2561,21 @@
       },
       {
         "title": "Digital Project Manager"
+      }
+    ]
+  },
+  {
+    "company": "New York Code + Design Academy",
+    "url": "https://angel.co/new-york-code-design-academy-1/jobs",
+    "webSiteUrl": "https://nycda.com/",
+    "address": "30 South 17th Street, Philadelphia, PA 19103",
+    "geo": {
+      "latitude": 39.952215,
+      "longitude": -75.169528
+    },
+    "positions": [
+      {
+        "title": "Web Development Instructor"
       }
     ]
   },
@@ -2938,6 +3070,24 @@
     ]
   },
   {
+    "company": "RegDesk",
+    "url": "https://angel.co/regdesk/jobs",
+    "webSiteUrl": "http://www.regdesk.co/",
+    "address": "Philadelphia, PA",
+    "geo": {
+      "latitude": 40.07231,
+      "longitude": -75.203371
+    },
+    "positions": [
+      {
+        "title": "Developer"
+      },
+      {
+        "title": "Front-End Intern"
+      }
+    ]
+  },
+  {
     "company": "Relay",
     "url": "http://www.relaynetwork.com/careers/",
     "webSiteUrl": "http://www.relaynetwork.com/",
@@ -3415,6 +3565,21 @@
     ]
   },
   {
+    "company": "Syapse",
+    "url": "http://www.syapse.com/about/careers/",
+    "webSiteUrl": "http://www.syapse.com/",
+    "address": "Philadelphia, PA",
+    "geo": {
+      "latitude": 40.07231,
+      "longitude": -75.203371
+    },
+    "positions": [
+      {
+        "title": "Customer Solutions Software Engineer"
+      }
+    ]
+  },
+  {
     "company": "Technically Media",
     "url": "http://technicallymedia.com/careers",
     "webSiteUrl": "http://technicallymedia.com/",
@@ -3535,6 +3700,21 @@
     "positions": [
       {
         "title": "Software Engineer"
+      }
+    ]
+  },
+  {
+    "company": "Tivipley",
+    "url": "https://angel.co/tivipley/jobs",
+    "webSiteUrl": "http://www.tivipley.com/",
+    "address": "2600 w. Legiht Ave., Philadelphia, PA 19100",
+    "geo": {
+      "latitude": 39.996284,
+      "longitude": -75.174103
+    },
+    "positions": [
+      {
+        "title": "Web Developer"
       }
     ]
   },
@@ -3763,10 +3943,8 @@
     },
     "positions": [
       {
-        "title": "Senior C# Developer"
-      },
-      {
-        "title": "Quality Assurance Engineer"
+        "title": "Quality Assurance Engineer",
+        "datePosted": "2016-02-12"
       }
     ]
   },
