@@ -249,6 +249,9 @@
   },
   {
     "company": "BioBots",
+    "type": [
+      "Startup"
+    ],
     "url": "https://angel.co/biobots/jobs",
     "webSiteUrl": "https://www.biobots.io/",
     "address": "Philadelphia, PA",
@@ -449,6 +452,9 @@
   },
   {
     "company": "Club OS",
+    "type": [
+      "Startup"
+    ],
     "url": "https://angel.co/club-os/jobs",
     "webSiteUrl": "https://www.club-os.com/",
     "address": "1650 Arch St, #1906, Philadelphia, PA 19103",
@@ -810,6 +816,9 @@
   },
   {
     "company": "FastFig",
+    "type": [
+      "Startup"
+    ],
     "url": "https://angel.co/fastfig/jobs",
     "webSiteUrl": "https://www.fastfig.com/",
     "address": "Philadelphia, PA",
@@ -1167,6 +1176,9 @@
   },
   {
     "company": "KickUp",
+    "type": [
+      "Startup"
+    ],
     "url": "https://angel.co/kickup-1/jobs",
     "webSiteUrl": "http://kickup.co/",
     "address": "Philadelphia, PA",
@@ -1444,6 +1456,9 @@
   },
   {
     "company": "Moven",
+    "type": [
+      "Startup"
+    ],
     "url": "https://angel.co/moven/jobs",
     "webSiteUrl": "https://www.moven.com/",
     "address": "Philadelphia, PA",
@@ -1474,6 +1489,9 @@
   },
   {
     "company": "My Mobile ED",
+    "type": [
+      "Startup"
+    ],
     "url": "https://angel.co/my-mobile-ed/jobs",
     "webSiteUrl": "http://mymobileed.com/",
     "address": "Philadelphia, PA",
@@ -1548,6 +1566,9 @@
   },
   {
     "company": "New York Code + Design Academy",
+    "type": [
+      "Startup"
+    ],
     "url": "https://angel.co/new-york-code-design-academy-1/jobs",
     "webSiteUrl": "https://nycda.com/",
     "address": "30 South 17th Street, Philadelphia, PA 19103",
@@ -1883,6 +1904,9 @@
   },
   {
     "company": "RegDesk",
+    "type": [
+      "Startup"
+    ],
     "url": "https://angel.co/regdesk/jobs",
     "webSiteUrl": "http://www.regdesk.co/",
     "address": "Philadelphia, PA",
@@ -2246,6 +2270,9 @@
   },
   {
     "company": "Tivipley",
+    "type": [
+      "Startup"
+    ],
     "url": "https://angel.co/tivipley/jobs",
     "webSiteUrl": "http://www.tivipley.com/",
     "address": "2600 w. Legiht Ave., Philadelphia, PA 19100",
