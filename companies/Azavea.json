@@ -9,16 +9,32 @@
   },
   "positions": [
     {
-      "title": "Operations Engineer"
+      "title": "Community Ambassador",
+      "datePosted": "2016-02-16"
     },
     {
-      "title": "Software Engineer - Civic Apps Team"
+      "title": "Operations Engineer",
+      "datePosted": "2016-02-16"
     },
     {
-      "title": "Software Engineer - Geospatial Insights Team"
+      "title": "Project Manager - Data Analytics",
+      "datePosted": "2016-02-16"
     },
     {
-      "title": "Software Engineer - GeoTrellis Team"
+      "title": "Software Engineer - Civic Apps Team",
+      "datePosted": "2016-02-16"
+    },
+    {
+      "title": "Software Engineer - Geospatial Insights Team",
+      "datePosted": "2016-02-16"
+    },
+    {
+      "title": "Software Engineer - GeoTrellis Team",
+      "datePosted": "2016-02-16"
+    },
+    {
+      "title": "UI/UX Designer",
+      "datePosted": "2016-02-16"
     }
   ]
 }
