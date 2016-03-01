@@ -1,0 +1,16 @@
+{
+  "company": "VertMarkets",
+  "url": "http://www.vertmarkets.com/index.php/careers/open-positions",
+  "webSiteUrl": "http://www.vertmarkets.com/",
+  "address": "101 Gibraltar Road, Suite 100, Horsham, PA 19044",
+  "geo": {
+    "latitude": 40.170056,
+    "longitude": -75.13106
+  },
+  "positions": [
+    {
+      "title": "Senior Software Engineer",
+      "datePosted": "2016-02-26"
+    }
+  ]
+}
