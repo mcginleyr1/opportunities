@@ -1,0 +1,16 @@
+{
+  "company": "Tamman Technologies",
+  "url": "https://www.ziprecruiter.com/jobs/tamman-technologies-inc-88a62c17",
+  "webSiteUrl": "http://www.tammantech.com/",
+  "address": "20 North 3rd Street, Suite 301, Philadelphia, PA 19106",
+  "geo": {
+    "latitude": 39.950812,
+    "longitude": -75.145607
+  },
+  "positions": [
+    {
+      "title": "Front-End & Full Stack Developers",
+      "datePosted": "2016-03-14"
+    }
+  ]
+}

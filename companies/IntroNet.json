@@ -1,0 +1,19 @@
+{
+  "company": "IntroNet",
+  "type": [
+    "Startup"
+  ],
+  "url": "https://angel.co/intronet/jobs",
+  "webSiteUrl": "https://secure.intro.net/",
+  "address": "Philadelphia, PA",
+  "geo": {
+    "latitude": 40.07231,
+    "longitude": -75.203371
+  },
+  "positions": [
+    {
+      "title": "Chief Technical Officer",
+      "datePosted": "2016-03-08"
+    }
+  ]
+}

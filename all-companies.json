@@ -1694,10 +1694,12 @@
     },
     "positions": [
       {
-        "title": "DevOps Engineer"
+        "title": "Quantitative Data Analyst",
+        "datePosted": "2016-02-17"
       },
       {
-        "title": "Quality Assurance Coordinator: Bilingual English-Spanish"
+        "title": "Senior Software Engineer",
+        "datePosted": "2016-02-01"
       }
     ]
   },
@@ -1946,6 +1948,25 @@
     "positions": [
       {
         "title": "Senior Web Developer (PHP, MySQL, JS, HTML, CSS)"
+      }
+    ]
+  },
+  {
+    "company": "IntroNet",
+    "type": [
+      "Startup"
+    ],
+    "url": "https://angel.co/intronet/jobs",
+    "webSiteUrl": "https://secure.intro.net/",
+    "address": "Philadelphia, PA",
+    "geo": {
+      "latitude": 40.07231,
+      "longitude": -75.203371
+    },
+    "positions": [
+      {
+        "title": "Chief Technical Officer",
+        "datePosted": "2016-03-08"
       }
     ]
   },
@@ -3085,6 +3106,23 @@
     ]
   },
   {
+    "company": "Pobox",
+    "url": "https://www.pobox.com/jobs",
+    "webSiteUrl": "https://www.pobox.com/",
+    "address": "Philadelphia, PA 19107",
+    "geo": {
+      "latitude": 39.955929,
+      "longitude": -75.157457
+    },
+    "positions": [
+      {
+        "title": "programmer",
+        "datePosted": "2016-03-13",
+        "skills": "Perl 5, Moose, Postfix, DBIx::Class, PostgreSQL, MySQL, Git, Rx Schema, SQLite, Australians, Cyrus, Moonpig, Joyent Triton (Solaris[h]), Chef"
+      }
+    ]
+  },
+  {
     "company": "PromptWorks",
     "url": "http://www.promptworks.com/jobs/",
     "webSiteUrl": "http://www.promptworks.com/",
@@ -3728,6 +3766,22 @@
     ]
   },
   {
+    "company": "Tamman Technologies",
+    "url": "https://www.ziprecruiter.com/jobs/tamman-technologies-inc-88a62c17",
+    "webSiteUrl": "http://www.tammantech.com/",
+    "address": "20 North 3rd Street, Suite 301, Philadelphia, PA 19106",
+    "geo": {
+      "latitude": 39.950812,
+      "longitude": -75.145607
+    },
+    "positions": [
+      {
+        "title": "Front-End & Full Stack Developers",
+        "datePosted": "2016-03-14"
+      }
+    ]
+  },
+  {
     "company": "Technically Media",
     "url": "http://technicallymedia.com/careers",
     "webSiteUrl": "http://technicallymedia.com/",
@@ -3780,6 +3834,9 @@
       "longitude": -75.165716
     },
     "positions": [
+      {
+        "title": "Content Analyst"
+      },
       {
         "title": "Experience Designer - Contractor"
       },
