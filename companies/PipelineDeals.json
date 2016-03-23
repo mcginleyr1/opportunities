@@ -2,21 +2,12 @@
   "company": "PipelineDeals",
   "url": "https://www.pipelinedeals.com/careers",
   "webSiteUrl": "https://www.pipelinedeals.com/",
-  "address": "565 E. Swedesford Road, Suite 206, Wayne, PA 19087",
+  "address": "967 Swedesford Road, Suite 501, Exton, PA 19341",
   "geo": {
-    "latitude": 40.076011027,
-    "longitude": -75.4230364054
+    "latitude": 40.04229,
+    "longitude": -75.581178
   },
   "positions": [
-    {
-      "title": "Senior Product Manager"
-    },
-    {
-      "title": "Customer Engagement Manager"
-    },
-    {
-      "title": "Marketing Coordinator"
-    },
     {
       "title": "Senior Software Engineer"
     },
